@@ -91,7 +91,63 @@ GENRE_CATALOGS = {
     "Documentaries": "documentaries.json",
     "Music": "music.json",
 }
+CHANNEL_STREAM_BLOCKS = {
+    "ABC": {
+        "abc-nsw",
+        "abc-qld",
+        "abc-sa",
+        "abc-me",
+        "abc-tv-plus",
+        "weather_in_90_seconds",
+        "news_in_90_seconds",
+        "business_in_90_seconds",
+        "sport_in_90_seconds",
+        "radio-abc",
+    },
 
+    "CNN": {
+        "cnn_news18",
+        "cnn-news18",
+        "cnnturk",
+        "cnn_turk",
+        "cnnnow-samsungin",
+        "cnnfast",
+    },
+
+    "TNT": {
+        "tnt-novelas",
+        "tnt_novelas",
+        "/arg/tnt",
+        "douyu",
+    },
+
+    "CNBC": {
+        "cnbc_bazaar",
+        "cnbc-bazaar",
+        "cnbc_awaaz",
+        "cnbc-awaaz",
+        "cnbc_tv18",
+        "cnbc-tv18",
+    },
+
+    "BBC News": {
+        "bbc_arabic",
+        "bbc-arabic",
+    },
+
+    "Disney Channel": {
+        "/arg/disney_channel",
+        "/arg/disney-channel",
+    },
+
+    "MTV": {
+        "mtv-lebanon",
+        "mumbai-edge",
+        "marketingregion=de",
+        "mtvridiculousness",
+        "mtv-the-shores",
+    },
+}
 def keep_channel(channel):
     name = channel.get("name", "").strip()
     genres = channel.get("genres", [])
@@ -136,19 +192,37 @@ def format_stream_name(original_name):
 
     return f"☀️ {original_name} Sunroom" if original_name else "🌞 Sunroom"
 
+def should_remove_stream(channel_name, url):
+    """
+    Remove a stream only when its URL contains a known
+    mismatched regional or channel variant.
+    """
 
+    channel_name = (channel_name or "").strip()
+    url_lower = (url or "").lower()
+
+    blocked_patterns = CHANNEL_STREAM_BLOCKS.get(
+        channel_name,
+        set()
+    )
+
+    return any(
+        pattern.lower() in url_lower
+        for pattern in blocked_patterns
+    )
 def format_stream_files(selected_channel_ids):
     channels_with_streams = 0
     channels_without_streams = 0
     streams_formatted = 0
     audio_removed = 0
     duplicates_removed = 0
+    mismatched_streams_removed = 0
 
     if not os.path.isdir(STREAM_FOLDER):
         print(f"Stream folder not found: {STREAM_FOLDER}")
         return
 
-    for channel_id in selected_channel_ids:
+    for channel_id, channel_name in selected_channels.items():
         filename = f"{channel_id}.json"
         filepath = os.path.join(STREAM_FOLDER, filename)
 
@@ -174,7 +248,11 @@ def format_stream_files(selected_channel_ids):
                 original_name = stream.get("name", "").strip()
                 original_description = stream.get("description", "").strip()
                 url = stream.get("url", "").strip()
-
+                
+                # Remove clearly mismatched regional/channel variants
+                if should_remove_stream(channel_name, url):
+                mismatched_streams_removed += 1
+                    continue
                 # Remove audio-only sources
                 if original_name.upper() == "AUDIO":
                     audio_removed += 1
@@ -235,6 +313,7 @@ def format_stream_files(selected_channel_ids):
     print(f"Channels without video streams: {channels_without_streams}")
     print(f"Video streams retained: {streams_formatted}")
     print(f"Audio streams removed: {audio_removed}")
+    print(f"Mismatched streams removed: {mismatched_streams_removed}")
     print(f"Duplicate URLs removed: {duplicates_removed}")
     print("==========================================")
 
