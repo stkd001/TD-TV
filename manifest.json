@@ -2,52 +2,52 @@
   "id": "community.td-tv",
   "version": "2.1.0",
   "catalogs": [
-    {
-      "name": "TD-TV • All Channels",
-      "type": "tv",
-      "id": "all"
-    },
-    {
-      "name": "TD-TV • Local",
-      "type": "tv",
-      "id": "local"
-    },
-    {
-      "name": "TD-TV • News",
-      "type": "tv",
-      "id": "news"
-    },
-    {
-      "name": "TD-TV • Sports",
-      "type": "tv",
-      "id": "sports"
-    },
-    {
-      "name": "TD-TV • Entertainment",
-      "type": "tv",
-      "id": "entertainment"
-    },
-    {
-      "name": "TD-TV • Lifestyle",
-      "type": "tv",
-      "id": "lifestyle"
-    },
-    {
-      "name": "TD-TV • Kids",
-      "type": "tv",
-      "id": "kids"
-    },
-    {
-      "name": "TD-TV • Documentaries",
-      "type": "tv",
-      "id": "documentaries"
-    },
-    {
-      "name": "TD-TV • Music",
-      "type": "tv",
-      "id": "music"
-    }
-  ],
+  {
+    "name": "All Channels",
+    "type": "tv",
+    "id": "all"
+  },
+  {
+    "name": "Local",
+    "type": "tv",
+    "id": "local"
+  },
+  {
+    "name": "News",
+    "type": "tv",
+    "id": "news"
+  },
+  {
+    "name": "Sports",
+    "type": "tv",
+    "id": "sports"
+  },
+  {
+    "name": "Entertainment",
+    "type": "tv",
+    "id": "entertainment"
+  },
+  {
+    "name": "Lifestyle",
+    "type": "tv",
+    "id": "lifestyle"
+  },
+  {
+    "name": "Kids",
+    "type": "tv",
+    "id": "kids"
+  },
+  {
+    "name": "Documentaries",
+    "type": "tv",
+    "id": "documentaries"
+  },
+  {
+    "name": "Music",
+    "type": "tv",
+    "id": "music"
+  }
+],
   "resources": [
     "catalog",
     "stream",
