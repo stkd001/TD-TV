@@ -3,11 +3,6 @@
   "version": "2.1.0",
   "catalogs": [
   {
-    "name": "All Channels",
-    "type": "tv",
-    "id": "all"
-  },
-  {
     "name": "Local",
     "type": "tv",
     "id": "local"
