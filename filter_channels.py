@@ -205,9 +205,9 @@ def stream_score(stream):
         score += 400
     elif "1080" in original_name or "FHD" in original_name:
         score += 300
-    elif "720" in original_name or original_name == "HD":
+    elif "720" in original_name or " HD " in f" {original_name} ":
         score += 200
-    elif "480" in original_name or original_name == "SD":
+    elif "480" in original_name or "SD" in original_name:
         score += 100
     elif "360" in original_name:
         score += 50
@@ -350,15 +350,17 @@ def format_stream_files(selected_channel_ids):
                 reverse=True
             )
 
-            # Record TD-TV's preferred stream for inspection
+            # Show TD-TV's top 3 ranked streams for inspection
             if cleaned_streams:
-                best = cleaned_streams[0]
+                print("")
+                print(f"TOP STREAMS | {channel_name}")
 
-                print(
-                    f"BEST | {channel_name} | "
-                    f"{best.get('name', 'Unknown')} | "
-                    f"Score: {stream_score(best)}"
-                )
+                for rank, stream in enumerate(cleaned_streams[:3], start=1):
+                    print(
+                        f"  #{rank} | "
+                        f"{stream.get('name', 'Unknown')} | "
+                        f"Score: {stream_score(stream)}"
+                    )
 
             data["streams"] = cleaned_streams
             remaining_by_channel[channel_name] = len(cleaned_streams)
