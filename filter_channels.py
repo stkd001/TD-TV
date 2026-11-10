@@ -350,6 +350,16 @@ def format_stream_files(selected_channel_ids):
                 reverse=True
             )
 
+            # Record TD-TV's preferred stream for inspection
+            if cleaned_streams:
+                best = cleaned_streams[0]
+
+                print(
+                    f"BEST | {channel_name} | "
+                    f"{best.get('name', 'Unknown')} | "
+                    f"Score: {stream_score(best)}"
+                )
+
             data["streams"] = cleaned_streams
             remaining_by_channel[channel_name] = len(cleaned_streams)
             
