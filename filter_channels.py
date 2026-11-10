@@ -331,8 +331,6 @@ def clean_streams(selected_channels):
                 reverse=True
             )
 
-            # Keep only the 12 highest-ranked streams
-            cleaned_streams = cleaned_streams[:12]
 
             data["streams"] = cleaned
             remaining[channel_name] = len(cleaned)
