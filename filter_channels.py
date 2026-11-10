@@ -251,7 +251,7 @@ def format_stream_files(selected_channel_ids):
                 
                 # Remove clearly mismatched regional/channel variants
                 if should_remove_stream(channel_name, url):
-                mismatched_streams_removed += 1
+                    mismatched_streams_removed += 1
                     continue
                 # Remove audio-only sources
                 if original_name.upper() == "AUDIO":
