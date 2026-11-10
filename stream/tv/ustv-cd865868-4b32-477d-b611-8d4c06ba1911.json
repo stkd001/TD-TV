@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://bravoohls.wns.live/hls/stream.m3u8",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:BRAVOOHLS"
     },
     {
       "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951242&ads.xumo_streamId=99951242&ads.channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=bcbc6dd1-c448-4b27-abc5-437c8c4e7e70&ads._fw_vcid2=512116:bcbc6dd1-c448-4b27-abc5-437c8c4e7e70&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:D4WHMVWM0RDV"
     }
   ]
 }

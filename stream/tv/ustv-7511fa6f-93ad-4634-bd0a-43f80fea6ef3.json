@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcc42446750e200093b15e2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -30,7 +30,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
@@ -38,7 +38,7 @@
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:23"
     },
     {
       "url": "https://jmp2.uk/plu-5f68f53eb1e5800007390bf8.m3u8",
@@ -46,7 +46,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     }
   ]
 }

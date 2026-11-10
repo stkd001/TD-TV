@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:181"
     },
     {
       "url": "http://190.61.47.54:8000/play/a005/index.m3u8",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:190"
     },
     {
       "url": "https://cdn-5.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CDN-5"
     },
     {
       "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
@@ -30,7 +30,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:85"
     },
     {
       "url": "http://158.172.217.18:8000/play/a02u/index.m3u8",
@@ -38,7 +38,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
       "url": "http://158.172.217.18:8000/play/a0ny/index.m3u8",
@@ -46,7 +46,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
       "url": "http://158.172.217.18:8000/play/a00t/index.m3u8",
@@ -54,7 +54,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:158"
     }
   ]
 }

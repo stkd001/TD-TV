@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CDN-APSE1-PR"
     },
     {
       "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:23"
     }
   ]
 }

@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-US"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8",
@@ -30,7 +30,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
@@ -38,7 +38,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-BOS"
     },
     {
       "url": "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8",
@@ -46,7 +46,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-CHI"
     },
     {
       "url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
@@ -54,7 +54,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-DEN"
     },
     {
       "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
@@ -62,7 +62,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-DAL"
     },
     {
       "url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
@@ -70,7 +70,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-DET"
     },
     {
       "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
@@ -78,7 +78,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-LA"
     },
     {
       "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
@@ -86,7 +86,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-MIA"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8",
@@ -94,7 +94,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8",
@@ -102,7 +102,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8",
@@ -110,7 +110,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
@@ -118,7 +118,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-PIT"
     },
     {
       "url": "https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8",
@@ -126,7 +126,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1b05ea168cc000767ba67.m3u8",
@@ -134,7 +134,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8",
@@ -142,7 +142,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-US-VTT"
     },
     {
       "url": "https://jmp2.uk/plu-5eceb0d4065c240007688ec6.m3u8",
@@ -150,7 +150,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6231e9b7f6deff00074674f4.m3u8",
@@ -158,7 +158,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=",
@@ -166,7 +166,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8",
@@ -174,7 +174,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FdHA193vxQ_WqZNVoC-W5MA%2Fmaster.m3u8&imafw_csid=desktop_web&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -182,7 +182,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://jmp2.uk/stvp-USBA370000104",
@@ -190,7 +190,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-61e82af27027f9000753c6e4.m3u8",
@@ -198,7 +198,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FjeTDC610T-OSPdiWhcl0Pg%2Fmaster.m3u8&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -206,7 +206,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FR2Kw0uvnQIW7fUmOseurzA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -214,7 +214,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8",
@@ -222,7 +222,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8",
@@ -230,7 +230,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-60f75919718aed0007250d7a.m3u8",
@@ -238,7 +238,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8",
@@ -246,7 +246,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8",
@@ -254,7 +254,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8",
@@ -262,7 +262,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8",
@@ -270,7 +270,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8",
@@ -278,7 +278,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-60fb299b79498900070b29e0.m3u8",
@@ -286,7 +286,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8",
@@ -294,7 +294,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8",
@@ -302,7 +302,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8",
@@ -310,7 +310,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6231eb3865be650007f59595.m3u8",
@@ -318,7 +318,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8",
@@ -326,7 +326,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8",
@@ -334,7 +334,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-62310f66d5888f0007534342.m3u8",
@@ -342,7 +342,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8",
@@ -350,7 +350,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8",
@@ -358,7 +358,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6231e909bc960f00075d8e7c.m3u8",
@@ -366,7 +366,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://vvsolutions-server14.in/cbsnews_12/video.m3u8",
@@ -374,7 +374,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:VVSOLUTIONS-"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FSid4xiTQTkCT1SLu6rjUSQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080",
@@ -382,7 +382,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FR2Kw0uvnQIW7fUmOseurzA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -390,7 +390,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FdHA193vxQ_WqZNVoC-W5MA%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=185.217.168.164",
@@ -398,7 +398,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FxnyAMOsfSV2J1b-A3nROFQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal",
@@ -406,7 +406,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fmir-uZYjTu6-8JLMHBTKhQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -414,7 +414,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FTMUt418sQMeu1QtneYJ9ag%2Fmaster.m3u8&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -422,7 +422,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FogzLhRCkRbG3lFHHJwqaNw%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&app_version=0.0.0&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920",
@@ -430,7 +430,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fc0XucO32RNKG8oeQ351a4Q%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -438,7 +438,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FE9CkyheTSKeGiOiICU_JBQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -446,7 +446,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FK_2aA7OVRTacJJli1oSi8w%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0",
@@ -454,7 +454,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FlaLJwH1nS2KQAUQTF8z1Cg%2Fmaster.m3u8&imafw_csid=desktop_web&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080",
@@ -462,7 +462,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fe7mp4YVGS7O_e7rqRNjKow%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&width=1920&app_version=0.0.0&height=1080&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36",
@@ -470,7 +470,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
       "url": "https://live-manifest.production-public.tubi.io/live/41feddbe-795f-4294-bb8c-32fcb26a7d54/playlist.m3u8",
@@ -478,7 +478,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     },
     {
       "url": "http://tvpremiumhd.club/lista-gratuita/green/cbsnews.m3u8",
@@ -486,7 +486,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:TVPREMIUMHD"
     },
     {
       "url": "https://www.cbsnews.com/common/video/dai_prod.m3u8",
@@ -494,7 +494,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CBSNEWS"
     },
     {
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529",
@@ -502,7 +502,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
     },
     {
       "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",
@@ -510,7 +510,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:OTTE"
     },
     {
       "url": "https://jmp2.uk/plu-668c5cb4f01dbe0008dd4082.m3u8",
@@ -518,7 +518,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8",
@@ -526,7 +526,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8",
@@ -534,7 +534,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8?imafw_csid=;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=",
@@ -542,7 +542,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/laLJwH1nS2KQAUQTF8z1Cg/master.m3u8?imafw_csid=;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=",
@@ -550,7 +550,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8?imafw_csid=;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=",
@@ -558,7 +558,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8",
@@ -566,7 +566,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     }
   ]
 }

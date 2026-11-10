@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
       "url": "https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/stvp-USBB3500002FL",
@@ -30,7 +30,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/stvp-USBA300019WF",
@@ -38,7 +38,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     }
   ]
 }

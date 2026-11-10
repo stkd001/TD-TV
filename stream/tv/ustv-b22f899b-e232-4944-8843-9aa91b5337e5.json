@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://jmp2.uk/rok-8abbea29b86a5a5da299c7ef2e288cab.m3u8",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://live-manifest.production-public.tubi.io/live/6e2a5ee3-d2ea-44db-bc14-b4d3e85442c2/playlist.m3u8",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     }
   ]
 }

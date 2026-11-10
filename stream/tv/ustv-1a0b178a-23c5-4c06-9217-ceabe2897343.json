@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CONTENT"
     },
     {
       "url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CONTENT"
     },
     {
       "url": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:ABCNEWS-STRE"
     },
     {
       "url": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
@@ -30,7 +30,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:ABCNEWS-STRE"
     },
     {
       "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
@@ -38,7 +38,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CONTENT"
     },
     {
       "url": "https://amg01438-amg01438c6-vizio-us-10897.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippskgtv-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNDk0OTAwNn0",
@@ -46,7 +46,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMG01438-AMG"
     },
     {
       "url": "https://c.mjh.nz/weather_in_90_seconds",
@@ -54,7 +54,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8",
@@ -62,7 +62,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8",
@@ -70,7 +70,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:D4BQ78O8D5TF"
     },
     {
       "url": "https://amg01438-amg01438c38-vizio-us-10917.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippswtxl-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTA3ODcyNX0",
@@ -78,7 +78,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMG01438-AMG"
     },
     {
       "url": "https://c.mjh.nz/abc-nsw.m3u8",
@@ -86,7 +86,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://c.mjh.nz/abc-qld.m3u8",
@@ -94,7 +94,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://c.mjh.nz/abc-sa.m3u8",
@@ -102,7 +102,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://c.mjh.nz/news_in_90_seconds",
@@ -110,7 +110,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://c.mjh.nz/abc-me.m3u8",
@@ -118,7 +118,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://c.mjh.nz/abc-tv-plus.m3u8",
@@ -126,7 +126,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8",
@@ -134,7 +134,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:TOWNNEWS"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_tropic.m3u8",
@@ -142,7 +142,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://live-manifest.production-public.tubi.io/live/5dbca8cd-ea37-4522-92e3-1a9519821c6e/playlist.m3u8",
@@ -150,7 +150,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     },
     {
       "url": "https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8",
@@ -158,7 +158,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     },
     {
       "url": "https://c.mjh.nz/business_in_90_seconds",
@@ -166,7 +166,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://c.mjh.nz/sport_in_90_seconds",
@@ -174,7 +174,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:C"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8?checkedby:iptvcat.com",
@@ -182,7 +182,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8",
@@ -190,7 +190,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8",
@@ -198,7 +198,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8",
@@ -206,7 +206,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CONTENT"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_newcastle.m3u8",
@@ -214,7 +214,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_brokenhill.m3u8",
@@ -222,7 +222,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_centralcoast.m3u8",
@@ -230,7 +230,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_centralwest.m3u8",
@@ -238,7 +238,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_coffscoast.m3u8",
@@ -246,7 +246,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_illawarra.m3u8",
@@ -254,7 +254,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_midnorthcoast.m3u8",
@@ -262,7 +262,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_newengland.m3u8",
@@ -270,7 +270,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_northcoast.m3u8",
@@ -278,7 +278,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_riverina.m3u8",
@@ -286,7 +286,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_southeastnsw.m3u8",
@@ -294,7 +294,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_upperhunter.m3u8",
@@ -302,7 +302,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_westernplains.m3u8",
@@ -310,7 +310,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-mid-north-coast.m3u8",
@@ -318,7 +318,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_ballarat.m3u8",
@@ -326,7 +326,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_centralvic.m3u8",
@@ -334,7 +334,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_gippsland.m3u8",
@@ -342,7 +342,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_goulburnmurray.m3u8",
@@ -350,7 +350,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_milduraswanhill.m3u8",
@@ -358,7 +358,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_shepparton.m3u8",
@@ -366,7 +366,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_southwestvic.m3u8",
@@ -374,7 +374,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_westernvic.m3u8",
@@ -382,7 +382,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_goldcoast.m3u8",
@@ -390,7 +390,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_capricornia.m3u8",
@@ -398,7 +398,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_farnorth.m3u8",
@@ -406,7 +406,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_northqld.m3u8",
@@ -414,7 +414,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_northwest.m3u8",
@@ -422,7 +422,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_southqld.m3u8",
@@ -430,7 +430,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_sunshine.m3u8",
@@ -438,7 +438,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_westqld.m3u8",
@@ -446,7 +446,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_widebay.m3u8",
@@ -454,7 +454,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_esperance.m3u8",
@@ -462,7 +462,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_goldfields.m3u8",
@@ -470,7 +470,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_greatsouthern.m3u8",
@@ -478,7 +478,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_kimberley.m3u8",
@@ -486,7 +486,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_wheatbelt.m3u8",
@@ -494,7 +494,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_northwestwa.m3u8",
@@ -502,7 +502,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_southwestwa.m3u8",
@@ -510,7 +510,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_northandwest.m3u8",
@@ -518,7 +518,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_riverland.m3u8",
@@ -526,7 +526,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_southeastsa.m3u8",
@@ -534,7 +534,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_eyre.m3u8",
@@ -542,7 +542,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_alicesprings.m3u8",
@@ -550,7 +550,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-local_northtas.m3u8",
@@ -558,7 +558,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-classic.m3u8",
@@ -566,7 +566,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-jazz.m3u8",
@@ -574,7 +574,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-country.m3u8",
@@ -582,7 +582,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-grandstand.m3u8",
@@ -590,7 +590,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-kidslisten.m3u8",
@@ -598,7 +598,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-itinerant_one.m3u8",
@@ -606,7 +606,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-itinerant_two.m3u8",
@@ -614,7 +614,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-itinerant_three.m3u8",
@@ -622,7 +622,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-itinerant_four.m3u8",
@@ -630,7 +630,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-abcsportsync.m3u8",
@@ -638,7 +638,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://i.mjh.nz/.r/radio-abc-abc_afl_rapid.m3u8",
@@ -646,7 +646,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:I"
     },
     {
       "url": "https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8",
@@ -654,7 +654,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AMG01942-AMG"
     },
     {
       "url": "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8",
@@ -662,7 +662,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:PUBADS"
     },
     {
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d&serverSideAds=false&checkedby:iptvcat.com",
@@ -670,7 +670,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:CFD-V4-SERVI"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/69c4e4f9-84fa-43eb-b38e-6d1f9464ca73/playlist.m3u8",
@@ -678,7 +678,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8",
@@ -686,7 +686,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/a53514a7-f2aa-4d34-802e-c2b5594fc0d7/playlist.m3u8",
@@ -694,7 +694,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8",
@@ -702,7 +702,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     },
     {
       "url": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=52b8ba78cc6aa66f187f91e92fe8f52c",
@@ -710,7 +710,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:TVSEN6"
     }
   ]
 }

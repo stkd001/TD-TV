@@ -6,7 +6,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nLN"
     },
     {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=ff8bf6fa-b224-462a-b4c0-f85e3fcc202f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=64d0cf09-50b7-4729-a153-cd6cb08cf340&userId=&serverSideAds=true",
@@ -14,7 +14,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nPTV"
     },
     {
       "url": "https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8",
@@ -22,7 +22,7 @@
         "notWebReady": true
       },
       "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     },
     {
       "url": "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8",
@@ -30,7 +30,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
@@ -38,7 +38,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
@@ -46,7 +46,7 @@
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:138"
     },
     {
       "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
@@ -54,7 +54,7 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:85"
     },
     {
       "url": "http://200.115.120.1:8000/play/ca126/index.m3u8",
@@ -62,7 +62,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:200"
     },
     {
       "url": "http://158.172.217.18:8000/play/a01h/index.m3u8",
@@ -70,7 +70,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
       "url": "http://158.172.217.18:8000/play/a013/index.m3u8",
@@ -78,7 +78,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
       "url": "http://158.172.217.18:8000/play/a014/index.m3u8",
@@ -86,7 +86,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
       "url": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8",
@@ -94,7 +94,7 @@
         "notWebReady": true
       },
       "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV"
+      "description": "🔴 LIVE • TD-TV\nHV:D1JZU95OC8FG"
     }
   ]
 }
