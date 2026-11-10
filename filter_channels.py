@@ -210,13 +210,14 @@ def should_remove_stream(channel_name, url):
         for pattern in blocked_patterns
     )
 def format_stream_files(selected_channel_ids):
-    mismatched_by_channel = {}
     channels_with_streams = 0
     channels_without_streams = 0
     streams_formatted = 0
     audio_removed = 0
     duplicates_removed = 0
     mismatched_streams_removed = 0
+    remaining_by_channel = {}
+    mismatched_by_channel = {}
 
     if not os.path.isdir(STREAM_FOLDER):
         print(f"Stream folder not found: {STREAM_FOLDER}")
@@ -291,7 +292,8 @@ def format_stream_files(selected_channel_ids):
                 streams_formatted += 1
 
             data["streams"] = cleaned_streams
-
+            remaining_by_channel[channel_name] = len(cleaned_streams)
+            
             # Count the channel based on streams remaining
             # after TD-TV cleanup
             if cleaned_streams:
@@ -327,6 +329,12 @@ def format_stream_files(selected_channel_ids):
             mismatched_by_channel.items()
         ):
             print(f"  {channel_name}: {count}")
+            print("")
+            print("Remaining streams for cleaned channels:")
+
+            for channel_name in sorted(CHANNEL_STREAM_BLOCKS):
+                remaining = remaining_by_channel.get(channel_name, 0)
+                print(f"  {channel_name}: {remaining}")
     print(f"Duplicate URLs removed: {duplicates_removed}")
     print("==========================================")
 
