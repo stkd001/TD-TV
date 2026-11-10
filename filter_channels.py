@@ -356,10 +356,15 @@ def format_stream_files(selected_channel_ids):
                 print(f"TOP STREAMS | {channel_name}")
 
                 for rank, stream in enumerate(cleaned_streams[:3], start=1):
+                    description = stream.get("description", "").replace("\n", " | ")
+                    url = stream.get("url", "")
+
                     print(
                         f"  #{rank} | "
                         f"{stream.get('name', 'Unknown')} | "
-                        f"Score: {stream_score(stream)}"
+                        f"Score: {stream_score(stream)} | "
+                        f"{description} | "
+                        f"{url}"
                     )
 
             data["streams"] = cleaned_streams
