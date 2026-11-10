@@ -71,14 +71,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:185"
-    },
-    {
-      "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:45"
     }
   ]
 }

@@ -41,22 +41,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:STREAM"
     },
     {
-      "url": "http://190.93.224.42/TNT-NOVELAS/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:190"
-    },
-    {
-      "url": "https://cdn-5.nxplay.com.br/TNT_NOVELAS/tracks-v2a1/mono.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CDN-5"
-    },
-    {
       "url": "http://181.78.79.131:8000/play/a0na",
       "behaviorHints": {
         "notWebReady": true
@@ -71,22 +55,6 @@
       },
       "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:45"
-    },
-    {
-      "url": "https://www.goodiptv.club/douyu/8936207",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:GOODIPTV"
-    },
-    {
-      "url": "https://live.ottiptv.cc/douyu/8936207",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE"
     },
     {
       "url": "http://209.45.101.130:8040/play/a03s/index.m3u8",
@@ -175,14 +143,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "http://45.134.141.161:2200/ARG/TNT/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:45"
     },
     {
       "url": "http://158.172.155.130:8000/play/a0at/index.m3u8",
