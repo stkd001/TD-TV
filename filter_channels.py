@@ -95,16 +95,26 @@ def format_stream_files():
 
             changed = False
 
-            for stream in streams:
+for stream in streams:
 
-                original_name = stream.get("name", "")
+    original_name = stream.get("name", "")
+    original_description = stream.get("description", "").strip()
 
-                stream["name"] = format_stream_name(original_name)
+    # Format the resolution/name
+    stream["name"] = format_stream_name(original_name)
 
-                stream["description"] = "🔴 LIVE • TD-TV"
+    # Keep the original USA TV Next stream description
+    # and display it beneath TD-TV
+    if original_description:
+        stream["description"] = (
+            f"🔴 LIVE • TD-TV\n"
+            f"{original_description}"
+        )
+    else:
+        stream["description"] = "🔴 LIVE • TD-TV"
 
-                changed = True
-                streams_formatted += 1
+    changed = True
+    streams_formatted += 1
 
             if changed:
                 with open(filepath, "w", encoding="utf-8") as f:
