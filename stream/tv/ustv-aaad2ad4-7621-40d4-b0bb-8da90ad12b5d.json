@@ -25,6 +25,22 @@
       "description": "🔴 LIVE • TD-TV\nXM"
     },
     {
+      "url": "https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
+    },
+    {
+      "url": "http://23.237.104.106:8080/USA_ION/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:23"
+    },
+    {
       "url": "https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -71,22 +87,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:6358C493"
-    },
-    {
-      "url": "https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
-    },
-    {
-      "url": "http://23.237.104.106:8080/USA_ION/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:23"
     }
   ]
 }

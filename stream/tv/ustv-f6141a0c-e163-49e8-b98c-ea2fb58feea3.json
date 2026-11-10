@@ -1,6 +1,30 @@
 {
   "streams": [
     {
+      "url": "https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:DOUMBTMVNSP0"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-US2500008CV",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:D3VMPKKD3O2G"
+    },
+    {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=",
       "behaviorHints": {
         "notWebReady": true
@@ -33,14 +57,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
-      "url": "https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:DOUMBTMVNSP0"
-    },
-    {
       "url": "https://jmp2.uk/plu-666b265722acab000885c6aa.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -57,28 +73,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-US2500008CV",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
       "url": "https://jmp2.uk/stvp-USBC450000130",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://d3vmpkkd3o2grv.cloudfront.net/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:D3VMPKKD3O2G"
     }
   ]
 }

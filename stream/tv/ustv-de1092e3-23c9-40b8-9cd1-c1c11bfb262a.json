@@ -1,54 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nWB"
-    },
-    {
-      "url": "https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3d319d99045811bace569a7cc2885eb3",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:TVSEN6"
-    },
-    {
-      "url": "https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
       "url": "https://jmp2.uk/stvp-CHBD800001D0",
       "behaviorHints": {
         "notWebReady": true
@@ -63,14 +15,6 @@
       },
       "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "http://tvpremiumhd.club/lista-gratuita/green/cnn.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:TVPREMIUMHD"
     },
     {
       "url": "https://jmp2.uk/stvp-GBBD8000016N",
@@ -97,6 +41,70 @@
       "description": "🔴 LIVE • TD-TV\nHV:88"
     },
     {
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nWB"
+    },
+    {
+      "url": "https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3d319d99045811bace569a7cc2885eb3",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:TVSEN6"
+    },
+    {
+      "url": "http://tvpremiumhd.club/lista-gratuita/green/cnn.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:TVPREMIUMHD"
+    },
+    {
+      "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:TVSEN6"
+    },
+    {
+      "url": "https://jmp2.uk/plu-66c45c274f25dd00092739ee.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-5421f71da6af422839419cb3.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-66e0b4536ad04d0008fff4b2.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
       "url": "http://200.115.120.1:8000/play/ca045/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -119,14 +127,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "https://tvsen6.aynaott.com/cnn/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:TVSEN6"
     },
     {
       "url": "https://stream8.cinerama.uz/1259/index.m3u8",

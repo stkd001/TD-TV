@@ -9,28 +9,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:AMCHLS"
     },
     {
-      "url": "https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AMC-AMCPRESE"
-    },
-    {
       "url": "http://141.94.193.53:80/AMC_HD/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:141"
-    },
-    {
-      "url": "https://jmp2.uk/plu-682456eb31bbd3e002d8c06b.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "https://jmp2.uk/stvp-AT3000006M1",
@@ -46,6 +30,22 @@
         "notWebReady": true
       },
       "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AMC-AMCPRESE"
+    },
+    {
+      "url": "https://jmp2.uk/plu-682456eb31bbd3e002d8c06b.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {

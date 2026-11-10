@@ -1,6 +1,38 @@
 {
   "streams": [
     {
+      "url": "http://181.224.255.210:8001/play/a0ol/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:181"
+    },
+    {
+      "url": "http://stream.mcquack.net/443/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
+    },
+    {
+      "url": "https://stream8.cinerama.uz/1500/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:STREAM8"
+    },
+    {
+      "url": "http://185.227.34.104/stream/117/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:185"
+    },
+    {
       "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -15,14 +47,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "http://181.224.255.210:8001/play/a0ol/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:181"
     },
     {
       "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
@@ -71,14 +95,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:92"
-    },
-    {
-      "url": "http://stream.mcquack.net/443/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
     },
     {
       "url": "https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8",
@@ -151,22 +167,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://stream8.cinerama.uz/1500/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM8"
-    },
-    {
-      "url": "http://185.227.34.104/stream/117/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:185"
     }
   ]
 }

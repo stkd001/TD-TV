@@ -1,6 +1,38 @@
 {
   "streams": [
     {
+      "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:CBSN-MIA"
+    },
+    {
+      "url": "https://vvsolutions-server14.in/cbsnews_12/video.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:VVSOLUTIONS-"
+    },
+    {
+      "url": "http://tvpremiumhd.club/lista-gratuita/green/cbsnews.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:TVPREMIUMHD"
+    },
+    {
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
+    },
+    {
       "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -23,14 +55,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:CBSN-US"
-    },
-    {
-      "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-MIA"
     },
     {
       "url": "https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8",
@@ -281,14 +305,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
-      "url": "https://vvsolutions-server14.in/cbsnews_12/video.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:VVSOLUTIONS-"
-    },
-    {
       "url": "https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2FSid4xiTQTkCT1SLu6rjUSQ%2Fmaster.m3u8&imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&ip_addr=185.217.168.164&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080",
       "behaviorHints": {
         "notWebReady": true
@@ -391,22 +407,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
-    },
-    {
-      "url": "http://tvpremiumhd.club/lista-gratuita/green/cbsnews.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:TVPREMIUMHD"
-    },
-    {
-      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
     },
     {
       "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd",

@@ -1,6 +1,62 @@
 {
   "streams": [
     {
+      "url": "https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
+    },
+    {
+      "url": "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
+    },
+    {
+      "url": "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AMG01942-AMG"
+    },
+    {
+      "url": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
+    },
+    {
+      "url": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
+    },
+    {
+      "url": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
+    },
+    {
+      "url": "https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:AMG01942-AMG"
+    },
+    {
       "url": "https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -41,14 +97,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:D4WHMVWM0RDV"
     },
     {
-      "url": "https://aegis-cloudfront-1.tubi.video/54b357b4-bf4b-4356-97b4-b1acb6ab62f7/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
-    },
-    {
       "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951244/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951244&ads.xumo_streamId=99951244&ads.channelId=99951244&ads.asnw=169843&ads.afid=380749282&ads.sfid=19316528&ads.csid=xumo_web_NBCUTNBC_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3941&ads.xumo_contentName=NBCUTNBC&ads.xumo_providerId=3941&ads.xumo_providerName=NBCUTNBC&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=3730e905-041d-433e-a8f6-66d0edd8b054&ads._fw_vcid2=512116:3730e905-041d-433e-a8f6-66d0edd8b054&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=xumo&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
       "behaviorHints": {
         "notWebReady": true
@@ -71,22 +119,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:D1SI3N1ST4NK"
-    },
-    {
-      "url": "https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
-    },
-    {
-      "url": "https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AMG01942-AMG"
     },
     {
       "url": "https://jmp2.uk/stvp-CAAJ2700011IF",
@@ -385,44 +417,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:XUMO-XUMOENT"
     },
     {
-      "url": "https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
-    },
-    {
-      "url": "https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
-    },
-    {
-      "url": "https://aegis-cloudfront-1.tubi.video/5d314174-0110-42af-8811-feaae073ea1e/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
-    },
-    {
       "url": "https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
-    },
-    {
-      "url": "https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AMG01942-AMG"
     },
     {
       "url": "https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8",

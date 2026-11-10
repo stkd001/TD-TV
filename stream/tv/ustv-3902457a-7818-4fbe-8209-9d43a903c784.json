@@ -1,22 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
-    },
-    {
-      "url": "https://live-manifest.production-public.tubi.io/live/7d346182-3c47-4c64-b8d6-cca75b5c8cd7/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
-    },
-    {
       "url": "http://stream.mcquack.net/129/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -31,6 +15,54 @@
       },
       "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:181"
+    },
+    {
+      "url": "http://stream.mcquack.net/182/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
+    },
+    {
+      "url": "https://live-manifest.production-public.tubi.io/live/7d346182-3c47-4c64-b8d6-cca75b5c8cd7/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
+    },
+    {
+      "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:TOWNNEWS"
+    },
+    {
+      "url": "http://200.115.120.1:8000/play/ca041/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:200"
+    },
+    {
+      "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:LIVE"
+    },
+    {
+      "url": "https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
     },
     {
       "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
@@ -65,44 +97,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
-      "url": "http://stream.mcquack.net/182/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
-    },
-    {
-      "url": "https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:TOWNNEWS"
-    },
-    {
-      "url": "http://200.115.120.1:8000/play/ca041/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:200"
-    },
-    {
       "url": "https://stream.onecloudlive.in/foxtv/foxtv/index.m3u8?origin=github.com/amazeyourself",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:STREAM"
-    },
-    {
-      "url": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE"
     },
     {
       "url": "https://tvsen6.aynaott.com/fox5/index.m3u8?e=1784102545&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=664911dcae498c56f125594ce7372f6f",

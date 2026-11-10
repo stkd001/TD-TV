@@ -1,54 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=b7baa1ea-53a1-42c1-8b4d-e5dd7b9de82a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=58a0c168-9c27-482b-a8f5-4c6739023f0a&userId=&serverSideAds=true",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nPTV"
-    },
-    {
-      "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
-    },
-    {
-      "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
-    },
-    {
-      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
-    },
-    {
-      "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
-    },
-    {
-      "url": "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
       "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=bb126982-cfad-4575-969e-cb7a8a94298f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
       "behaviorHints": {
         "notWebReady": true
@@ -102,46 +54,6 @@
         "notWebReady": true
       },
       "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -207,6 +119,94 @@
       },
       "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:23"
+    },
+    {
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=b7baa1ea-53a1-42c1-8b4d-e5dd7b9de82a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=58a0c168-9c27-482b-a8f5-4c6739023f0a&userId=&serverSideAds=true",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nPTV"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
+    },
+    {
+      "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:BLOOMBERG"
+    },
+    {
+      "url": "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-61de8d4b8acf6c0007f1c2f3.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-61de8fa251cca800076dde41.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-61de991729cd4a00079f812b.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
       "url": "http://213.91.179.28:8000/play/a04m",
