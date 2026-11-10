@@ -3,14 +3,12 @@ import os
 
 # Channel categories Tyler wants to keep
 ALLOWED_GENRES = {
-    "Local",
     "News",
     "Sports",
     "Entertainment",
     "Lifestyle",
     "Kids",
-    "Documentaries",
-    "Music"
+    "Documentaries"
 }
 
 # Individual channels to remove
