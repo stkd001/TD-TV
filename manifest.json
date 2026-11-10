@@ -3,11 +3,6 @@
   "version": "2.1.0",
   "catalogs": [
   {
-    "name": "Local",
-    "type": "tv",
-    "id": "local"
-  },
-  {
     "name": "News",
     "type": "tv",
     "id": "news"
@@ -37,11 +32,7 @@
     "type": "tv",
     "id": "documentaries"
   },
-  {
-    "name": "Music",
-    "type": "tv",
-    "id": "music"
-  }
+
 ],
   "resources": [
     "catalog",
