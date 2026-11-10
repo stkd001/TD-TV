@@ -190,6 +190,59 @@ def format_stream_name(original_name):
         return "☀️ 240P Sunroom"
 
     return f"☀️ {original_name} Sunroom" if original_name else "🌞 Sunroom"
+    
+def stream_score(stream):
+    """
+    Score streams so TD-TV can rank the most desirable
+    stream first without removing alternatives.
+    """
+    score = 0
+
+    original_name = str(stream.get("name", "")).upper()
+
+    # Resolution
+    if "4K" in original_name or "2160" in original_name or "UHD" in original_name:
+        score += 400
+    elif "1080" in original_name or "FHD" in original_name:
+        score += 300
+    elif "720" in original_name or original_name == "HD":
+        score += 200
+    elif "480" in original_name or original_name == "SD":
+        score += 100
+    elif "360" in original_name:
+        score += 50
+    elif "240" in original_name:
+        score += 25
+
+    # FPS, if upstream provides it
+    try:
+        fps = float(stream.get("fps", 0) or 0)
+
+        if fps >= 60:
+            score += 40
+        elif fps >= 50:
+            score += 30
+        elif fps >= 30:
+            score += 20
+    except (ValueError, TypeError):
+        pass
+
+    # Bitrate, if upstream provides it
+    try:
+        bitrate = float(stream.get("bitrate", 0) or 0)
+
+        if bitrate >= 8_000_000:
+            score += 40
+        elif bitrate >= 5_000_000:
+            score += 30
+        elif bitrate >= 3_000_000:
+            score += 20
+        elif bitrate >= 1_000_000:
+            score += 10
+    except (ValueError, TypeError):
+        pass
+
+    return score
 
 def should_remove_stream(channel_name, url):
     """
@@ -290,6 +343,12 @@ def format_stream_files(selected_channel_ids):
 
                 cleaned_streams.append(stream)
                 streams_formatted += 1
+
+            # Rank best-quality streams first
+            cleaned_streams.sort(
+                key=stream_score,
+                reverse=True
+            )
 
             data["streams"] = cleaned_streams
             remaining_by_channel[channel_name] = len(cleaned_streams)
