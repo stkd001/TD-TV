@@ -394,10 +394,10 @@ print(f"Removed channels: {original_count - new_count}")
 # Format TD-TV streams
 # -----------------------------
 
-selected_channel_ids = {
-    channel.get("id")
+selected_channels = {
+    channel.get("id"): channel.get("name", "").strip()
     for channel in catalog["metas"]
     if channel.get("id")
 }
 
-format_stream_files(selected_channel_ids)
+format_stream_files(selected_channels)
