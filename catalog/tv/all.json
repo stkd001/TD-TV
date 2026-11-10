@@ -2392,22 +2392,6 @@
       ]
     },
     {
-      "id": "ustv-687ec2f8-0593-4a29-813d-1e5ae14edcf5",
-      "tvgId": "",
-      "name": "C-SPAN 1",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "News",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/c-span-1-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/c-span-1-us.png",
-      "genres": [
-        "News"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-4f96f3dd-cbad-46ec-827d-3f607d0b0321",
       "tvgId": "",
       "name": "CNBC",
@@ -3123,22 +3107,6 @@
       ]
     },
     {
-      "id": "ustv-17c92d44-25c9-4461-a964-c6f098dc3b35",
-      "tvgId": "",
-      "name": "Altitude Sports",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/altitude-sports-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/altitude-sports-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a",
       "tvgId": null,
       "name": "beIN Sports XTRA ",
@@ -3263,22 +3231,6 @@
       "time": null,
       "type": "tv",
       "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cbs-sports-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-a7fa35a3-7f6c-4005-8b10-f9788f9dc5c4",
-      "tvgId": "",
-      "name": "Chicago Sports Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/chicago-sports-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/chicago-sports-network-us.png",
       "genres": [
         "Sports"
       ],
@@ -3527,22 +3479,6 @@
       "streams": []
     },
     {
-      "id": "ustv-b170b018-4a32-4d7e-adc8-d398fb2728b1",
-      "tvgId": "",
-      "name": "FanDuel Florida",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-florida-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-florida-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-338a5ad6-a8f7-48ea-891b-f99aac2af8d5",
       "tvgId": "",
       "name": "FanDuel Great Lakes",
@@ -3553,150 +3489,6 @@
       "time": null,
       "type": "tv",
       "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-great-lakes-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-f417b011-04a1-4550-938f-a01a41c9081b",
-      "tvgId": "",
-      "name": "FanDuel Indiana",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-indiana-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-indiana-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-4b491567-e3d2-4bfa-86d3-ff66a9bc1733",
-      "tvgId": "",
-      "name": "FanDuel North",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-north-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-north-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-b618f030-f60c-40e1-8921-eddd01d472aa",
-      "tvgId": "",
-      "name": "FanDuel Ohio",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-ohio-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-ohio-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-73a47e8e-4255-4d64-8c53-9dee29f549aa",
-      "tvgId": "",
-      "name": "FanDuel Oklahoma",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-oklahoma-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-oklahoma-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-89cd83e7-7a65-4230-b47a-2cd7059180ce",
-      "tvgId": "",
-      "name": "FanDuel SoCal",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-socal-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-socal-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-aa3a4de8-47c0-4555-8a00-56900526861a",
-      "tvgId": "",
-      "name": "FanDuel South",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-south-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-south-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-72dd7fb6-bbfc-4516-9d11-4da9ab465967",
-      "tvgId": "",
-      "name": "FanDuel Southeast",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-southeast-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-southeast-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-feca898f-bb29-4d16-862c-22679a6d8bac",
-      "tvgId": "",
-      "name": "FanDuel Sun",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-sun-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-sun-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-e3491658-9784-448c-962e-f94f644d4d89",
-      "tvgId": "",
-      "name": "FanDuel Wisconsin",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fanduel-wisconsin-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fanduel-wisconsin-us.png",
       "genres": [
         "Sports"
       ],
@@ -3832,22 +3624,6 @@
       "streams": []
     },
     {
-      "id": "ustv-e8b03c04-555a-4137-83f2-ff65522c36de",
-      "tvgId": "",
-      "name": "Gol TV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/gol-tv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/gol-tv-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-925c7519-b24b-4075-b1d2-84d45bd3dcf0",
       "tvgId": "",
       "name": "Golf Channel",
@@ -3881,39 +3657,6 @@
       ]
     },
     {
-      "id": "ustv-87c6ef8e-58eb-41d9-b636-6936a65b8033",
-      "tvgId": "",
-      "name": "Marquee Sports Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/marquee-sports-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/marquee-sports-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8?e=1784102523&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=93bce8c31c0b8ab66f85c4aa716baae0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:TVSEN6"
-        }
-      ]
-    },
-    {
       "id": "ustv-b5e845d0-a157-4cab-9e1f-8917064067ec",
       "tvgId": "",
       "name": "MLB Network",
@@ -3928,39 +3671,6 @@
         "Sports"
       ],
       "streams": []
-    },
-    {
-      "id": "ustv-27781814-d39d-4913-bcd1-58e7e1da4a0d",
-      "tvgId": "",
-      "name": "MSG",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/msg-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msg-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:WURLRAINBOWM"
-        },
-        {
-          "url": "https://d2a31kzot4f8t3.cloudfront.net/v1/amc_msgsportszone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:D2A31KZOT4F8"
-        }
-      ]
     },
     {
       "id": "ustv-1b42e46c-90f5-430f-8cca-78717302ad15",
@@ -3986,86 +3696,6 @@
           "description": "HV:23"
         }
       ]
-    },
-    {
-      "id": "ustv-05bb54a8-395c-4c03-ab4e-30fef9e0a532",
-      "tvgId": "",
-      "name": "NBC Sports Bay Area",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nbc-sports-bay-area-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-bay-area-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-cf43e372-261c-4fb9-8ca0-819586bbd944",
-      "tvgId": "",
-      "name": "NBC Sports Boston",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nbc-sports-boston-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-boston-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-a59579be-1483-4ed2-bc61-f67d736c1080",
-      "tvgId": "",
-      "name": "NBC Sports California",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nbc-sports-california-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-california-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-b2d3d015-d6b5-4bfe-9f64-b00a6636ef5e",
-      "tvgId": "",
-      "name": "NBC Sports Philadelphia",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nbc-sports-philadelphia-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nbc-sports-philadelphia-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-928b8fbc-84ec-404e-a4a6-e05bcc74203d",
-      "tvgId": "",
-      "name": "NESN",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/nesn-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/nesn-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9",
@@ -4141,22 +3771,6 @@
       "streams": []
     },
     {
-      "id": "ustv-5a100578-58ff-4adb-86b0-0efb6de977c1",
-      "tvgId": "",
-      "name": "Racer Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/racer-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/racer-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f",
       "tvgId": "",
       "name": "SEC Network",
@@ -4180,54 +3794,6 @@
           "description": "HV:23"
         }
       ]
-    },
-    {
-      "id": "ustv-af5fde41-f852-49eb-88a2-8dccd97f0a2c",
-      "tvgId": null,
-      "name": "Spectrum SportsNet",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/spectrum-sportsnet-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/spectrum-sportsnet-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-e44e18a9-3e8c-4a89-8561-54c3e672f25f",
-      "tvgId": "",
-      "name": "Spectrum SportsNet LA",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/spectrum-sportsnet-la-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/spectrum-sportsnet-la-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-11e39cd9-89df-49d3-922e-b984ac4667a6",
-      "tvgId": "",
-      "name": "SportsNet New York",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sportsnet-new-york-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sportsnet-new-york-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-6e46064a-6d5c-4e5c-bfec-c90e9f67230a",
@@ -4347,31 +3913,6 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
-        }
-      ]
-    },
-    {
-      "id": "ustv-b5898650-1c8f-49c2-92af-f632b2c8b751",
-      "tvgId": "",
-      "name": "YES Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/yes-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/yes-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:23"
         }
       ]
     },
@@ -4666,47 +4207,6 @@
       ]
     },
     {
-      "id": "ustv-578b4472-2fb6-4282-ae0c-7e5c67a4a647",
-      "tvgId": null,
-      "name": "Bounce",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bounce-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bounce-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://live-manifest.production-public.tubi.io/live/80fc3952-4bca-490f-8819-96d1427a992c/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:LIVE-MANIFES"
-        },
-        {
-          "url": "http://23.237.104.106:8080/USA_BOUNCE/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:23"
-        }
-      ]
-    },
-    {
       "id": "ustv-cd865868-4b32-477d-b611-8d4c06ba1911",
       "tvgId": "",
       "name": "Bravo",
@@ -4744,63 +4244,6 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
-        }
-      ]
-    },
-    {
-      "id": "ustv-6ef7f0e8-ff2a-4df3-9069-db53ace915a1",
-      "tvgId": null,
-      "name": "Buzzr",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/buzzr-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/buzzr-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:CDN-UW2-PROD"
-        },
-        {
-          "url": "http://23.237.104.106:8080/USA_BUZZR/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:23"
-        },
-        {
-          "url": "https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/rok-562baf35c5da56cc91cdea41537b43f9.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://live-manifest.production-public.tubi.io/live/fbd43d6e-6370-4220-9ec8-3e435b5b574b/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:LIVE-MANIFES"
         }
       ]
     },
@@ -4967,31 +4410,6 @@
       ]
     },
     {
-      "id": "ustv-0887f9e1-fb04-42a6-a0d3-e634f64284ac",
-      "tvgId": null,
-      "name": "Comedy TV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/comedy-tv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/comedy-tv-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:EC613694EE50"
-        }
-      ]
-    },
-    {
       "id": "ustv-65dacef4-2e0a-4a86-9963-21870425c42b",
       "tvgId": "",
       "name": "E! Entertainment Television",
@@ -5122,38 +4540,6 @@
       "streams": []
     },
     {
-      "id": "ustv-10e7eb8b-7d12-4d6c-94b3-a2d94fe9b828",
-      "tvgId": null,
-      "name": "Hallmark Family",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hallmark-family-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hallmark-family-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-126c1af6-b39c-4d79-8ba9-e50857f08772",
-      "tvgId": "",
-      "name": "Hallmark Mystery",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hallmark-mystery-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hallmark-mystery-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507",
       "tvgId": "",
       "name": "IFC",
@@ -5260,47 +4646,6 @@
       ]
     },
     {
-      "id": "ustv-9a8ddcee-5501-4c36-abc3-faa9bab9d081",
-      "tvgId": null,
-      "name": "Ion Mystery",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/ion-mystery-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ion-mystery-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://aegis-cloudfront-1.tubi.video/3b6afc3b-97f7-4f22-99f4-7bcff60fc39d/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:AEGIS-CLOUDF"
-        },
-        {
-          "url": "https://bdd9b4ef.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSU9OTXlzdGVyeV9ITFM/playlist.m3u8?ads.wurl_channel=1206&ads.wurl_name=IONMystery&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mzc4ODM2ODI3MX0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:BDD9B4EF"
-        },
-        {
-          "url": "https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:LIVE-MANIFES"
-        }
-      ]
-    },
-    {
       "id": "ustv-0443cb15-4abc-4f1a-9f6f-11ec690f281e",
       "tvgId": "",
       "name": "Lifetime",
@@ -5348,22 +4693,6 @@
           "description": "HV:F76AA9AD"
         }
       ]
-    },
-    {
-      "id": "ustv-7a1ff7dc-27ec-4028-82ae-7999aea0bb66",
-      "tvgId": "",
-      "name": "Lifetime Movie Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/lifetime-movie-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/lifetime-movie-network-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-9d9eb550-5dde-49d8-8b28-1bb725c6eac3",
@@ -5936,55 +5265,6 @@
       ]
     },
     {
-      "id": "ustv-ca653ee3-196b-4c32-b204-dd0d4849deea",
-      "tvgId": "",
-      "name": "TV One",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tv-one-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tv-one-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951299/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951299&ads.xumo_streamId=99951299&ads.channelId=99951299&ads.channelName=TVOneCRIMEJUSTICEFASTCHANNEL&ads.caid=TVOneCRIMEJUSTICEFASTCHANNEL&ads.csid=xumo_web_TVOneCRIMEJUSTICEFASTCHANNEL_ssai&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_coppa=0&ads.xumo_contentId=4024&ads.xumo_contentName=TVOneCRIMEJUSTICEFASTCHANNEL&ads.xumo_providerId=4024&ads.xumo_providerName=TVOneCRIMEJUSTICEFASTCHANNEL&ads.asnw=&ads.xumo_channelName=TVOneCRIMEJUSTICEFASTCHANNEL&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=74bfa86f-1b6f-439b-a862-aed466d2af45&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:DBRB49PJOYMG"
-        },
-        {
-          "url": "https://aegis-cloudfront-1.tubi.video/66353608-b293-407b-9e79-d69ba8b17594/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:AEGIS-CLOUDF"
-        },
-        {
-          "url": "https://live-manifest.production-public.tubi.io/live/e584c8c3-a4c4-4281-afd7-999492abcc23/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:LIVE-MANIFES"
-        },
-        {
-          "url": "https://live-manifest.production-public.tubi.io/live/826e59ea-a6bd-4d13-923e-eee7e8f2f938/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:LIVE-MANIFES"
-        }
-      ]
-    },
-    {
       "id": "ustv-e05984d6-82d8-4b9a-8955-6462b58e9241",
       "tvgId": "",
       "name": "USA Network",
@@ -6006,162 +5286,6 @@
           },
           "name": "FHD",
           "description": "HV:138"
-        }
-      ]
-    },
-    {
-      "id": "ustv-1e187ee1-e68a-469a-8588-8b08c0fc89a8",
-      "tvgId": "",
-      "name": "Vice TV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/vice-tv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/vice-tv-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:VICETV-VICEF"
-        },
-        {
-          "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:23"
-        }
-      ]
-    },
-    {
-      "id": "ustv-23117923-f2cb-4297-bbab-df386bc7ac61",
-      "tvgId": "",
-      "name": "We TV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/we-tv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/we-tv-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": [
-        {
-          "url": "http://23.237.104.106:8080/USA_WE_TV/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:23"
-        }
-      ]
-    },
-    {
-      "id": "ustv-deb78ced-e347-4c56-b029-f42298fe9920",
-      "tvgId": null,
-      "name": "AWE",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/awe-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/awe-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": [
-        {
-          "url": "https://aweencore-vizio.amagi.tv/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:AWEENCORE-VI"
-        },
-        {
-          "url": "https://aweencore-tcl.amagi.tv/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:AWEENCORE-TC"
-        },
-        {
-          "url": "https://2-fss-2.streamhoster.com/pl_120/206858-4404552-1/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:2-FSS-2"
-        },
-        {
-          "url": "https://amg00450-amg00450c4-rlaxx-gb-7704.playouts.now.amagi.tv/playlist/amg00450-herringnetworkfast-aweplus-rlaxxgb/playlist.m3u8?tag_id=129382&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0409&content_producer_name=AmagiConnect_HerringNetwork_AWEPlus&content_categories=IAB10-2%2CIAB20%2CIAB2-13&content_custom_1_param=Amagi&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&sid=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:AMG00450-AMG"
-        },
-        {
-          "url": "https://streams2.sofast.tv/ptnr-khabriya/title-AWEPlus_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7122edd2-f7d3-40df-a08b-0393a37bc589/playlist.m3u8?ads.app_storeid=com.neotv.app&ads.app_storeurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.neotv.app&ads.app_name=NeoTV+&ads.language=EN&ads.inapp_browser=inapp&ads.w=1080&ads.h=720&ads.os_code=2&ads.device_type_code=3&ads.us_privacy=1NYN&ads.coppa=0&ads.lmt=0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:STREAMS2"
-        },
-        {
-          "url": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:A-CDN"
-        },
-        {
-          "url": "https://amg00450-amg00450c4-tcl-us-3992.playouts.now.amagi.tv/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:AMG00450-AMG"
-        }
-      ]
-    },
-    {
-      "id": "ustv-962e4ffa-3feb-480a-9e2f-086101f34d8e",
-      "tvgId": null,
-      "name": "BET Her",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bet-her-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bet-her-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": [
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=175&terminate=false&userId=",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:SERVICE-STIT"
         }
       ]
     },
@@ -6214,22 +5338,6 @@
           "description": "HV:23"
         }
       ]
-    },
-    {
-      "id": "ustv-652e0700-d2c2-41b9-8e22-46a1e1ed9ea7",
-      "tvgId": "",
-      "name": "Discovery Life",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/discovery-life-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-life-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413",
@@ -6305,22 +5413,6 @@
       ]
     },
     {
-      "id": "ustv-6eec683c-03c1-4044-b4a6-adbc130ca543",
-      "tvgId": "",
-      "name": "FYI",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fyi-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fyi-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-c929c60f-9dc1-415a-8a7e-cc34256b2c87",
       "tvgId": "",
       "name": "HGTV",
@@ -6374,55 +5466,6 @@
           },
           "name": "HD",
           "description": "HV:200"
-        }
-      ]
-    },
-    {
-      "id": "ustv-c57b8324-9749-46ee-ba76-1b2c90983c05",
-      "tvgId": "",
-      "name": "Oprah Winfrey Network (OWN)",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/oprah-winfrey-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/oprah-winfrey-network-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-a8f8f597-c89f-4fb7-9e8e-f773560b5cda",
-      "tvgId": null,
-      "name": "Outdoor Channel",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Lifestyle",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/outdoor-channel-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/outdoor-channel-us.png",
-      "genres": [
-        "Lifestyle"
-      ],
-      "streams": [
-        {
-          "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:CDN-APSE1-PR"
-        },
-        {
-          "url": "http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:23"
         }
       ]
     },
@@ -7189,87 +6232,6 @@
           "description": "HV:LIVESTREAM"
         }
       ]
-    },
-    {
-      "id": "ustv-adad5e7b-a45e-4f9a-bcfe-4a7445c2468e",
-      "tvgId": "",
-      "name": "TeenNick",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/teennick-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/teennick-us.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": [
-        {
-          "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:SERVICE-STIT"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-ATAJ700004UZ",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-CHAJ700004GX",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-DEAJ700004BT",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        }
-      ]
-    },
-    {
-      "id": "ustv-992a0e3f-3b94-428a-951b-d91e33c1b7bc",
-      "tvgId": null,
-      "name": "Toonami Aftermath (East)",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/toonami-aftermath.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/toonami-aftermath.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-c0424f2d-a2d1-4d65-9843-26e913cd0f9f",
-      "tvgId": "",
-      "name": "Universal Kids",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/universal-kids-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/universal-kids-us.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1",
