@@ -41,6 +41,14 @@
       "description": "🔴 LIVE • TD-TV\nHV:D4BQ78O8D5TF"
     },
     {
+      "url": "https://c.mjh.nz/abc-me.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:C"
+    },
+    {
       "url": "https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8",
       "behaviorHints": {
         "notWebReady": true
