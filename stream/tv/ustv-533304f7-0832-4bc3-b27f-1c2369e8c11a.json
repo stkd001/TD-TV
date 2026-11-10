@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     },
     {
@@ -21,23 +21,15 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CDN-UE1-PROD"
     },
     {
       "url": "https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0690efb6-aa43-44a6-94a2-cfcf4c533aa0/manifest.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:STREAMS2"
     },
     {
@@ -45,7 +37,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DC1644A9JAZG"
     },
     {
@@ -53,7 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:BEIN-XTRA-BE"
     },
     {
@@ -61,7 +53,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMG01334-BEI"
     }
   ]

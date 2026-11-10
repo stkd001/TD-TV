@@ -45,7 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -109,7 +109,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -117,7 +117,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -125,7 +125,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -133,7 +133,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -141,7 +141,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -201,14 +201,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
-      "url": "https://live-manifest.production-public.tubi.io/live/083318f5-9f96-4a49-a024-591cf14bdb33/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
-    },
-    {
       "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -221,7 +213,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:213"
     },
     {
@@ -229,7 +221,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:TVSEN6"
     }
   ]

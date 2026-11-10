@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DBRB49PJOYMG"
     },
     {
@@ -29,16 +29,8 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://live-manifest.production-public.tubi.io/live/a0044921-4b6f-4e55-bf67-d51471db8b3f/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     }
   ]
 }

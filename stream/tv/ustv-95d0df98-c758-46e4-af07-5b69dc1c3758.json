@@ -5,7 +5,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
@@ -13,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:SERVICE-STIT"
     },
     {
@@ -21,64 +21,8 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:CBSN-US"
-    },
-    {
-      "url": "https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:DAI"
-    },
-    {
-      "url": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-BOS"
-    },
-    {
-      "url": "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-CHI"
-    },
-    {
-      "url": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-DEN"
-    },
-    {
-      "url": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-DAL"
-    },
-    {
-      "url": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-DET"
-    },
-    {
-      "url": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-LA"
     },
     {
       "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
@@ -89,43 +33,11 @@
       "description": "🔴 LIVE • TD-TV\nHV:CBSN-MIA"
     },
     {
-      "url": "https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:DAI"
-    },
-    {
-      "url": "http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:DAI"
-    },
-    {
-      "url": "https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:DAI"
-    },
-    {
-      "url": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSN-PIT"
-    },
-    {
       "url": "https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -133,7 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -141,7 +53,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:CBSN-US-VTT"
     },
     {
@@ -149,7 +61,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -157,7 +69,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -165,7 +77,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
@@ -173,7 +85,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -181,7 +93,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -189,7 +101,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -197,7 +109,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -205,7 +117,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -213,7 +125,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -221,7 +133,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -229,7 +141,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -237,7 +149,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -245,7 +157,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -253,7 +165,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -261,7 +173,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -269,7 +181,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -277,7 +189,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -285,7 +197,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -293,7 +205,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -301,7 +213,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -309,7 +221,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -317,7 +229,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -325,7 +237,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -333,7 +245,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -341,7 +253,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -349,7 +261,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -357,7 +269,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -365,7 +277,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -381,7 +293,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -389,7 +301,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -397,7 +309,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -405,7 +317,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -413,7 +325,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -421,7 +333,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -429,7 +341,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -437,7 +349,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -445,7 +357,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -453,7 +365,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -461,7 +373,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -469,7 +381,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AMD-MEDIATOR"
     },
     {
@@ -477,7 +389,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     },
     {
@@ -487,14 +399,6 @@
       },
       "name": "☀️ 720P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:TVPREMIUMHD"
-    },
-    {
-      "url": "https://www.cbsnews.com/common/video/dai_prod.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CBSNEWS"
     },
     {
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5529",
@@ -509,7 +413,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:OTTE"
     },
     {
@@ -517,7 +421,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -525,7 +429,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -533,7 +437,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -541,7 +445,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
@@ -549,7 +453,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
@@ -557,7 +461,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DAI"
     },
     {
@@ -565,7 +469,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:AEGIS-CLOUDF"
     }
   ]

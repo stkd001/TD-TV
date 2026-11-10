@@ -1,27 +1,11 @@
 {
   "streams": [
     {
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CDN-UW2-PROD"
-    },
-    {
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CDN-UE1-PROD"
-    },
-    {
       "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -29,7 +13,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -37,7 +21,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -45,7 +29,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -53,7 +37,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -61,23 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-ATBA2200008XN",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-CHBA22000080G",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
@@ -85,7 +53,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     }
   ]

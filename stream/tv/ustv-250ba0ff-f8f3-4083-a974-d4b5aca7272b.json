@@ -13,16 +13,8 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:190"
-    },
-    {
-      "url": "https://cdn-5.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ Audio Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:CDN-5"
     },
     {
       "url": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
@@ -37,7 +29,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
@@ -53,7 +45,7 @@
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 480P Sunroom",
+      "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:158"
     }
   ]
