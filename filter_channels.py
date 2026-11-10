@@ -80,14 +80,12 @@ STREAM_FOLDER = "stream/tv"
 CATALOG_FOLDER = "catalog/tv"
 
 GENRE_CATALOGS = {
-    "Local": "local.json",
     "News": "news.json",
     "Sports": "sports.json",
     "Entertainment": "entertainment.json",
     "Lifestyle": "lifestyle.json",
     "Kids": "kids.json",
     "Documentaries": "documentaries.json",
-    "Music": "music.json",
 }
 CHANNEL_STREAM_BLOCKS = {
     "ABC": {
