@@ -211,6 +211,7 @@ def should_remove_stream(channel_name, url):
         for pattern in blocked_patterns
     )
 def format_stream_files(selected_channel_ids):
+    mismatched_by_channel = {}
     channels_with_streams = 0
     channels_without_streams = 0
     streams_formatted = 0
@@ -252,6 +253,11 @@ def format_stream_files(selected_channel_ids):
                 # Remove clearly mismatched regional/channel variants
                 if should_remove_stream(channel_name, url):
                     mismatched_streams_removed += 1
+
+                    mismatched_by_channel[channel_name] = (
+                        mismatched_by_channel.get(channel_name, 0) + 1
+                    )
+
                     continue
                 # Remove audio-only sources
                 if original_name.upper() == "AUDIO":
@@ -314,6 +320,14 @@ def format_stream_files(selected_channel_ids):
     print(f"Video streams retained: {streams_formatted}")
     print(f"Audio streams removed: {audio_removed}")
     print(f"Mismatched streams removed: {mismatched_streams_removed}")
+    if mismatched_by_channel:
+        print("")
+        print("Mismatched streams removed by channel:")
+
+        for channel_name, count in sorted(
+            mismatched_by_channel.items()
+        ):
+            print(f"  {channel_name}: {count}")
     print(f"Duplicate URLs removed: {duplicates_removed}")
     print("==========================================")
 
