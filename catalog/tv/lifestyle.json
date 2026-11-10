@@ -1,0 +1,306 @@
+{
+  "metas": [
+    {
+      "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a",
+      "tvgId": "",
+      "name": "Cooking Channel",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cooking-channel-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cooking-channel-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
+      "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe",
+      "tvgId": "",
+      "name": "Destination America",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/destination-america-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/destination-america-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
+      "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413",
+      "tvgId": "",
+      "name": "Food Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/food-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/food-network-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAMING"
+        },
+        {
+          "url": "http://stream.mcquack.net/298/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAM"
+        },
+        {
+          "url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:168"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        },
+        {
+          "url": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:88"
+        },
+        {
+          "url": "http://200.115.120.1:8000/play/ca032/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:200"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1784102622&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=dabd0667017770543635be4bb1f63c22",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN6"
+        }
+      ]
+    },
+    {
+      "id": "ustv-c929c60f-9dc1-415a-8a7e-cc34256b2c87",
+      "tvgId": "",
+      "name": "HGTV",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hgtv-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hgtv-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAMING"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0ym/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://38.87.224.19:2220/play/a01p/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:88"
+        },
+        {
+          "url": "http://200.115.120.1:8000/play/ca61/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:200"
+        }
+      ]
+    },
+    {
+      "id": "ustv-eebb1fb1-3c8a-4304-a347-6a28ee7dcf09",
+      "tvgId": "",
+      "name": "TLC",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/tlc-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/tlc-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://181.119.215.61:8000/play/a0hh/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://stream.mcquack.net/168/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAM"
+        },
+        {
+          "url": "http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:88"
+        },
+        {
+          "url": "http://200.115.120.1:8000/play/ca058/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:200"
+        },
+        {
+          "url": "http://158.172.217.18:8000/play/a010/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:158"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN6"
+        }
+      ]
+    },
+    {
+      "id": "ustv-c952f45e-73ae-4615-9cae-128749091758",
+      "tvgId": "",
+      "name": "Travel Channel",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/travel-channel-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/travel-channel-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://92.114.85.87:8011/play/a00d/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:92"
+        },
+        {
+          "url": "http://stream.mcquack.net/231/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAM"
+        },
+        {
+          "url": "http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:88"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1784102608&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2d204479cea4c71c2290102ae4d75ea1",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN6"
+        }
+      ]
+    }
+  ]
+}
