@@ -40,23 +40,24 @@ def keep_channel(channel):
 def format_stream_name(original_name):
     """
     Convert upstream quality labels into consistent
-    TD-TV resolution labels.
+    TD-TV display labels without overstating resolution.
     """
 
     quality = (original_name or "").strip().upper()
 
-    # 4K
     if quality in {"4K", "UHD", "2160P"}:
         return "✦ 4K"
 
-    # 1080P and below are Sunroom
     if quality in {"FHD", "1080P"}:
         return "☀️ 1080P Sunroom"
 
     if quality in {"HD", "720P"}:
         return "☀️ 720P Sunroom"
 
-    if quality in {"SD", "480P"}:
+    if quality == "SD":
+        return "☀️ SD Sunroom"
+
+    if quality == "480P":
         return "☀️ 480P Sunroom"
 
     if quality == "360P":
@@ -65,13 +66,15 @@ def format_stream_name(original_name):
     if quality == "240P":
         return "☀️ 240P Sunroom"
 
-    # Anything we don't recognize
-    return f"☀️ {original_name} Sunroom" if original_name else "☀️ Sunroom"
+    return f"☀️ {original_name} Sunroom" if original_name else "🌞 Sunroom"
 
 
 def format_stream_files():
     files_processed = 0
     streams_formatted = 0
+    audio_removed = 0
+    duplicates_removed = 0
+    empty_files = 0
 
     if not os.path.isdir(STREAM_FOLDER):
         print(f"Stream folder not found: {STREAM_FOLDER}")
@@ -90,18 +93,38 @@ def format_stream_files():
             streams = data.get("streams", [])
 
             if not streams:
+                empty_files += 1
                 continue
 
-            changed = False
+            cleaned_streams = []
+            seen_urls = set()
 
             for stream in streams:
-                original_name = stream.get("name", "")
+                original_name = stream.get("name", "").strip()
                 original_description = stream.get("description", "").strip()
+                url = stream.get("url", "").strip()
 
-                # Format resolution
+                # Remove audio-only streams
+                if original_name.upper() == "AUDIO":
+                    audio_removed += 1
+                    continue
+
+                # Remove streams without a URL
+                if not url:
+                    continue
+
+                # Remove exact duplicate URLs
+                if url in seen_urls:
+                    duplicates_removed += 1
+                    continue
+
+                seen_urls.add(url)
+
+                # Format quality/resolution
                 stream["name"] = format_stream_name(original_name)
 
-                # Add TD-TV heading and preserve original stream description
+                # Add TD-TV label while preserving
+                # the original upstream description
                 if original_description:
                     stream["description"] = (
                         f"🔴 LIVE • TD-TV\n"
@@ -110,25 +133,32 @@ def format_stream_files():
                 else:
                     stream["description"] = "🔴 LIVE • TD-TV"
 
-                changed = True
+                cleaned_streams.append(stream)
                 streams_formatted += 1
 
-            if changed:
-                with open(filepath, "w", encoding="utf-8") as f:
-                    json.dump(
-                        data,
-                        f,
-                        indent=2,
-                        ensure_ascii=False
-                    )
+            data["streams"] = cleaned_streams
 
-                files_processed += 1
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(
+                    data,
+                    f,
+                    indent=2,
+                    ensure_ascii=False
+                )
+
+            files_processed += 1
 
         except (json.JSONDecodeError, OSError) as error:
             print(f"Could not process {filename}: {error}")
 
-    print(f"Stream files formatted: {files_processed}")
-    print(f"Individual streams formatted: {streams_formatted}")
+    print("")
+    print("========== TD-TV UPDATE SUMMARY ==========")
+    print(f"Stream files processed: {files_processed}")
+    print(f"Streams retained/formatted: {streams_formatted}")
+    print(f"Audio streams removed: {audio_removed}")
+    print(f"Duplicate URLs removed: {duplicates_removed}")
+    print(f"Files already containing zero streams: {empty_files}")
+    print("==========================================")
 
 
 # -----------------------------
