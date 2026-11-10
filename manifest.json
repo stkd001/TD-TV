@@ -1,1 +1,47 @@
-{"id":"community.usa-tv-next","version":"2.1.0","catalogs":[{"name":"TD-TV","type":"tv","id":"all","extra":[{"name":"genre","isRequired":false,"options":["Local","News","Sports","Entertainment","Lifestyle","Kids","Documentaries","Music"]}]}],"resources":["catalog","stream","meta"],"types":["tv"],"idPrefixes":["ustv"],"name":"USA TV Next","description": "Curated US live TV with local, sports, news, entertainment, kids, documentary and music channels","logo":"https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logo.png","background":"https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/background.jpg"}
+{"id":"community.usa-tv-next","version":"2.1.0","catalogs": [
+  {
+    "name": "TD-TV • All Channels",
+    "type": "tv",
+    "id": "all"
+  },
+  {
+    "name": "TD-TV • Local",
+    "type": "tv",
+    "id": "local"
+  },
+  {
+    "name": "TD-TV • News",
+    "type": "tv",
+    "id": "news"
+  },
+  {
+    "name": "TD-TV • Sports",
+    "type": "tv",
+    "id": "sports"
+  },
+  {
+    "name": "TD-TV • Entertainment",
+    "type": "tv",
+    "id": "entertainment"
+  },
+  {
+    "name": "TD-TV • Lifestyle",
+    "type": "tv",
+    "id": "lifestyle"
+  },
+  {
+    "name": "TD-TV • Kids",
+    "type": "tv",
+    "id": "kids"
+  },
+  {
+    "name": "TD-TV • Documentaries",
+    "type": "tv",
+    "id": "documentaries"
+  },
+  {
+    "name": "TD-TV • Music",
+    "type": "tv",
+    "id": "music"
+  }
+],"resources":["catalog","stream","meta"],"types":["tv"],"idPrefixes":["ustv"],"name":"USA TV Next","description": "Curated US live TV with local, sports, news, entertainment, kids, documentary and music channels","logo":"https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logo.png","background":"https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/background.jpg"}
