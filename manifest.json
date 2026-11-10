@@ -1,39 +1,8 @@
 {
   "id": "community.td-tv",
   "version": "2.1.0",
-  "catalogs": [
-  {
-    "name": "News",
-    "type": "tv",
-    "id": "news"
-  },
-  {
-    "name": "Sports",
-    "type": "tv",
-    "id": "sports"
-  },
-  {
-    "name": "Entertainment",
-    "type": "tv",
-    "id": "entertainment"
-  },
-  {
-    "name": "Lifestyle",
-    "type": "tv",
-    "id": "lifestyle"
-  },
-  {
-    "name": "Kids",
-    "type": "tv",
-    "id": "kids"
-  },
-  {
-    "name": "Documentaries",
-    "type": "tv",
-    "id": "documentaries"
-  }
-
-],
+  "name": "TD-TV",
+  "description": "Curated US live TV with news, sports, entertainment, lifestyle, kids and documentary channels",
   "resources": [
     "catalog",
     "stream",
@@ -45,8 +14,38 @@
   "idPrefixes": [
     "ustv"
   ],
-  "name": "TD-TV",
-  "description": "Curated US live TV with local, sports, news, entertainment, kids, documentary and music channels",
+  "catalogs": [
+    {
+      "name": "News",
+      "type": "tv",
+      "id": "news"
+    },
+    {
+      "name": "Sports",
+      "type": "tv",
+      "id": "sports"
+    },
+    {
+      "name": "Entertainment",
+      "type": "tv",
+      "id": "entertainment"
+    },
+    {
+      "name": "Lifestyle",
+      "type": "tv",
+      "id": "lifestyle"
+    },
+    {
+      "name": "Kids",
+      "type": "tv",
+      "id": "kids"
+    },
+    {
+      "name": "Documentaries",
+      "type": "tv",
+      "id": "documentaries"
+    }
+  ],
   "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logo.png",
   "background": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/background.jpg"
 }
