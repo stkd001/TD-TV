@@ -78,7 +78,6 @@ def format_stream_files():
         return
 
     for filename in os.listdir(STREAM_FOLDER):
-
         if not filename.endswith(".json"):
             continue
 
@@ -99,11 +98,10 @@ def format_stream_files():
                 original_name = stream.get("name", "")
                 original_description = stream.get("description", "").strip()
 
-                # Format the resolution/name
+                # Format resolution
                 stream["name"] = format_stream_name(original_name)
 
-                # Show TD-TV first, then preserve the original
-                # USA TV Next stream description underneath
+                # Add TD-TV heading and preserve original stream description
                 if original_description:
                     stream["description"] = (
                         f"🔴 LIVE • TD-TV\n"
@@ -114,44 +112,6 @@ def format_stream_files():
 
                 changed = True
                 streams_formatted += 1
-
-            if changed:
-                with open(filepath, "w", encoding="utf-8") as f:
-                    json.dump(
-                        data,
-                        f,
-                        indent=2,
-                        ensure_ascii=False
-                    )
-
-                files_processed += 1
-
-        except (json.JSONDecodeError, OSError) as error:
-            print(f"Could not process {filename}: {error}")
-
-    print(f"Stream files formatted: {files_processed}")
-    print(f"Individual streams formatted: {streams_formatted}")
-
-for stream in streams:
-
-    original_name = stream.get("name", "")
-    original_description = stream.get("description", "").strip()
-
-    # Format the resolution/name
-    stream["name"] = format_stream_name(original_name)
-
-    # Keep the original USA TV Next stream description
-    # and display it beneath TD-TV
-    if original_description:
-        stream["description"] = (
-            f"🔴 LIVE • TD-TV\n"
-            f"{original_description}"
-        )
-    else:
-        stream["description"] = "🔴 LIVE • TD-TV"
-
-    changed = True
-    streams_formatted += 1
 
             if changed:
                 with open(filepath, "w", encoding="utf-8") as f:
