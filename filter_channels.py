@@ -401,6 +401,76 @@ def format_stream_files(selected_channel_ids):
     print(f"Duplicate URLs removed: {duplicates_removed}")
     print("==========================================")
 
+
+def inspect_local_streams(catalog):
+    """
+    Print every retained stream for channels in the Local catalog.
+    Diagnostic only. Does not modify any files.
+    """
+
+    print("")
+    print("========== LOCAL CHANNEL STREAMS ==========")
+
+    local_channels = [
+        channel
+        for channel in catalog.get("metas", [])
+        if "Local" in channel.get("genres", [])
+    ]
+
+    for channel in local_channels:
+        channel_id = channel.get("id")
+        channel_name = channel.get("name", "Unknown")
+
+        print("")
+        print(f"--- {channel_name} ---")
+
+        if not channel_id:
+            print("  No channel ID")
+            continue
+
+        filepath = os.path.join(
+            STREAM_FOLDER,
+            f"{channel_id}.json"
+        )
+
+        if not os.path.isfile(filepath):
+            print("  No stream file")
+            continue
+
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            streams = data.get("streams", [])
+
+            if not streams:
+                print("  No streams")
+                continue
+
+            for i, stream in enumerate(streams, start=1):
+                description = stream.get(
+                    "description",
+                    "No description"
+                )
+
+                # Remove TD-TV header so diagnostic is easier to read
+                description = description.replace(
+                    "🔴 LIVE • TD-TV\n",
+                    ""
+                )
+
+                url = stream.get("url", "No URL")
+
+                print(f"  Stream {i}:")
+                print(f"    Description: {description}")
+                print(f"    URL: {url}")
+
+        except (json.JSONDecodeError, OSError) as error:
+            print(f"  Could not read stream file: {error}")
+
+    print("")
+    print("===========================================")
+
 def create_genre_catalogs(catalog):
     """
     Create separate TD-TV catalog files for each genre
@@ -485,3 +555,4 @@ selected_channels = {
 }
 
 format_stream_files(selected_channels)
+inspect_local_streams(catalog)
