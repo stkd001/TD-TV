@@ -79,7 +79,18 @@ BLOCKED_CHANNELS = {
 
 CATALOG_FILE = "catalog/tv/all.json"
 STREAM_FOLDER = "stream/tv"
+CATALOG_FOLDER = "catalog/tv"
 
+GENRE_CATALOGS = {
+    "Local": "local.json",
+    "News": "news.json",
+    "Sports": "sports.json",
+    "Entertainment": "entertainment.json",
+    "Lifestyle": "lifestyle.json",
+    "Kids": "kids.json",
+    "Documentaries": "documentaries.json",
+    "Music": "music.json",
+}
 
 def keep_channel(channel):
     name = channel.get("name", "").strip()
@@ -227,7 +238,49 @@ def format_stream_files(selected_channel_ids):
     print(f"Duplicate URLs removed: {duplicates_removed}")
     print("==========================================")
 
+def create_genre_catalogs(catalog):
+    """
+    Create separate TD-TV catalog files for each genre
+    using only channels that survived our main filter.
+    """
 
+    genre_counts = {}
+
+    for genre, filename in GENRE_CATALOGS.items():
+        genre_channels = []
+
+        for channel in catalog.get("metas", []):
+            genres = channel.get("genres", [])
+
+            if genre in genres:
+                genre_channels.append(channel)
+
+        genre_catalog = {
+            "metas": genre_channels
+        }
+
+        output_path = os.path.join(
+            CATALOG_FOLDER,
+            filename
+        )
+
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(
+                genre_catalog,
+                f,
+                indent=2,
+                ensure_ascii=False
+            )
+
+        genre_counts[genre] = len(genre_channels)
+
+    print("")
+    print("========== TD-TV CATALOGS ================")
+
+    for genre, count in genre_counts.items():
+        print(f"{genre}: {count} channels")
+
+    print("==========================================")
 # -----------------------------
 # Filter channel catalog
 # -----------------------------
@@ -252,6 +305,7 @@ with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         indent=2,
         ensure_ascii=False
     )
+create_genre_catalogs(catalog)
 
 print(f"Original channels: {original_count}")
 print(f"Filtered channels: {new_count}")
