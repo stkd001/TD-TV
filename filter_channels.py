@@ -96,7 +96,6 @@ CHANNEL_STREAM_BLOCKS = {
         "abc-nsw",
         "abc-qld",
         "abc-sa",
-        "abc-me",
         "abc-tv-plus",
         "weather_in_90_seconds",
         "news_in_90_seconds",
