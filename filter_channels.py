@@ -322,23 +322,23 @@ def format_stream_files(selected_channel_ids):
     print(f"Audio streams removed: {audio_removed}")
     print(f"Mismatched streams removed: {mismatched_streams_removed}")
     if mismatched_by_channel:
+        print("")
+        print("Mismatched streams removed by channel:")
+
+        for channel_name, count in sorted(
+            mismatched_by_channel.items()
+        ):
+            print(f"  {channel_name}: {count}")
+
     print("")
-    print("Mismatched streams removed by channel:")
+    print("Remaining streams for cleaned channels:")
 
-    for channel_name, count in sorted(
-        mismatched_by_channel.items()
-    ):
-        print(f"  {channel_name}: {count}")
+    for channel_name in sorted(CHANNEL_STREAM_BLOCKS):
+        remaining = remaining_by_channel.get(channel_name, 0)
+        print(f"  {channel_name}: {remaining}")
 
-print("")
-print("Remaining streams for cleaned channels:")
-
-for channel_name in sorted(CHANNEL_STREAM_BLOCKS):
-    remaining = remaining_by_channel.get(channel_name, 0)
-    print(f"  {channel_name}: {remaining}")
-
-print(f"Duplicate URLs removed: {duplicates_removed}")
-print("==========================================")
+    print(f"Duplicate URLs removed: {duplicates_removed}")
+    print("==========================================")
 
 def create_genre_catalogs(catalog):
     """
