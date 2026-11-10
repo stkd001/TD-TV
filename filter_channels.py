@@ -69,22 +69,25 @@ def format_stream_name(original_name):
     return f"☀️ {original_name} Sunroom" if original_name else "🌞 Sunroom"
 
 
-def format_stream_files():
-    files_processed = 0
+def format_stream_files(selected_channel_ids):
+    channels_with_streams = 0
+    channels_without_streams = 0
     streams_formatted = 0
     audio_removed = 0
     duplicates_removed = 0
-    empty_files = 0
 
     if not os.path.isdir(STREAM_FOLDER):
         print(f"Stream folder not found: {STREAM_FOLDER}")
         return
 
-    for filename in os.listdir(STREAM_FOLDER):
-        if not filename.endswith(".json"):
-            continue
-
+    for channel_id in selected_channel_ids:
+        filename = f"{channel_id}.json"
         filepath = os.path.join(STREAM_FOLDER, filename)
+
+        # Selected channel has no stream file
+        if not os.path.isfile(filepath):
+            channels_without_streams += 1
+            continue
 
         try:
             with open(filepath, "r", encoding="utf-8") as f:
@@ -93,7 +96,7 @@ def format_stream_files():
             streams = data.get("streams", [])
 
             if not streams:
-                empty_files += 1
+                channels_without_streams += 1
                 continue
 
             cleaned_streams = []
@@ -104,12 +107,12 @@ def format_stream_files():
                 original_description = stream.get("description", "").strip()
                 url = stream.get("url", "").strip()
 
-                # Remove audio-only streams
+                # Remove audio-only sources
                 if original_name.upper() == "AUDIO":
                     audio_removed += 1
                     continue
 
-                # Remove streams without a URL
+                # Ignore streams without a playable URL
                 if not url:
                     continue
 
@@ -120,11 +123,11 @@ def format_stream_files():
 
                 seen_urls.add(url)
 
-                # Format quality/resolution
+                # Apply TD-TV resolution formatting
                 stream["name"] = format_stream_name(original_name)
 
-                # Add TD-TV label while preserving
-                # the original upstream description
+                # Add TD-TV identification while preserving
+                # the original upstream stream description
                 if original_description:
                     stream["description"] = (
                         f"🔴 LIVE • TD-TV\n"
@@ -138,6 +141,13 @@ def format_stream_files():
 
             data["streams"] = cleaned_streams
 
+            # Count the channel based on streams remaining
+            # after TD-TV cleanup
+            if cleaned_streams:
+                channels_with_streams += 1
+            else:
+                channels_without_streams += 1
+
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(
                     data,
@@ -146,18 +156,18 @@ def format_stream_files():
                     ensure_ascii=False
                 )
 
-            files_processed += 1
-
         except (json.JSONDecodeError, OSError) as error:
             print(f"Could not process {filename}: {error}")
+            channels_without_streams += 1
 
     print("")
     print("========== TD-TV UPDATE SUMMARY ==========")
-    print(f"Stream files processed: {files_processed}")
-    print(f"Streams retained/formatted: {streams_formatted}")
+    print(f"Channels selected: {len(selected_channel_ids)}")
+    print(f"Channels with video streams: {channels_with_streams}")
+    print(f"Channels without video streams: {channels_without_streams}")
+    print(f"Video streams retained: {streams_formatted}")
     print(f"Audio streams removed: {audio_removed}")
     print(f"Duplicate URLs removed: {duplicates_removed}")
-    print(f"Files already containing zero streams: {empty_files}")
     print("==========================================")
 
 
@@ -194,4 +204,10 @@ print(f"Removed channels: {original_count - new_count}")
 # Format TD-TV streams
 # -----------------------------
 
-format_stream_files()
+selected_channel_ids = {
+    channel.get("id")
+    for channel in catalog["metas"]
+    if channel.get("id")
+}
+
+format_stream_files(selected_channel_ids)
