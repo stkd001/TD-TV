@@ -27,7 +27,7 @@ GENRE_CATALOGS = {
     "Entertainment": "entertainment.json",
     "Lifestyle": "lifestyle.json",
     "Kids": "kids.json",
-    "Documentaries": "documentaries.json",
+    "Documentaries": "documentaries.json"
 }
 
 
