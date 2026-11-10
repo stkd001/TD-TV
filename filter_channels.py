@@ -1,17 +1,36 @@
 import json
 import os
 
-# Channel categories Tyler wants to keep
+
+# ============================================================
+# TD-TV CONFIGURATION
+# ============================================================
+
+CATALOG_FILE = "catalog/tv/all.json"
+STREAM_FOLDER = "stream/tv"
+CATALOG_FOLDER = "catalog/tv"
+
+
 ALLOWED_GENRES = {
     "News",
     "Sports",
     "Entertainment",
     "Lifestyle",
     "Kids",
-    "Documentaries"
+    "Documentaries",
 }
 
-# Individual channels to remove
+
+GENRE_CATALOGS = {
+    "News": "news.json",
+    "Sports": "sports.json",
+    "Entertainment": "entertainment.json",
+    "Lifestyle": "lifestyle.json",
+    "Kids": "kids.json",
+    "Documentaries": "documentaries.json",
+}
+
+
 BLOCKED_CHANNELS = {
     # Shopping
     "QVC",
@@ -66,27 +85,18 @@ BLOCKED_CHANNELS = {
     "Vice TV",
     "We TV",
 
-    # Lower-priority kids/music
+    # Lower-priority kids
     "TeenNick",
     "Toonami Aftermath (East)",
     "Universal Kids",
 
     # Other
-    "C-SPAN 1"
+    "C-SPAN 1",
 }
 
-CATALOG_FILE = "catalog/tv/all.json"
-STREAM_FOLDER = "stream/tv"
-CATALOG_FOLDER = "catalog/tv"
 
-GENRE_CATALOGS = {
-    "News": "news.json",
-    "Sports": "sports.json",
-    "Entertainment": "entertainment.json",
-    "Lifestyle": "lifestyle.json",
-    "Kids": "kids.json",
-    "Documentaries": "documentaries.json",
-}
+# Known mismatched streams that sometimes appear under
+# otherwise valid TD-TV channels.
 CHANNEL_STREAM_BLOCKS = {
     "ABC": {
         "abc-nsw",
@@ -143,74 +153,72 @@ CHANNEL_STREAM_BLOCKS = {
         "mtv-the-shores",
     },
 }
+
+
+# ============================================================
+# CHANNEL FILTERING
+# ============================================================
+
 def keep_channel(channel):
     name = channel.get("name", "").strip()
     genres = channel.get("genres", [])
 
-    if name in BLOCKED_CHANNELS:
-        return False
-
-    if "Latino" in genres:
-        return False
-
-    return any(genre in ALLOWED_GENRES for genre in genres)
+    return (
+        name not in BLOCKED_CHANNELS
+        and "Latino" not in genres
+        and any(genre in ALLOWED_GENRES for genre in genres)
+    )
 
 
-def format_stream_name(original_name):
-    """
-    Convert upstream quality labels into consistent
-    TD-TV display labels without overstating resolution.
-    """
+# ============================================================
+# STREAM FORMATTING
+# ============================================================
 
-    quality = (original_name or "").strip().upper()
+def format_stream_name(name):
+    quality = (name or "").strip().upper()
 
-    if quality in {"4K", "UHD", "2160P"}:
-        return "✦ 4K"
+    labels = {
+        "4K": "✦ 4K",
+        "UHD": "✦ 4K",
+        "2160P": "✦ 4K",
+        "FHD": "☀️ 1080P Sunroom",
+        "1080P": "☀️ 1080P Sunroom",
+        "HD": "☀️ 720P Sunroom",
+        "720P": "☀️ 720P Sunroom",
+        "SD": "☀️ SD Sunroom",
+        "480P": "☀️ 480P Sunroom",
+        "360P": "☀️ 360P Sunroom",
+        "240P": "☀️ 240P Sunroom",
+    }
 
-    if quality in {"FHD", "1080P"}:
-        return "☀️ 1080P Sunroom"
+    if quality in labels:
+        return labels[quality]
 
-    if quality in {"HD", "720P"}:
-        return "☀️ 720P Sunroom"
+    return f"☀️ {name} Sunroom" if name else "🌞 Sunroom"
 
-    if quality == "SD":
-        return "☀️ SD Sunroom"
 
-    if quality == "480P":
-        return "☀️ 480P Sunroom"
-
-    if quality == "360P":
-        return "☀️ 360P Sunroom"
-
-    if quality == "240P":
-        return "☀️ 240P Sunroom"
-
-    return f"☀️ {original_name} Sunroom" if original_name else "🌞 Sunroom"
-    
 def stream_score(stream):
     """
-    Score streams so TD-TV can rank the most desirable
-    stream first without removing alternatives.
+    Higher-resolution streams sort first.
     """
-    score = 0
 
-    original_name = str(stream.get("name", "")).upper()
+    name = str(stream.get("name", "")).upper()
 
-    # Resolution
-    if "4K" in original_name or "2160" in original_name or "UHD" in original_name:
-        score += 400
-    elif "1080" in original_name or "FHD" in original_name:
-        score += 300
-    elif "720" in original_name or " HD " in f" {original_name} ":
-        score += 200
-    elif "480" in original_name or "SD" in original_name:
-        score += 100
-    elif "360" in original_name:
-        score += 50
-    elif "240" in original_name:
-        score += 25
+    if any(x in name for x in ("4K", "2160", "UHD")):
+        score = 400
+    elif "1080" in name or "FHD" in name:
+        score = 300
+    elif "720" in name or " HD " in f" {name} ":
+        score = 200
+    elif "480" in name or "SD" in name:
+        score = 100
+    elif "360" in name:
+        score = 50
+    elif "240" in name:
+        score = 25
+    else:
+        score = 0
 
-    # FPS, if upstream provides it
     try:
         fps = float(stream.get("fps", 0) or 0)
 
@@ -220,10 +228,10 @@ def stream_score(stream):
             score += 30
         elif fps >= 30:
             score += 20
+
     except (ValueError, TypeError):
         pass
 
-    # Bitrate, if upstream provides it
     try:
         bitrate = float(stream.get("bitrate", 0) or 0)
 
@@ -235,128 +243,102 @@ def stream_score(stream):
             score += 20
         elif bitrate >= 1_000_000:
             score += 10
+
     except (ValueError, TypeError):
         pass
 
     return score
 
+
 def should_remove_stream(channel_name, url):
-    """
-    Remove a stream only when its URL contains a known
-    mismatched regional or channel variant.
-    """
-
-    channel_name = (channel_name or "").strip()
-    url_lower = (url or "").lower()
-
-    blocked_patterns = CHANNEL_STREAM_BLOCKS.get(
-        channel_name,
-        set()
-    )
+    url = (url or "").lower()
 
     return any(
-        pattern.lower() in url_lower
-        for pattern in blocked_patterns
+        pattern.lower() in url
+        for pattern in CHANNEL_STREAM_BLOCKS.get(channel_name, set())
     )
-def format_stream_files(selected_channel_ids):
-    channels_with_streams = 0
-    channels_without_streams = 0
-    streams_formatted = 0
-    audio_removed = 0
-    duplicates_removed = 0
-    mismatched_streams_removed = 0
-    remaining_by_channel = {}
-    mismatched_by_channel = {}
 
-    if not os.path.isdir(STREAM_FOLDER):
-        print(f"Stream folder not found: {STREAM_FOLDER}")
-        return
+
+# ============================================================
+# STREAM CLEANUP
+# ============================================================
+
+def clean_streams(selected_channels):
+
+    stats = {
+        "with_streams": 0,
+        "without_streams": 0,
+        "retained": 0,
+        "audio_removed": 0,
+        "duplicates_removed": 0,
+        "mismatched_removed": 0,
+    }
+
+    remaining = {}
 
     for channel_id, channel_name in selected_channels.items():
-        filename = f"{channel_id}.json"
-        filepath = os.path.join(STREAM_FOLDER, filename)
 
-        # Selected channel has no stream file
+        filepath = os.path.join(
+            STREAM_FOLDER,
+            f"{channel_id}.json"
+        )
+
         if not os.path.isfile(filepath):
-            channels_without_streams += 1
+            stats["without_streams"] += 1
             continue
 
         try:
             with open(filepath, "r", encoding="utf-8") as f:
                 data = json.load(f)
 
-            streams = data.get("streams", [])
-
-            if not streams:
-                channels_without_streams += 1
-                continue
-
-            cleaned_streams = []
+            cleaned = []
             seen_urls = set()
 
-            for stream in streams:
+            for stream in data.get("streams", []):
+
                 original_name = stream.get("name", "").strip()
-                original_description = stream.get("description", "").strip()
+                description = stream.get("description", "").strip()
                 url = stream.get("url", "").strip()
-                
-                # Remove clearly mismatched regional/channel variants
-                if should_remove_stream(channel_name, url):
-                    mismatched_streams_removed += 1
 
-                    mismatched_by_channel[channel_name] = (
-                        mismatched_by_channel.get(channel_name, 0) + 1
-                    )
-
-                    continue
-                # Remove audio-only sources
-                if original_name.upper() == "AUDIO":
-                    audio_removed += 1
-                    continue
-
-                # Ignore streams without a playable URL
                 if not url:
                     continue
 
-                # Remove exact duplicate URLs
+                if original_name.upper() == "AUDIO":
+                    stats["audio_removed"] += 1
+                    continue
+
                 if url in seen_urls:
-                    duplicates_removed += 1
+                    stats["duplicates_removed"] += 1
+                    continue
+
+                if should_remove_stream(channel_name, url):
+                    stats["mismatched_removed"] += 1
                     continue
 
                 seen_urls.add(url)
 
-                # Apply TD-TV resolution formatting
                 stream["name"] = format_stream_name(original_name)
 
-                # Add TD-TV identification while preserving
-                # the original upstream stream description
-                if original_description:
-                    stream["description"] = (
-                        f"🔴 LIVE • TD-TV\n"
-                        f"{original_description}"
-                    )
-                else:
-                    stream["description"] = "🔴 LIVE • TD-TV"
+                stream["description"] = "🔴 LIVE • TD-TV"
 
-                cleaned_streams.append(stream)
-                streams_formatted += 1
+                if description:
+                    stream["description"] += f"\n{description}"
 
-            # Rank best-quality streams first
-            cleaned_streams.sort(
+                cleaned.append(stream)
+
+            cleaned.sort(
                 key=stream_score,
                 reverse=True
             )
 
+            data["streams"] = cleaned
+            remaining[channel_name] = len(cleaned)
 
-
-            data["streams"] = cleaned_streams
-            remaining_by_channel[channel_name] = len(cleaned_streams)
-            
-            # Count the channel based on streams remaining
-            # after TD-TV cleanup
-            if cleaned_streams:
-                channels_with_streams += 1
+            if cleaned:
+                stats["with_streams"] += 1
+                stats["retained"] += len(cleaned)
             else:
-                channels_without_streams += 1
+                stats["without_streams"] += 1
 
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(
@@ -367,58 +349,47 @@ def format_stream_files(selected_channel_ids):
                 )
 
         except (json.JSONDecodeError, OSError) as error:
-            print(f"Could not process {filename}: {error}")
-            channels_without_streams += 1
+            print(f"Could not process {channel_name}: {error}")
+            stats["without_streams"] += 1
 
     print("")
     print("========== TD-TV UPDATE SUMMARY ==========")
-    print(f"Channels selected: {len(selected_channel_ids)}")
-    print(f"Channels with video streams: {channels_with_streams}")
-    print(f"Channels without video streams: {channels_without_streams}")
-    print(f"Video streams retained: {streams_formatted}")
-    print(f"Audio streams removed: {audio_removed}")
-    print(f"Mismatched streams removed: {mismatched_streams_removed}")
-    if mismatched_by_channel:
-        print("")
-        print("Mismatched streams removed by channel:")
-
-        for channel_name, count in sorted(
-            mismatched_by_channel.items()
-        ):
-            print(f"  {channel_name}: {count}")
+    print(f"Channels selected: {len(selected_channels)}")
+    print(f"Channels with streams: {stats['with_streams']}")
+    print(f"Channels without streams: {stats['without_streams']}")
+    print(f"Streams retained: {stats['retained']}")
+    print(f"Audio streams removed: {stats['audio_removed']}")
+    print(f"Duplicate URLs removed: {stats['duplicates_removed']}")
+    print(f"Mismatched streams removed: {stats['mismatched_removed']}")
 
     print("")
-    print("Remaining streams for cleaned channels:")
+    print("Cleaned-channel stream counts:")
 
     for channel_name in sorted(CHANNEL_STREAM_BLOCKS):
-        remaining = remaining_by_channel.get(channel_name, 0)
-        print(f"  {channel_name}: {remaining}")
+        print(
+            f"  {channel_name}: "
+            f"{remaining.get(channel_name, 0)}"
+        )
 
-    print(f"Duplicate URLs removed: {duplicates_removed}")
     print("==========================================")
 
 
+# ============================================================
+# GENRE CATALOGS
+# ============================================================
 
 def create_genre_catalogs(catalog):
-    """
-    Create separate TD-TV catalog files for each genre
-    using only channels that survived our main filter.
-    """
 
-    genre_counts = {}
+    print("")
+    print("========== TD-TV CATALOGS ================")
 
     for genre, filename in GENRE_CATALOGS.items():
-        genre_channels = []
 
-        for channel in catalog.get("metas", []):
-            genres = channel.get("genres", [])
-
-            if genre in genres:
-                genre_channels.append(channel)
-
-        genre_catalog = {
-            "metas": genre_channels
-        }
+        genre_channels = [
+            channel
+            for channel in catalog.get("metas", [])
+            if genre in channel.get("genres", [])
+        ]
 
         output_path = os.path.join(
             CATALOG_FOLDER,
@@ -427,24 +398,20 @@ def create_genre_catalogs(catalog):
 
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(
-                genre_catalog,
+                {"metas": genre_channels},
                 f,
                 indent=2,
                 ensure_ascii=False
             )
 
-        genre_counts[genre] = len(genre_channels)
-
-    print("")
-    print("========== TD-TV CATALOGS ================")
-
-    for genre, count in genre_counts.items():
-        print(f"{genre}: {count} channels")
+        print(f"{genre}: {len(genre_channels)} channels")
 
     print("==========================================")
-# -----------------------------
-# Filter channel catalog
-# -----------------------------
+
+
+# ============================================================
+# MAIN
+# ============================================================
 
 with open(CATALOG_FILE, "r", encoding="utf-8") as f:
     catalog = json.load(f)
@@ -457,7 +424,7 @@ catalog["metas"] = [
     if keep_channel(channel)
 ]
 
-new_count = len(catalog["metas"])
+filtered_count = len(catalog["metas"])
 
 with open(CATALOG_FILE, "w", encoding="utf-8") as f:
     json.dump(
@@ -466,21 +433,18 @@ with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         indent=2,
         ensure_ascii=False
     )
+
 create_genre_catalogs(catalog)
 
+print("")
 print(f"Original channels: {original_count}")
-print(f"Filtered channels: {new_count}")
-print(f"Removed channels: {original_count - new_count}")
-
-# -----------------------------
-# Format TD-TV streams
-# -----------------------------
+print(f"Filtered channels: {filtered_count}")
+print(f"Removed channels: {original_count - filtered_count}")
 
 selected_channels = {
-    channel.get("id"): channel.get("name", "").strip()
+    channel["id"]: channel.get("name", "").strip()
     for channel in catalog["metas"]
     if channel.get("id")
 }
 
-format_stream_files(selected_channels)
-
+clean_streams(selected_channels)
