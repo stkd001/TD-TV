@@ -15,9 +15,66 @@ ALLOWED_GENRES = {
 
 # Individual channels to remove
 BLOCKED_CHANNELS = {
+    # Shopping
     "QVC",
     "HSN",
-    "ShopHQ"
+    "ShopHQ",
+
+    # Out-of-market regional sports
+    "Altitude Sports",
+    "Chicago Sports Network",
+    "FanDuel Florida",
+    "FanDuel Indiana",
+    "FanDuel North",
+    "FanDuel Ohio",
+    "FanDuel Oklahoma",
+    "FanDuel SoCal",
+    "FanDuel South",
+    "FanDuel Southeast",
+    "FanDuel Sun",
+    "FanDuel Wisconsin",
+    "Marquee Sports Network",
+    "MSG",
+    "NBC Sports Bay Area",
+    "NBC Sports Boston",
+    "NBC Sports California",
+    "NBC Sports Philadelphia",
+    "NESN",
+    "Spectrum SportsNet",
+    "Spectrum SportsNet LA",
+    "SportsNet New York",
+    "YES Network",
+
+    # Niche sports
+    "Gol TV",
+    "Pursuit ",
+    "Racer Network",
+
+    # Lower-priority entertainment/lifestyle
+    "AWE",
+    "BET Her",
+    "Bounce",
+    "Buzzr",
+    "Comedy TV",
+    "Discovery Life",
+    "FYI",
+    "Hallmark Family",
+    "Hallmark Mystery",
+    "Ion Mystery",
+    "Lifetime Movie Network",
+    "Oprah Winfrey Network (OWN)",
+    "Outdoor Channel",
+    "TV One",
+    "Vice TV",
+    "We TV",
+
+    # Lower-priority kids/music
+    "TeenNick",
+    "Toonami Aftermath (East)",
+    "Universal Kids",
+
+    # Other
+    "C-SPAN 1"
 }
 
 CATALOG_FILE = "catalog/tv/all.json"
