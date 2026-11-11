@@ -47,22 +47,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:200"
-    },
-    {
-      "url": "http://158.172.217.18:8000/play/a0ne/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "http://213.91.179.28:8000/play/a05r",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:213"
     }
   ]
 }

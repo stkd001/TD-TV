@@ -47,62 +47,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:181"
-    },
-    {
-      "url": "https://jmp2.uk/plu-69dd5d7bfcb9bf5e3063cb16.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/stvp-CA600001C3",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LDS-TIMELINE"
-    },
-    {
-      "url": "https://amg00426-lds-amg00426c5-lg-au-2370.playouts.now.amagi.tv/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:AMG00426-LDS"
-    },
-    {
-      "url": "http://213.91.179.28:8000/play/a0c1",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:213"
-    },
-    {
-      "url": "http://158.172.217.18:8000/play/a0ng/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:D1NZDA2A2B3S"
     }
   ]
 }

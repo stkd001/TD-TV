@@ -47,54 +47,6 @@
       },
       "name": "☀️ 720P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:181"
-    },
-    {
-      "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:85"
-    },
-    {
-      "url": "http://190.61.47.54:8000/play/a004/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:190"
-    },
-    {
-      "url": "http://158.172.217.18:8000/play/a00u/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "http://158.172.217.18:8000/play/a00h/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "http://158.172.217.18:8000/play/a023/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
     }
   ]
 }
