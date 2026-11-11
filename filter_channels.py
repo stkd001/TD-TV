@@ -408,7 +408,112 @@ def create_genre_catalogs(catalog):
         print(f"{genre}: {len(genre_channels)} channels")
 
     print("==========================================")
+# ============================================================
+# LOCAL CHANNEL INSPECTION
+# ============================================================
 
+LOCAL_MARKET_TERMS = {
+    "Detroit": {
+        "WJBK",
+        "WDIV",
+        "WXYZ",
+        "WWJ",
+        "WMYD",
+        "DETROIT",
+    },
+    "Pittsburgh": {
+        "KDKA",
+        "WTAE",
+        "WPXI",
+        "WPGH",
+        "WPNT",
+        "PITTSBURGH",
+    },
+}
+
+
+def inspect_local_candidates(channels):
+    print("")
+    print("========== LOCAL TV CANDIDATES ==========")
+
+    matches_found = 0
+
+    for channel in channels:
+        searchable_text = json.dumps(
+            channel,
+            ensure_ascii=False
+        ).upper()
+
+        matched_markets = []
+
+        for market, terms in LOCAL_MARKET_TERMS.items():
+            if any(term in searchable_text for term in terms):
+                matched_markets.append(market)
+
+        if not matched_markets:
+            continue
+
+        matches_found += 1
+
+        channel_id = channel.get("id", "")
+        channel_name = channel.get("name", "")
+        genres = channel.get("genres", [])
+
+        stream_file = os.path.join(
+            STREAM_FOLDER,
+            f"{channel_id}.json"
+        )
+
+        stream_count = 0
+        sample_urls = []
+
+        if os.path.isfile(stream_file):
+            try:
+                with open(
+                    stream_file,
+                    "r",
+                    encoding="utf-8"
+                ) as f:
+                    stream_data = json.load(f)
+
+                streams = stream_data.get("streams", [])
+                stream_count = len(streams)
+
+                for stream in streams[:3]:
+                    sample_urls.append(
+                        stream.get("url", "")
+                    )
+
+            except (json.JSONDecodeError, OSError) as error:
+                sample_urls.append(
+                    f"Could not read stream file: {error}"
+                )
+
+        print("")
+        print(f"Market: {', '.join(matched_markets)}")
+        print(f"Name: {channel_name}")
+        print(f"ID: {channel_id}")
+        print(f"Genres: {genres}")
+        print(f"Raw streams: {stream_count}")
+
+        if sample_urls:
+            print("First three stream URLs:")
+
+            for number, url in enumerate(
+                sample_urls,
+                start=1
+            ):
+                print(f"  {number}. {url}")
+        else:
+            print("First three stream URLs: none")
+
+    if matches_found == 0:
+        print("")
+        print("No Detroit or Pittsburgh candidates found.")
+
+    print("")
+    print(f"Total local candidates: {matches_found}")
+    print("=========================================")
 
 # ============================================================
 # MAIN
@@ -418,6 +523,8 @@ with open(CATALOG_FILE, "r", encoding="utf-8") as f:
     catalog = json.load(f)
 
 original_count = len(catalog.get("metas", []))
+
+inspect_local_candidates(catalog.get("metas", []))
 
 catalog["metas"] = [
     channel
