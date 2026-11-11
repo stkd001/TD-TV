@@ -411,6 +411,99 @@ def create_genre_catalogs(catalog):
 # ============================================================
 # LOCAL CHANNEL INSPECTION
 # ============================================================
+def inspect_local_streams(channels):
+    print("")
+    print("========== LOCAL STREAM SEARCH ==========")
+
+    search_terms = {
+        "Detroit": [
+            "detroit",
+            "wjbk",
+            "wdiv",
+            "wxyz",
+            "wwj",
+            "wmyd",
+        ],
+        "Pittsburgh": [
+            "pittsburgh",
+            "kdka",
+            "wtae",
+            "wpxi",
+            "wpgh",
+            "wpnt",
+        ],
+    }
+
+    matches = 0
+
+    for channel in channels:
+
+        channel_id = channel.get("id", "")
+        channel_name = channel.get("name", "")
+
+        if not channel_id:
+            continue
+
+        filepath = os.path.join(
+            STREAM_FOLDER,
+            f"{channel_id}.json"
+        )
+
+        if not os.path.isfile(filepath):
+            continue
+
+        try:
+            with open(filepath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            for stream in data.get("streams", []):
+
+                searchable = json.dumps(
+                    stream,
+                    ensure_ascii=False
+                ).lower()
+
+                for market, terms in search_terms.items():
+
+                    found_terms = [
+                        term
+                        for term in terms
+                        if term.lower() in searchable
+                    ]
+
+                    if found_terms:
+
+                        matches += 1
+
+                        print("")
+                        print(f"Market: {market}")
+                        print(f"Parent channel: {channel_name}")
+                        print(f"Channel ID: {channel_id}")
+                        print(
+                            f"Matched terms: "
+                            f"{', '.join(found_terms)}"
+                        )
+                        print(
+                            f"Stream name: "
+                            f"{stream.get('name', '')}"
+                        )
+                        print(
+                            f"Description: "
+                            f"{stream.get('description', '')}"
+                        )
+                        print(
+                            f"URL: "
+                            f"{stream.get('url', '')}"
+                        )
+
+                        break
+
+        except (json.JSONDecodeError, OSError):
+            continue
+
+    print("")
+    print(f"Total matching streams: {matches}")
+    print("=========================================")
 
 LOCAL_MARKET_TERMS = {
     "Detroit": {
@@ -525,6 +618,7 @@ with open(CATALOG_FILE, "r", encoding="utf-8") as f:
 original_count = len(catalog.get("metas", []))
 
 inspect_local_candidates(catalog.get("metas", []))
+inspect_local_streams(catalog.get("metas", []))
 
 catalog["metas"] = [
     channel
