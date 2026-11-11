@@ -10,6 +10,7 @@ CATALOG_FILE = "catalog/tv/all.json"
 STREAM_FOLDER = "stream/tv"
 CATALOG_FOLDER = "catalog/tv"
 
+MAX_STREAMS_PER_CHANNEL = 6
 
 ALLOWED_GENRES = {
     "News",
@@ -199,7 +200,7 @@ def format_stream_name(name):
 
 def stream_score(stream):
     """
-    Higher-resolution streams sort first.
+    Higher-resolution, higher-FPS, and higher-bitrate streams sort first.
     """
 
     name = str(stream.get("name", "")).upper()
@@ -210,7 +211,9 @@ def stream_score(stream):
         score = 300
     elif "720" in name or " HD " in f" {name} ":
         score = 200
-    elif "480" in name or "SD" in name:
+    elif "480" in name:
+        score = 125
+    elif " SD " in f" {name} ":
         score = 100
     elif "360" in name:
         score = 50
@@ -330,10 +333,13 @@ def clean_streams(selected_channels):
                 key=stream_score,
                 reverse=True
             )
-
+            
+            # Keep only the best 6 streams
+            cleaned = cleaned[:MAX_STREAMS_PER_CHANNEL]
 
             data["streams"] = cleaned
             remaining[channel_name] = len(cleaned)
+
 
             if cleaned:
                 stats["with_streams"] += 1
