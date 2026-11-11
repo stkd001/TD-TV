@@ -373,7 +373,7 @@ def clean_streams(selected_channels):
         )
 
     print("==========================================")
-
+    return remaining
 
 # ============================================================
 # GENRE CATALOGS
@@ -434,7 +434,6 @@ with open(CATALOG_FILE, "w", encoding="utf-8") as f:
         ensure_ascii=False
     )
 
-create_genre_catalogs(catalog)
 
 print("")
 print(f"Original channels: {original_count}")
@@ -447,4 +446,20 @@ selected_channels = {
     if channel.get("id")
 }
 
-clean_streams(selected_channels)
+remaining = clean_streams(selected_channels)
+
+catalog["metas"] = [
+    channel
+    for channel in catalog["metas"]
+    if remaining.get(channel.get("name", "").strip(), 0) > 0
+]
+
+with open(CATALOG_FILE, "w", encoding="utf-8") as f:
+    json.dump(
+        catalog,
+        f,
+        indent=2,
+        ensure_ascii=False
+    )
+
+create_genre_catalogs(catalog)
