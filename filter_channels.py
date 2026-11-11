@@ -423,6 +423,7 @@ def inspect_local_streams(channels):
             "wxyz",
             "wwj",
             "wmyd",
+            "DET",
         ],
         "Pittsburgh": [
             "pittsburgh",
@@ -431,6 +432,7 @@ def inspect_local_streams(channels):
             "wpxi",
             "wpgh",
             "wpnt",
+            "PIT",
         ],
     }
 
