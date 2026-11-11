@@ -204,14 +204,6 @@
           "description": "HV:181"
         },
         {
-          "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:38"
-        },
-        {
           "url": "http://stream.mcquack.net/168/index.m3u8",
           "behaviorHints": {
             "notWebReady": true

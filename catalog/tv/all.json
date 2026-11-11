@@ -1731,7 +1731,16 @@
       "genres": [
         "Sports"
       ],
-      "streams": []
+      "streams": [
+        {
+          "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:NHL-FIRETV"
+        }
+      ]
     },
     {
       "id": "ustv-4dda960c-6461-4d4c-8879-96a76d62d31a",
@@ -2621,6 +2630,14 @@
           },
           "name": "HD",
           "description": "HV:23"
+        },
+        {
+          "url": "https://dtqutq7lmcchv.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=ebd7d694-cd18-4fc3-9fe6-1eb3d44f2782&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_web_IONPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9999614&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DTQUTQ7LMCCH"
         }
       ]
     },
@@ -2785,6 +2802,14 @@
           },
           "name": "SD",
           "description": "HV:LIVE-MANIFES"
+        },
+        {
+          "url": "https://dtqutq7lmcchv.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=772bcf0c-68df-493c-a150-308874d717d4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DTQUTQ7LMCCH"
         }
       ]
     },
@@ -3472,14 +3497,6 @@
           "description": "HV:181"
         },
         {
-          "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:38"
-        },
-        {
           "url": "http://stream.mcquack.net/168/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3665,6 +3682,22 @@
           },
           "name": "FHD",
           "description": "HV:185"
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a08g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:213"
+        },
+        {
+          "url": "http://45.173.12.70:8000/play/a0fj",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4111,6 +4144,14 @@
           },
           "name": "FHD",
           "description": "HV:185"
+        },
+        {
+          "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:XYKT-FIX"
         }
       ]
     },
@@ -4307,6 +4348,14 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a05r",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:213"
         }
       ]
     },
@@ -4405,6 +4454,14 @@
           },
           "name": "FHD",
           "description": "HV:102"
+        },
+        {
+          "url": "http://213.91.179.28:8000/play/a044",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:213"
         }
       ]
     },
@@ -4566,6 +4623,14 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D1NZDA2A2B3S"
         }
       ]
     },
