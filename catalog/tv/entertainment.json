@@ -1,22 +1,6 @@
 {
   "metas": [
     {
-      "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
-      "tvgId": "",
-      "name": "A&E",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/a-and-e-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82",
       "tvgId": "",
       "name": "AMC",
@@ -176,22 +160,6 @@
           "description": "HV:TVSEN6"
         }
       ]
-    },
-    {
-      "id": "ustv-3ea31538-b5ad-4dc2-b2a6-6f2b518a2e7d",
-      "tvgId": "",
-      "name": "BBC America",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/bbc-america-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/bbc-america-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-f6141a0c-e163-49e8-b98c-ea2fb58feea3",
@@ -510,22 +478,6 @@
       "streams": []
     },
     {
-      "id": "ustv-fd690365-5819-4319-9fa8-df82fe22933a",
-      "tvgId": "",
-      "name": "Freeform",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/freeform-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/freeform-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-74728d74-03df-4c60-b3b7-69f1dfc4d8e7",
       "tvgId": "",
       "name": "FX",
@@ -551,38 +503,6 @@
       ]
     },
     {
-      "id": "ustv-d468ed11-c030-418f-93a0-e77b8bf2bc75",
-      "tvgId": "",
-      "name": "FX Movie Channel",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fx-movie-channel-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fx-movie-channel-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
-    },
-    {
-      "id": "ustv-a42663ac-2326-4b28-a7c6-989a27ba5bd6",
-      "tvgId": "",
-      "name": "FXX",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fxx-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fxx-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
-    },
-    {
       "id": "ustv-f0fb7e11-56cf-4595-ab32-e357143f2591",
       "tvgId": "",
       "name": "Game Show Network",
@@ -606,22 +526,6 @@
           "description": "HV:A-CDN"
         }
       ]
-    },
-    {
-      "id": "ustv-e38c3908-7c73-4bc5-bac6-fba8ce88a33b",
-      "tvgId": "",
-      "name": "Hallmark Channel",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hallmark-channel-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hallmark-channel-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507",
@@ -785,22 +689,6 @@
           "description": "HV:F76AA9AD"
         }
       ]
-    },
-    {
-      "id": "ustv-9d9eb550-5dde-49d8-8b28-1bb725c6eac3",
-      "tvgId": "",
-      "name": "MeTV",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Entertainment",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/metv-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/metv-us.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "streams": []
     },
     {
       "id": "ustv-32be7b7a-a095-4888-868b-61873bd031a8",
