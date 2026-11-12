@@ -103,6 +103,14 @@
           },
           "name": "SD",
           "description": "HV:213"
+        },
+        {
+          "url": "https://stream8.cinerama.uz/1043/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:STREAM8"
         }
       ]
     },
@@ -209,6 +217,14 @@
           },
           "name": "SD",
           "description": "HV:213"
+        },
+        {
+          "url": "http://92.180.26.103:80/stream/28/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:92"
         }
       ]
     },
@@ -236,14 +252,6 @@
           "description": "HV:CDN-UE1-PROD"
         },
         {
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-tablo/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:CDN-UW2-PROD"
-        },
-        {
           "url": "https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -261,14 +269,6 @@
         },
         {
           "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historytime-lgdk/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:CDN-UW2-PROD"
-        },
-        {
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -378,6 +378,14 @@
           },
           "name": "SD",
           "description": "HV:D1NZDA2A2B3S"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:RAW"
         }
       ]
     },

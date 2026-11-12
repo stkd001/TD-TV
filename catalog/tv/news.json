@@ -126,6 +126,14 @@
           },
           "name": "SD",
           "description": "HV:VS-HLS-PUSHB"
+        },
+        {
+          "url": "https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:VS-CMAF-PUSH"
         }
       ]
     },
@@ -464,6 +472,22 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-de-2031.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgde/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-pt-2035.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgpt/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
         }
       ]
     },
@@ -689,6 +713,30 @@
           },
           "name": "SD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "https://amg01918-cnnus-amg01918c2-firetv-us-10323.playouts.now.amagi.tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:AMG01918-CNN"
+        },
+        {
+          "url": "http://31.43.191.125:8080/live/restream/restream/154946.ts",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:31"
+        },
+        {
+          "url": "http://31.43.191.125:8080/live/restream/restream/154948.ts",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:31"
         }
       ]
     },
@@ -999,6 +1047,14 @@
           },
           "name": "SD",
           "description": "HV:AMG00217-NEW"
+        },
+        {
+          "url": "https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:NEWSMAXADRIA"
         }
       ]
     },

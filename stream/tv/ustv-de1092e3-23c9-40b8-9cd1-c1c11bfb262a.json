@@ -41,12 +41,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:88"
     },
     {
-      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+      "url": "http://31.43.191.125:8080/live/restream/restream/154946.ts",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nWB"
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:31"
     }
   ]
 }
