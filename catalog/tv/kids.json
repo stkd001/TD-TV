@@ -541,6 +541,14 @@
           },
           "name": "FHD",
           "description": "HV:XYKT-FIX"
+        },
+        {
+          "url": "http://87.120.179.187:8000/play/a00x",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:87"
         }
       ]
     },

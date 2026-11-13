@@ -375,6 +375,14 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-bloombergtv-tablo/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:CDN-UW2-PROD"
         }
       ]
     },
@@ -737,6 +745,14 @@
           },
           "name": "FHD",
           "description": "HV:31"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakuten-lgde/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:CDN-UW2-PROD"
         }
       ]
     },
@@ -786,6 +802,14 @@
           },
           "name": "Audio",
           "description": "HV:LIVE-MANIFES"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:CDN-UW2-PROD"
         }
       ]
     },
@@ -1080,6 +1104,14 @@
           },
           "name": "FHD",
           "description": "HV:TWCPROD-LIVE"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8?wowzasessionid=@iprtlk",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:CDN-UW2-PROD"
         }
       ]
     }

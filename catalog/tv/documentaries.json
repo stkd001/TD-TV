@@ -386,6 +386,14 @@
           },
           "name": "SD",
           "description": "HV:RAW"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historyhit-lgfi/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:CDN-UW2-PROD"
         }
       ]
     },
