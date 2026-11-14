@@ -1,6 +1,14 @@
 {
   "streams": [
     {
+      "url": "http://41.205.93.154/BRAVO/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:41"
+    },
+    {
       "url": "https://bravoohls.wns.live/hls/stream.m3u8",
       "behaviorHints": {
         "notWebReady": true

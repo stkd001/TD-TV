@@ -111,6 +111,22 @@
           },
           "name": "SD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03i",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a05g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -225,6 +241,22 @@
           },
           "name": "FHD",
           "description": "HV:92"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03h",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06h",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -394,6 +426,22 @@
           },
           "name": "SD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03j",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01n",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -516,6 +564,14 @@
           },
           "name": "SD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a019",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },

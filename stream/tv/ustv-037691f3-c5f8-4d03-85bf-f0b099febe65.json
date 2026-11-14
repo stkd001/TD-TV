@@ -41,11 +41,11 @@
       "description": "🔴 LIVE • TD-TV\nHV:92"
     },
     {
-      "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+      "url": "http://45.167.1.138:8000/play/a06h",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ SD Sunroom",
+      "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:45"
     }
   ]

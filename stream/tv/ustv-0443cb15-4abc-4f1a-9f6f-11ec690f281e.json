@@ -23,6 +23,14 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:F76AA9AD"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a01a",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:45"
     }
   ]
 }

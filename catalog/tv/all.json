@@ -134,6 +134,22 @@
           },
           "name": "SD",
           "description": "HV:VS-CMAF-PUSH"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:1f483f18-3059-48cc-aa17-9672ff8f08f0&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01j",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -810,6 +826,22 @@
           },
           "name": "FHD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://wurllawnewz.global.transmit.live/hls/6a5e9b69d8950f7f33594d41/v1/scripps_courttv_2/vizio_us/latest/main/hls/playlist.m3u8?wurl_channel=1096&wurl_name=CourtTV&coppa=0&rdid=%7bADID%7d&dnt=%7bTARGETOPT%7d&pr=%7bUSPRIVACY%7d&ifatype=%7bIFATYPE%7d&lmt=%7bLMT%7d&bundleid=%7bAPP_BUNDLE%7d&appname=%7bAPP_NAME%7d&appstoreurl=%7bAPP_STORE_URL%7d&domain=%7bDOMAIN%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&make=%7bDEVICE_MAKE%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzgwNTcxNjk3Nn0",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:WURLLAWNEWZ"
+        },
+        {
+          "url": "https://wurllawnewz.global.transmit.live/hls/6a5e973c0087b16677759edb/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:WURLLAWNEWZ"
         }
       ]
     },
@@ -884,6 +916,14 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "https://aka-live1050.delivery.roku.com/2ff50939-341e-4fa8-becf-718769322f14/t2-origin/out/v1/live.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AKA-LIVE1050"
         }
       ]
     },
@@ -1372,6 +1412,86 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03l",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01p",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a02k",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06c",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a02l",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a04g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a04u",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01b",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06d",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06a",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -1445,6 +1565,22 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03m",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06b",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -1575,6 +1711,22 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:DASH4"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a05s",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -1833,6 +1985,31 @@
       ]
     },
     {
+      "id": "ustv-b1b573fd-f41b-4b86-b857-a4340d586a1f",
+      "tvgId": "",
+      "name": "A&E",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/a-and-e-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/a-and-e-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "http://45.167.1.138:8000/play/a03g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        }
+      ]
+    },
+    {
       "id": "ustv-17671b7d-f8ae-4724-8c7a-15de81021d82",
       "tvgId": "",
       "name": "AMC",
@@ -1990,6 +2167,30 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:ea1e337d-3ef4-48e5-81c9-a55e4060e4da&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01h",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a05k",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2087,6 +2288,86 @@
           },
           "name": "FHD",
           "description": "HV:D3VMPKKD3O2G"
+        },
+        {
+          "url": "https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-6ad12962e6621e77d3b88502.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
         }
       ]
     },
@@ -2128,6 +2409,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "http://41.205.93.154/BRAVO/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:41"
         }
       ]
     },
@@ -2225,6 +2514,14 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a04m",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2331,6 +2628,14 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a02d",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2519,6 +2824,14 @@
           },
           "name": "SD",
           "description": "HV:F76AA9AD"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01a",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2774,6 +3087,14 @@
           },
           "name": "FHD",
           "description": "HV:181"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a02s",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2983,6 +3304,54 @@
           },
           "name": "FHD",
           "description": "HV:205"
+        },
+        {
+          "url": "http://190.61.47.54:8000/play/a02f/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:190"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a05w",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a018",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a016",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3052,14 +3421,6 @@
         },
         {
           "url": "https://jmp2.uk/plu-6abab32a198ce62db3f7e54d.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-USBB3500002FL",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -3221,6 +3582,14 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a04d",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3351,6 +3720,22 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
+        },
+        {
+          "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03k",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3514,6 +3899,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a00g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3628,6 +4021,14 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3669,6 +4070,14 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a00z",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3751,6 +4160,14 @@
           },
           "name": "SD",
           "description": "HV:I"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a00x",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3952,6 +4369,14 @@
           },
           "name": "SD",
           "description": "HV:87"
+        },
+        {
+          "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
         }
       ]
     },
@@ -4025,6 +4450,22 @@
           },
           "name": "FHD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:41"
+        },
+        {
+          "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
         }
       ]
     },
@@ -4164,6 +4605,22 @@
           },
           "name": "SD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03i",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a05g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4278,6 +4735,22 @@
           },
           "name": "FHD",
           "description": "HV:92"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03h",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a06h",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4447,6 +4920,22 @@
           },
           "name": "SD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a03j",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a01n",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4569,6 +5058,14 @@
           },
           "name": "SD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a019",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },

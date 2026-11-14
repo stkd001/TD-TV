@@ -25,14 +25,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     },
     {
-      "url": "https://jmp2.uk/stvp-USBB3500002FL",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
       "url": "https://jmp2.uk/stvp-USBA300019WF",
       "behaviorHints": {
         "notWebReady": true

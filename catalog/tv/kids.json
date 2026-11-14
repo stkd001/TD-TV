@@ -111,6 +111,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a00g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -225,6 +233,14 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://45.166.93.156:9999/play/a0f3/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -266,6 +282,14 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a00z",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -348,6 +372,14 @@
           },
           "name": "SD",
           "description": "HV:I"
+        },
+        {
+          "url": "http://45.167.1.138:8000/play/a00x",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -549,6 +581,14 @@
           },
           "name": "SD",
           "description": "HV:87"
+        },
+        {
+          "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
         }
       ]
     },
@@ -622,6 +662,22 @@
           },
           "name": "FHD",
           "description": "HV:STREAM8"
+        },
+        {
+          "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:41"
+        },
+        {
+          "url": "https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
         }
       ]
     },
