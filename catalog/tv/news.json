@@ -512,6 +512,22 @@
           },
           "name": "SD",
           "description": "HV:AMG01079-NBC"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-es-2034.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lges/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
         }
       ]
     },
@@ -673,14 +689,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca045/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a036/index.m3u8",
@@ -924,6 +932,14 @@
           },
           "name": "SD",
           "description": "HV:AKA-LIVE1050"
+        },
+        {
+          "url": "https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:LIVE-MANIFES"
         }
       ]
     },

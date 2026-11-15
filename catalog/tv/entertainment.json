@@ -153,22 +153,6 @@
           "description": "HV:AMC-RUSHBYAM"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca021/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca036/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -516,14 +500,6 @@
           "description": "HV:38"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca122/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a002/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -791,6 +767,14 @@
           },
           "name": "SD",
           "description": "HV:DTQUTQ7LMCCH"
+        },
+        {
+          "url": "https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:LIVE-MANIFES"
         }
       ]
     },
@@ -1081,14 +1065,6 @@
           "description": "HV:45"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca022/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a038/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -1264,30 +1240,6 @@
           },
           "name": "SD",
           "description": "HV:31"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca025/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca035/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca123/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a03b/index.m3u8",

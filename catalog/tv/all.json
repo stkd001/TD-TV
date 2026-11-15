@@ -512,6 +512,22 @@
           },
           "name": "SD",
           "description": "HV:AMG01079-NBC"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-es-2034.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lges/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-fr-2032.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgfr/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
         }
       ]
     },
@@ -673,14 +689,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca045/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a036/index.m3u8",
@@ -924,6 +932,14 @@
           },
           "name": "SD",
           "description": "HV:AKA-LIVE1050"
+        },
+        {
+          "url": "https://live-manifest.production-public.tubi.io/live/f1fd1442-62f5-4663-9049-c08c27f6d980/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:LIVE-MANIFES"
         }
       ]
     },
@@ -1492,6 +1508,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "Audio",
+          "description": "HV:TVSEN5"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "Audio",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -1638,14 +1670,6 @@
           },
           "name": "HD",
           "description": "HV:85"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca126/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a01h/index.m3u8",
@@ -2137,22 +2161,6 @@
           "description": "HV:AMC-RUSHBYAM"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca021/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca036/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -2500,14 +2508,6 @@
           "description": "HV:38"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca122/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a002/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -2775,6 +2775,14 @@
           },
           "name": "SD",
           "description": "HV:DTQUTQ7LMCCH"
+        },
+        {
+          "url": "https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:LIVE-MANIFES"
         }
       ]
     },
@@ -3065,14 +3073,6 @@
           "description": "HV:45"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca022/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a038/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3248,30 +3248,6 @@
           },
           "name": "SD",
           "description": "HV:31"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca025/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca035/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca123/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a03b/index.m3u8",
@@ -3544,14 +3520,6 @@
           "description": "HV:STREAM"
         },
         {
-          "url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:168"
-        },
-        {
           "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3566,14 +3534,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca032/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1784102622&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=dabd0667017770543635be4bb1f63c22",
@@ -3641,14 +3601,6 @@
           "description": "HV:88"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca61/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:200"
-        },
-        {
           "url": "https://i.mjh.nz/.r/sky-hgtv.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3698,14 +3650,6 @@
           "description": "HV:88"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca058/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a010/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3720,14 +3664,6 @@
           },
           "name": "SD",
           "description": "HV:TVSEN6"
-        },
-        {
-          "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:38"
         },
         {
           "url": "http://45.167.1.138:8000/play/a03k",
@@ -3869,14 +3805,6 @@
           "description": "HV:45"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca002/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://185.227.34.104/stream/122/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3907,6 +3835,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://176.65.153.40:6002/play/a013/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:176"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -3926,12 +3870,12 @@
       ],
       "streams": [
         {
-          "url": "http://200.115.120.1:8000/play/ca053/index.m3u8",
+          "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c",
           "behaviorHints": {
             "notWebReady": true
           },
-          "name": "FHD",
-          "description": "HV:200"
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -3973,14 +3917,6 @@
           },
           "name": "FHD",
           "description": "HV:138"
-        },
-        {
-          "url": "http://87.120.179.187:8000/play/a010",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:87"
         },
         {
           "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
@@ -4054,14 +3990,6 @@
           },
           "name": "SD",
           "description": "HV:181"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca009/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a02s/index.m3u8",
@@ -4138,14 +4066,6 @@
           "description": "HV:181"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca010/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a00e/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -4168,6 +4088,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -4363,20 +4291,20 @@
           "description": "HV:XYKT-FIX"
         },
         {
-          "url": "http://87.120.179.187:8000/play/a00x",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:87"
-        },
-        {
           "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:R"
         }
       ]
     },
@@ -4466,6 +4394,14 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -4565,14 +4501,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca055/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a0ne/index.m3u8",

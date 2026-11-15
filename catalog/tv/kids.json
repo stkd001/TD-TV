@@ -81,14 +81,6 @@
           "description": "HV:45"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca002/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://185.227.34.104/stream/122/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -119,6 +111,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://176.65.153.40:6002/play/a013/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:176"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -138,12 +146,12 @@
       ],
       "streams": [
         {
-          "url": "http://200.115.120.1:8000/play/ca053/index.m3u8",
+          "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c",
           "behaviorHints": {
             "notWebReady": true
           },
-          "name": "FHD",
-          "description": "HV:200"
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -185,14 +193,6 @@
           },
           "name": "FHD",
           "description": "HV:138"
-        },
-        {
-          "url": "http://87.120.179.187:8000/play/a010",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:87"
         },
         {
           "url": "http://181.78.8.199:8000/play/a0dn/index.m3u8",
@@ -266,14 +266,6 @@
           },
           "name": "SD",
           "description": "HV:181"
-        },
-        {
-          "url": "http://200.115.120.1:8000/play/ca009/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
         },
         {
           "url": "http://158.172.217.18:8000/play/a02s/index.m3u8",
@@ -350,14 +342,6 @@
           "description": "HV:181"
         },
         {
-          "url": "http://200.115.120.1:8000/play/ca010/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:200"
-        },
-        {
           "url": "http://158.172.217.18:8000/play/a00e/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -380,6 +364,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -575,20 +567,20 @@
           "description": "HV:XYKT-FIX"
         },
         {
-          "url": "http://87.120.179.187:8000/play/a00x",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:87"
-        },
-        {
           "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:R"
         }
       ]
     },
@@ -678,6 +670,14 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN5"
         }
       ]
     },
