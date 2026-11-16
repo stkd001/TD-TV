@@ -1,6 +1,14 @@
 {
   "streams": [
     {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:CDN-UW2-PROD"
+    },
+    {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=0c76b6e4-df80-4a4a-94c4-ffa142215600&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7e28df58-a774-4119-a6c0-89517d544d06&userId=&serverSideAds=true",
       "behaviorHints": {
         "notWebReady": true
@@ -39,14 +47,6 @@
       },
       "name": "☀️ 720P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:23"
-    },
-    {
-      "url": "https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:LIVE-MANIFES"
     }
   ]
 }
