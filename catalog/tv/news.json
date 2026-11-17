@@ -801,6 +801,14 @@
           },
           "name": "SD",
           "description": "HV:SSAI"
+        },
+        {
+          "url": "https://amg01918-cnnus-amg01918c4-firetv-us-10201.playouts.now.amagi.tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:AMG01918-CNN"
         }
       ]
     },
