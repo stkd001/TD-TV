@@ -23,6 +23,14 @@
       },
       "name": "☀️ 720P Sunroom",
       "description": "🔴 LIVE • TD-TV\nPTV"
+    },
+    {
+      "url": "https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:DASH2"
     }
   ]
 }

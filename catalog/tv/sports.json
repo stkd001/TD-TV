@@ -57,22 +57,6 @@
           "description": "HV:LIVE-MANIFES"
         },
         {
-          "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:CDN-UE1-PROD"
-        },
-        {
-          "url": "https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0690efb6-aa43-44a6-94a2-cfcf4c533aa0/manifest.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:STREAMS2"
-        },
-        {
           "url": "https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -95,6 +79,30 @@
           },
           "name": "SD",
           "description": "HV:AMG01334-BEI"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387&ads.xumo_streamId=99991387&ads.channelId=99991387&ads.channelName=beINSports_us&ads.xumo_channelName=beINSports&ads.caid=beINSports&ads.csid=xumo_web_beINSports_ssai&ads.genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_content_genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_coppa=0&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads._fw_ifa_type=&ads._fw_did=3bca33f6-40f9-49ca-ade8-7d09e21b6b36&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:BEIN-BEINXTR"
+        },
+        {
+          "url": "https://bein-xtra-xumo.amagi.tv/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/master.m3u8?is_lat=[IS_LAT]&us_privacy=[CCPA_Value]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:BEIN-XTRA-XU"
         }
       ]
     },
@@ -353,6 +361,14 @@
           },
           "name": "HD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.78.211.244:8005/play/a08q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
         }
       ]
     },
@@ -531,6 +547,96 @@
           },
           "name": "SD",
           "description": "HV:D1JZU95OC8FG"
+        },
+        {
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        },
+        {
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        },
+        {
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        },
+        {
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        },
+        {
+          "url": "https://s11host1.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config13/lg.m3u8?ads.cdnhost=s11host1.localnow.api.cms.amdvids.com&ads.playbackid=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n1=rule_id&ads.v1=CA34390D-452C-4830-B084-998E2DB1A079-1755113457&ads.n3=qp_content_id&ads.v3=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n4=content_name&ads.v4=FOX%20Sports&ads.n21=content_livestream&ads.v21=1&ads.n22=content_custom_1_param&ads.v22=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n23=channel_ext_id&ads.v23=&ads.n24=ip&ads.v24=187.14.239.54&ads.n25=content_custom_2_param&ads.v25=AMDB013655&ads.n26=h&ads.v26=1080&ads.n27=device_make&ads.v27=&ads.n28=dnt&ads.v28=&ads.n29=channel_corp&ads.v29=Fox%20News%20Network&ads.n30=channel_rating&ads.v30=TV-PG&ads.n31=app_bundle&ads.v31=&ads.n32=app_store_url&ads.v32=&ads.n33=content_custom_3_param&ads.v33=channel&ads.n34=cust_devicename&ads.v34=desktop_web&ads.n35=did&ads.v35=&ads.n36=gpp&ads.v36=&ads.n37=channel_name&ads.v37=FOX%20Sports&ads.n38=url&ads.v38=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n39=device_type&ads.v39=&ads.n40=channel_language&ads.v40=en&ads.n41=channel_title&ads.v41=FOX%20Sports&ads.n42=ifa_type&ads.v42=&ads.n43=pos&ads.v43=midroll&ads.n44=content_type&ads.v44=channel&ads.n45=app_name&ads.v45=&ads.n46=w&ads.v46=1920&ads.n47=channel_company_id&ads.v47=AMDP500565&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=channel_genre&ads.v49=Sports&ads.n50=channel_id&ads.v50=2D77A7BA-2E3D-42AA-95DD-72494995A81E&ads.n51=channel_brand_id&ads.v51=AMDB013655&ads.n52=network_name&ads.v52=fox-sports&ads.n53=gpp_sid&ads.v53=&ads.n54=device_model&ads.v54=&ads.n55=content_provider&ads.v55=fox-sports&ads.n56=ua&ads.v56=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n57=app_version&ads.v57=0.0.0&ads.n58=content_producer_name&ads.v58=Fox%20News%20Network",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:S11HOST1"
+        }
+      ]
+    },
+    {
+      "id": "ustv-3a01ed05-44c1-4c7a-aaff-4775c515d702",
+      "tvgId": "",
+      "name": "FS1",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-1-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-1-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAM"
+        }
+      ]
+    },
+    {
+      "id": "ustv-17909d85-030e-4152-9de5-9e3d7143c41d",
+      "tvgId": "",
+      "name": "FS2",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/fox-sports-2-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/fox-sports-2-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
         }
       ]
     },
@@ -690,7 +796,23 @@
       ],
       "streams": [
         {
-          "url": "https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/205/hls/master/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n4=content_name&ads.v4=EPG%20%7C%20Pursuit%20Up%20Channel&ads.n21=gpp&ads.v21=&ads.n22=ifa_type&ads.v22=&ads.n23=gpp_sid&ads.v23=&ads.n24=channel_genre&ads.v24=Sports&ads.n25=did&ads.v25=&ads.n26=dnt&ads.v26=&ads.n27=pos&ads.v27=midroll&ads.n28=ip&ads.v28=185.217.168.164&ads.n29=content_custom_1_param&ads.v29=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n30=app_name&ads.v30=&ads.n31=content_custom_3_param&ads.v31=channel&ads.n32=channel_brand_id&ads.v32=AMDB012510&ads.n33=cust_devicename&ads.v33=desktop_web&ads.n34=channel_ext_id&ads.v34=6196ecb58cb60e0f204e2041&ads.n35=content_producer_name&ads.v35=Pursuit%20Media%20TV%20LLC&ads.n36=channel_company_id&ads.v36=AMDP500223&ads.n37=device_make&ads.v37=&ads.n38=network_name&ads.v38=pursuit-up&ads.n39=h&ads.v39=1080&ads.n40=content_provider&ads.v40=pursuit-up&ads.n41=app_version&ads.v41=0.0.0&ads.n42=channel_title&ads.v42=EPG%20%20Pursuit%20Up%20Channel&ads.n43=channel_rating&ads.v43=TV-PG&ads.n44=content_livestream&ads.v44=1&ads.n45=ua&ads.v45=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n46=channel_id&ads.v46=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n47=channel_name&ads.v47=EPG%20%20Pursuit%20Up%20Channel&ads.n48=content_custom_2_param&ads.v48=AMDB012510&ads.n49=device_type&ads.v49=&ads.n50=us_privacy&ads.v50=1YNY&ads.n51=content_type&ads.v51=channel&ads.n52=w&ads.v52=1920&ads.n53=channel_language&ads.v53=en&ads.n54=channel_corp&ads.v54=Pursuit%20Media%20TV%20LLC&ads.n55=url&ads.v55=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n56=app_bundle&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=app_store_url&ads.v58=",
+          "url": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:A-CDN"
+        },
+        {
+          "url": "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:D1P1SIOMV3CM"
+        },
+        {
+          "url": "https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/205/hls/master/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n1=rule_id&ads.v1=3DD25AFA-F895-4BAA-9D6D-089AAD5E7187-1781621125&ads.n3=qp_content_id&ads.v3=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n4=content_name&ads.v4=EPG%20%7C%20Pursuit%20Up%20Channel&ads.n21=device_model&ads.v21=&ads.n22=channel_id&ads.v22=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n23=content_custom_3_param&ads.v23=channel&ads.n24=channel_corp&ads.v24=Pursuit%20Media%20TV%20LLC&ads.n25=channel_brand_id&ads.v25=AMDB012510&ads.n26=channel_title&ads.v26=EPG%20%20Pursuit%20Up%20Channel&ads.n27=content_custom_1_param&ads.v27=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n28=h&ads.v28=1080&ads.n29=channel_name&ads.v29=EPG%20%20Pursuit%20Up%20Channel&ads.n30=ip&ads.v30=187.14.239.54&ads.n31=w&ads.v31=1920&ads.n32=channel_ext_id&ads.v32=6196ecb58cb60e0f204e2041&ads.n33=network_name&ads.v33=pursuit-up&ads.n34=device_type&ads.v34=&ads.n35=us_privacy&ads.v35=1NYY&ads.n36=url&ads.v36=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n37=channel_company_id&ads.v37=AMDP500223&ads.n38=ifa_type&ads.v38=&ads.n39=pos&ads.v39=midroll&ads.n40=app_version&ads.v40=0.0.0&ads.n41=app_store_url&ads.v41=&ads.n42=app_name&ads.v42=&ads.n43=content_type&ads.v43=channel&ads.n44=app_bundle&ads.v44=&ads.n45=gpp_sid&ads.v45=&ads.n46=content_livestream&ads.v46=1&ads.n47=dnt&ads.v47=&ads.n48=content_custom_2_param&ads.v48=AMDB012510&ads.n49=content_provider&ads.v49=pursuit-up&ads.n50=gpp&ads.v50=&ads.n51=channel_language&ads.v51=en&ads.n52=ua&ads.v52=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n53=device_make&ads.v53=&ads.n54=did&ads.v54=&ads.n55=cust_devicename&ads.v55=desktop_web&ads.n56=content_producer_name&ads.v56=Pursuit%20Media%20TV%20LLC&ads.n57=channel_genre&ads.v57=Sports&ads.n58=channel_rating&ads.v58=TV-PG",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -834,6 +956,14 @@
           },
           "name": "FHD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://amg01444-amg01444c5-vidaa-us-8213.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischanneldeutschland-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8701",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:AMG01444-AMG"
         }
       ]
     }

@@ -215,6 +215,30 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://tv123.cc.cd/live.php?ch=1235&sid=283d99ea53dd13729d3b2b13fea752cd&exp=1794857449&sig=a58b5c21312f0e02b32b2ab6a20f0e1d6e0e8e10cc7de24f8f7beb573dd5bcda$IPV4",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TV123"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:bb94f335-e739-4218-adb1-d03875061636&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "https://streaming.onnethn.com/AMC/playlist.m3u8?checkedby:iptvcat.net",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAMING"
         }
       ]
     },
@@ -330,31 +354,7 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -370,23 +370,15 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://jmp2.uk/plu-6ad12962e6621e77d3b88502.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -441,6 +433,30 @@
           },
           "name": "FHD",
           "description": "HV:41"
+        },
+        {
+          "url": "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:XUMO-XUMOENT"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951242&ads.xumo_streamId=99951242&ads.channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=ddd43a6c-85b1-4279-8c09-6a14863701f3&ads._fw_vcid2=512116:ddd43a6c-85b1-4279-8c09-6a14863701f3&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?ads.xumo_channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_[PLATFORM]_NBCUBravoVault_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Reality,Drama,GD,Entertainment,GV,Reality-TV,Reality+Shows&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.channelId=99951242&ads._fw_ifa_type=[IFA_TYPE]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -538,6 +554,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://streaming.onnethn.com/CINEMAX/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:STREAMING"
         }
       ]
     },
@@ -753,14 +777,6 @@
           "description": "HV:DBRB49PJOYMG"
         },
         {
-          "url": "https://jmp2.uk/plu-65453f30085df200085883d8.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://6358c493.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSW9uUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=378&ads.wurl_name=IonPlus&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6Mjk2ODYwMjQ2Nn0",
           "behaviorHints": {
             "notWebReady": true
@@ -807,6 +823,38 @@
           },
           "name": "FHD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://jmp2.uk/plu-65453f30085df200085883d8.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=4debc7f8-1279-42ab-92a9-53d87b370970&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=e9d143aa-76ce-43d9-94ce-c77a75f90614&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_web_IONPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9999614&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_[PLATFORM]_IONPlus_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999614&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -834,12 +882,20 @@
           "description": "HV:138"
         },
         {
-          "url": "https://amg00276-amg00276c28-vidaa-us-11223.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00276-aetelevisionnetworksfast-lifetimemovieslovedrama-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10692",
+          "url": "http://45.167.1.138:8000/play/a01a",
           "behaviorHints": {
             "notWebReady": true
           },
-          "name": "Audio",
-          "description": "HV:AMG00276-AMG"
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "https://streaming.onnethn.com/LIFETIME/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:STREAMING"
         },
         {
           "url": "https://jmp2.uk/rok-8d8befc9060e861eb1bdd5b21c0403b3.m3u8",
@@ -850,20 +906,28 @@
           "description": "HV:JMP2"
         },
         {
+          "url": "https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AENETWORKS"
+        },
+        {
+          "url": "https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesbyLifetime&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzQ1NjY3OTAzMn0",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:5EE29B66"
+        },
+        {
           "url": "https://f76aa9ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesbyLifetime&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10590",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "SD",
           "description": "HV:F76AA9AD"
-        },
-        {
-          "url": "http://45.167.1.138:8000/play/a01a",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:45"
         },
         {
           "url": "https://amg26277-amg26277c12-vidaa-gb-11245.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26277-aeusainternational-lifetimemoviesint-vidaagb/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10840",
@@ -892,6 +956,14 @@
       "streams": [
         {
           "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?ads.xumo_channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_[PLATFORM]_versantoxygentruecrimearchives_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumoplay&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.channelId=99951466&ads._fw_ifa_type=[IFA_TYPE]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951466&ads.xumo_streamId=99951466&ads.channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=5b828ece-a30d-4b83-bfdc-09d8b9ee2b3a&ads._fw_vcid2=512116:5b828ece-a30d-4b83-bfdc-09d8b9ee2b3a&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -979,6 +1051,30 @@
           },
           "name": "FHD",
           "description": "HV:DTQUTQ7LMCCH"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=3dba33f6-923a-44e8-ae76-cb2a45f19830&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:A-CDN"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_[PLATFORM]_ReelzChannelNEW_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991368&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1113,20 +1209,20 @@
           "description": "HV:158"
         },
         {
-          "url": "http://181.78.14.26:4000/play/a04d/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:181"
-        },
-        {
           "url": "http://45.167.1.138:8000/play/a02s",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://streaming.onnethn.com/TCM_HD/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:STREAMING"
         }
       ]
     },
@@ -1242,22 +1338,6 @@
           "description": "HV:181"
         },
         {
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:OTTE"
-        },
-        {
-          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:OTTE"
-        },
-        {
           "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "behaviorHints": {
             "notWebReady": true
@@ -1360,6 +1440,38 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        },
+        {
+          "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:OTTE"
+        },
+        {
+          "url": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:TNTM"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0xa/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
         }
       ]
     },
@@ -1437,6 +1549,22 @@
         },
         {
           "url": "https://jmp2.uk/stvp-USBA300019WF",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-USBB3500002FL",
           "behaviorHints": {
             "notWebReady": true
           },

@@ -150,6 +150,22 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DASH2"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:c885c9ea-41af-4f92-b3d9-efd7b39a987d&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
         }
       ]
     },
@@ -185,14 +201,6 @@
           "description": "HV:BLOOMBERG"
         },
         {
-          "url": "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -215,54 +223,6 @@
           },
           "name": "FHD",
           "description": "HV:DBRB49PJOYMG"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-GBBA3300033C2",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plex-697140a85d851f5e69414688-61d73ab0a7b7c7f703418516.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plex-643054b1fc3be59477853717-61d73ab0a7b7c7f703418516.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plex-6430aa45fc3be5947780904e-61d73ab0a7b7c7f703418516.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/plex-64305451fc3be5947773c339-61d73ab0a7b7c7f703418516.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
         },
         {
           "url": "https://jmp2.uk/plu-61559552dd585f0007321eca.m3u8",
@@ -305,62 +265,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://jmp2.uk/stvp-ATBA3300018K1",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-CHBA3300018TD",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-DEBA3300027ZJ",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-ESBA3300024AJ",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-FR1400004VF",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-INBA5100021WP",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-ITBA3300025F5",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://live-manifest.production-public.tubi.io/live/083318f5-9f96-4a49-a024-591cf14bdb33/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -399,6 +303,46 @@
           },
           "name": "HD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:D8975DC3"
+        },
+        {
+          "url": "https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:86EBEC83"
+        },
+        {
+          "url": "https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://jmp2.uk/plu-54ff7ba69222cb1c2624c584.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=733ae03f-f4d7-4137-92ec-76fd0b56100e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -458,30 +402,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://jmp2.uk/stvp-INBD1300007ST",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-INBD1300008ZY",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:JMP2"
-        },
-        {
-          "url": "https://jmp2.uk/stvp-INBD2500015H5",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -531,6 +451,30 @@
         },
         {
           "url": "https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcuk-lggb/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01079-NBC"
+        },
+        {
+          "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:HNPSECHTSC"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-INBD2500015H5",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://amg01079-nbcuuk-amg01079c1-lg-it-2033.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgit/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -609,22 +553,6 @@
           },
           "name": "HD",
           "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYwODcyODA5N30",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:AMG01918-CNN"
-        },
-        {
-          "url": "https://jmp2.uk/plu-673248f9030a2c0008033af8.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
         },
         {
           "url": "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8?wowzasessionid=@iprtlk",
@@ -809,6 +737,54 @@
           },
           "name": "HD",
           "description": "HV:AMG01918-CNN"
+        },
+        {
+          "url": "http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/36923.ts",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:PRIMESTREAMS"
+        },
+        {
+          "url": "http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1347.ts",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:PRIMESTREAMS"
+        },
+        {
+          "url": "https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:AMG01918-CNN"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951387&ads.xumo_streamId=99951387&ads.channelId=99951387&ads.channelName=WBDCNNOriginals&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads.genre=Entertainment&ads._fw_content_genre=Entertainment&ads._fw_coppa=0&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads.asnw=&ads.xumo_channelName=WBDCNNOriginals&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=d03058e5-a641-4855-ab54-42142f2afb2e&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://amg00803-cnnfast-amg00803c6-lg-de-5356.playouts.now.amagi.tv/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG00803-CNN"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?ads.xumo_channelId=99951387&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=WBDCNNOriginals&ads.csid=xumo_[PLATFORM]_WBDCNNOriginals_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951387&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -890,6 +866,22 @@
           },
           "name": "FHD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951559/hls/playlist.m3u8?ads.xumo_channelId=99951559&ads.xumo_streamId=99951559&ads.channelId=99951559&ads.channelName=LawCrimeCourtTV_us&ads.xumo_channelName=LawCrimeCourtTV&ads.caid=LawCrimeCourtTV&ads.csid=xumo_web_LawCrimeCourtTV_ssai&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_coppa=0&ads.xumo_contentId=4458&ads.xumo_contentName=LawCrimeCourtTV&ads.xumo_providerId=4458&ads.xumo_providerName=LawCrimeCourtTV&ads._fw_ifa_type=&ads._fw_did=f1089fed-2e49-47e1-b4b7-e7ba1e67f051&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991713/hls/playlist.m3u8?ads.xumo_channelId=99991713&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ScrippsTVCourtTV&ads.csid=xumo_[PLATFORM]_ScrippsTVCourtTV_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2048&ads.xumo_contentName=ScrippsTVCourtTV&ads.xumo_providerId=2048&ads.xumo_providerName=ScrippsTVCourtTV&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991713&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -942,22 +934,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://247wlive.foxweather.com/stream/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:247WLIVE"
-        },
-        {
-          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzgyNTA3NzYzNX0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:CDN-UW2-PROD"
-        },
-        {
           "url": "https://jmp2.uk/rok-0838d5ccb1d5564d98fb804ab314c85e.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -980,6 +956,30 @@
           },
           "name": "SD",
           "description": "HV:LIVE-MANIFES"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=17e2f505-b0e7-4e09-b151-002ba109c1f3&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzgyNTA3NzYzNX0",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_[PLATFORM]_FoxWeather_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991694&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1175,6 +1175,22 @@
           },
           "name": "SD",
           "description": "HV:NEWSMAXADRIA"
+        },
+        {
+          "url": "https://a-cdn.klowdtv.com/live3/newsmax2_720p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:A-CDN"
+        },
+        {
+          "url": "https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:A-CDN"
         }
       ]
     },
@@ -1208,6 +1224,14 @@
           },
           "name": "SD",
           "description": "HV:CDN-UW2-PROD"
+        },
+        {
+          "url": "https://a-cdn.klowdtv.com/live2/theweatherchannel_720p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:A-CDN"
         }
       ]
     }

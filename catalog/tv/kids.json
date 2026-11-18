@@ -22,6 +22,22 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        },
+        {
+          "url": "https://live-us1.thaimomo.com/live-as/chboomerang-2/chunklist_w135479847.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:LIVE-US1"
+        },
+        {
+          "url": "https://toy.vcdn.fyi/boomreborn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TOY"
         }
       ]
     },
@@ -79,14 +95,6 @@
           },
           "name": "SD",
           "description": "HV:45"
-        },
-        {
-          "url": "http://185.227.34.104/stream/122/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:185"
         },
         {
           "url": "http://213.91.179.28:8000/play/a08g",
@@ -399,14 +407,6 @@
           "description": "HV:STREAM8"
         },
         {
-          "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "http://181.224.255.210:8001/play/a0ol/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -527,14 +527,6 @@
           "description": "HV:158"
         },
         {
-          "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:JMP2"
-        },
-        {
           "url": "https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -551,20 +543,28 @@
           "description": "HV:STREAM8"
         },
         {
-          "url": "http://185.227.34.104/stream/117/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:185"
-        },
-        {
           "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "FHD",
           "description": "HV:XYKT-FIX"
+        },
+        {
+          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:R"
+        },
+        {
+          "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:85"
         },
         {
           "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
@@ -575,12 +575,36 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8",
+          "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "SD",
-          "description": "HV:R"
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:90"
+        },
+        {
+          "url": "https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "http://181.78.79.131:8000/play/a0qm",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
         }
       ]
     },

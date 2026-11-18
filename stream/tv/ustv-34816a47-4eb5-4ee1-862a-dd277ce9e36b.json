@@ -25,14 +25,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:STREAM8"
     },
     {
-      "url": "http://185.227.34.104/stream/117/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:185"
-    },
-    {
       "url": "https://xykt-fix.github.io/iptv/streams/SP57.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -41,12 +33,20 @@
       "description": "🔴 LIVE • TD-TV\nHV:XYKT-FIX"
     },
     {
-      "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
+      "url": "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM8"
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:85"
+    },
+    {
+      "url": "http://90.170.214.40:9700/stream/avatel/nickelodeonhd/master.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:90"
     }
   ]
 }
