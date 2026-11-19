@@ -103,31 +103,30 @@
           },
           "name": "SD",
           "description": "HV:BEIN-XTRA-XU"
-        }
-      ]
-    },
-    {
-      "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436",
-      "tvgId": "",
-      "name": "Big Ten Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/big-ten-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/big-ten-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
+        },
         {
-          "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+          "url": "https://streams2.sofast.tv/ptnr-khabriya/title-Xtrasports_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0690efb6-aa43-44a6-94a2-cfcf4c533aa0/manifest.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
-          "name": "FHD",
-          "description": "HV:23"
+          "name": "SD",
+          "description": "HV:STREAMS2"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387&ads.xumo_streamId=99991387&ads.channelId=99991387&ads.channelName=beINSports_us&ads.xumo_channelName=beINSports&ads.caid=beINSports&ads.csid=xumo_web_beINSports_ssai&ads.genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_content_genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_coppa=0&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads._fw_ifa_type=&ads._fw_did=361d4b49-e6f1-4159-bf06-02d0ef411cd8&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dapdwco2fkcoa.cloudfront.net/hls/playlist.m3u8?ads.xumo_channelId=88887753&ads.xumo_streamId=88887753&ads.csid=vidaa_beinsports_ssai&ads.caid=beINSports&ads.appName=%7BADS.APP_NAME%7D&ads.appVersion=1&ads._fw_app_bundle=%7BADS.APP_BUNDLE%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7BADS.BRAND_NAME%7D&ads._fw_device_model=%7BADS.DEVICE_OSV%7D&ads._fw_devicetype=%7BADS.DEVICE_TYPE%7D&ads._fw_coppa=0&ads._fw_gdpr_consent=%7BADS.GDPR_CONSENT%7D&ads._fw_gdpr=%7BADS.GDPR%7D&ads._fw_is_lat=%7BADS.DNT%7D&ads._fw_us_privacy=%7BADS.US_PRIVACY%7D&ads._fw_h_x_country=%7BADS.DEVICE_COUNTRY%7D&ads._fw_player_width=%7BADS.W%7D&ads._fw_player_height=%7BADS.H%7D&ads.vauth=%7BADS.VAUTH%7D&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_ifa=%7BADS.IFA%7D&ads.xumo_ifaType=%7BADS.IFA_TYPE%7D&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads.client_section=beinsports_beinsports&ads.vidaa_providername=beINSports&ads._fw_app_store_url=%7BADS.APP_STORE_URL%7D&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=9603",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DAPDWCO2FKCO"
         }
       ]
     },
@@ -369,6 +368,14 @@
           },
           "name": "HD",
           "description": "HV:181"
+        },
+        {
+          "url": "https://cdn-5.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "Audio",
+          "description": "HV:CDN-5"
         }
       ]
     },
@@ -964,6 +971,14 @@
           },
           "name": "FHD",
           "description": "HV:AMG01444-AMG"
+        },
+        {
+          "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:MUMBAI-EDGE"
         }
       ]
     }

@@ -17,6 +17,14 @@
       "description": "🔴 LIVE • TD-TV\nHV:AMG01444-AMG"
     },
     {
+      "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:MUMBAI-EDGE"
+    },
+    {
       "url": "https://jmp2.uk/plu-6870c97b759366af055fe371.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -34,14 +42,6 @@
     },
     {
       "url": "https://jmp2.uk/plu-6a43c8e19d516ba88f728627.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
