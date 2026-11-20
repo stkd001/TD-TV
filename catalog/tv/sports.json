@@ -127,6 +127,14 @@
           },
           "name": "SD",
           "description": "HV:DAPDWCO2FKCO"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387&ads.xumo_streamId=99991387&ads.channelId=99991387&ads.channelName=beINSports_us&ads.xumo_channelName=beINSports&ads.caid=beINSports&ads.csid=xumo_web_beINSports_ssai&ads.genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_content_genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_coppa=0&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads._fw_ifa_type=&ads._fw_did=7256f6ad-2c28-4a97-b5b5-dd736c84a81a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -693,6 +701,14 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
         }
       ]
     },
@@ -825,31 +841,6 @@
           },
           "name": "FHD",
           "description": "HV:S2HOST5"
-        }
-      ]
-    },
-    {
-      "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f",
-      "tvgId": "",
-      "name": "SEC Network",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Sports",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sec-network-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sec-network-us.png",
-      "genres": [
-        "Sports"
-      ],
-      "streams": [
-        {
-          "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:23"
         }
       ]
     },

@@ -9,22 +9,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:STREAMING"
     },
     {
-      "url": "http://stream.mcquack.net/298/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:STREAM"
-    },
-    {
-      "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:23"
-    },
-    {
       "url": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -47,6 +31,14 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:45"
+    },
+    {
+      "url": "http://168.196.127.137:6001/play/a09v/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:168"
     }
   ]
 }
