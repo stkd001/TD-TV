@@ -1,22 +1,6 @@
 {
   "streams": [
     {
-      "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:23"
-    },
-    {
-      "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:23"
-    },
-    {
       "url": "http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -47,6 +31,22 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:38"
+    },
+    {
+      "url": "http://158.172.217.18:8000/play/a002/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:158"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a04m",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:45"
     }
   ]
 }

@@ -9,14 +9,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:DBRB49PJOYMG"
     },
     {
-      "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:23"
-    },
-    {
       "url": "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -47,6 +39,14 @@
       },
       "name": "☀️ 1080P Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DBRB49PJOYMG"
+    },
+    {
+      "url": "https://jmp2.uk/stvp-GBBA3300033C2",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     }
   ]
 }

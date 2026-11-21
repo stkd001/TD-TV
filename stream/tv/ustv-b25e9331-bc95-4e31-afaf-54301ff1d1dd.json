@@ -1,14 +1,6 @@
 {
   "streams": [
     {
-      "url": "https://kinowalk.hopto.org/disneyxd_live",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:KINOWALK"
-    },
-    {
       "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
       "behaviorHints": {
         "notWebReady": true

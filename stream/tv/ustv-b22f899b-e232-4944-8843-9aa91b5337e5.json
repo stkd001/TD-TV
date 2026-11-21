@@ -41,12 +41,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:DBRB49PJOYMG"
     },
     {
-      "url": "https://a-cdn.klowdtv.com/live3/famousandinfamous_720p/playlist.m3u8",
+      "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:A-CDN"
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:DBRB49PJOYMG"
     }
   ]
 }

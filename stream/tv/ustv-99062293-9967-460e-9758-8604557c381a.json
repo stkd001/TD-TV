@@ -1,12 +1,3 @@
 {
-  "streams": [
-    {
-      "url": "http://23.237.104.106:8080/USA_ACCN/mpegts",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:23"
-    }
-  ]
+  "streams": []
 }
