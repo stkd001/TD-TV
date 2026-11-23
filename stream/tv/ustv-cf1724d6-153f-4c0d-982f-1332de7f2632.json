@@ -9,14 +9,6 @@
       "description": "🔴 LIVE • TD-TV\nHV:181"
     },
     {
-      "url": "http://181.78.79.131:8000/play/a0q9",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:181"
-    },
-    {
       "url": "http://181.78.79.131:8000/play/a0na",
       "behaviorHints": {
         "notWebReady": true
@@ -42,6 +34,14 @@
     },
     {
       "url": "http://45.167.1.138:8000/play/a05w",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:45"
+    },
+    {
+      "url": "http://45.167.1.138:8000/play/a06g",
       "behaviorHints": {
         "notWebReady": true
       },

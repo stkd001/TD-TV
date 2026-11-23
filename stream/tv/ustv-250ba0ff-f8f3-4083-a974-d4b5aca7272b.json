@@ -33,20 +33,20 @@
       "description": "🔴 LIVE • TD-TV\nHV:158"
     },
     {
+      "url": "http://38.211.118.56:50002/play/a0fa/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 720P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:38"
+    },
+    {
       "url": "http://190.61.47.54:8000/play/a005/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:190"
-    },
-    {
-      "url": "http://158.172.217.18:8000/play/a02u/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:158"
     }
   ]
 }
