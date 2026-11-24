@@ -9,6 +9,14 @@
       "description": "🔴 LIVE • TD-TV\nHV:DASH2"
     },
     {
+      "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:23"
+    },
+    {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=a871f05c-5967-4b2c-b270-8192e8c7fa64&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=c79aae35-445f-4cd8-a2f0-6720d407d6d3&userId=&serverSideAds=true",
       "behaviorHints": {
         "notWebReady": true
@@ -39,14 +47,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:D3PXO1QCGZXT"
-    },
-    {
-      "url": "https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     }
   ]
 }

@@ -198,6 +198,22 @@
           },
           "name": "SD",
           "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:f9dba7d1-8353-4fa5-be31-57e9dde6a1f7&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
         }
       ]
     },
@@ -442,6 +458,30 @@
         },
         {
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=09d3a2e4-1564-47c3-83f0-77dad38b10c0&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        },
+        {
+          "url": "https://jmp2.uk/stvp-CHBA3300018TD",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:JMP2"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=690a1093-4694-4840-b6f4-e188ae42db8c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -961,6 +1001,14 @@
           },
           "name": "HD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951387&ads.xumo_streamId=99951387&ads.channelId=99951387&ads.channelName=WBDCNNOriginals&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads.genre=Entertainment&ads._fw_content_genre=Entertainment&ads._fw_coppa=0&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads.asnw=&ads.xumo_channelName=WBDCNNOriginals&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=29a84db7-eed5-41d4-a7b1-767fc4dba7e4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1122,6 +1170,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951559/hls/playlist.m3u8?ads.xumo_channelId=99951559&ads.xumo_streamId=99951559&ads.channelId=99951559&ads.channelName=LawCrimeCourtTV_us&ads.xumo_channelName=LawCrimeCourtTV&ads.caid=LawCrimeCourtTV&ads.csid=xumo_web_LawCrimeCourtTV_ssai&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_coppa=0&ads.xumo_contentId=4458&ads.xumo_contentName=LawCrimeCourtTV&ads.xumo_providerId=4458&ads.xumo_providerName=LawCrimeCourtTV&ads._fw_ifa_type=&ads._fw_did=867bf0cc-e421-4d37-9132-ddfed54e3039&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1268,6 +1324,39 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=fb24b89a-f87f-4a05-b34e-bb35601eca15&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        }
+      ]
+    },
+    {
+      "id": "ustv-536bce9a-2f3c-465d-9a85-79041802bdd9",
+      "tvgId": "",
+      "name": "HLN",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "News",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/hln-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/hln-us.png",
+      "genres": [
+        "News"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_HLN/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -1499,6 +1588,22 @@
       ]
     },
     {
+      "id": "ustv-99062293-9967-460e-9758-8604557c381a",
+      "tvgId": "",
+      "name": "ACC Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/acc-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/acc-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": []
+    },
+    {
       "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a",
       "tvgId": null,
       "name": "beIN Sports XTRA ",
@@ -1644,6 +1749,31 @@
       ]
     },
     {
+      "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436",
+      "tvgId": "",
+      "name": "Big Ten Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/big-ten-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/big-ten-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
       "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62",
       "tvgId": "",
       "name": "ESPN",
@@ -1721,14 +1851,6 @@
           },
           "name": "Audio",
           "description": "HV:CDN-5"
-        },
-        {
-          "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:158"
         },
         {
           "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
@@ -1881,6 +2003,14 @@
           },
           "name": "Audio",
           "description": "HV:CDN-5"
+        },
+        {
+          "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2255,7 +2385,16 @@
       "genres": [
         "Sports"
       ],
-      "streams": []
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
     },
     {
       "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9",
@@ -2274,6 +2413,14 @@
       "streams": [
         {
           "url": "https://tvsen6.aynaott.com/nfl/index.m3u8?e=1784102521&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b788fb69852f06155761f8a22c9676c4",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -2337,6 +2484,31 @@
           },
           "name": "FHD",
           "description": "HV:S2HOST5"
+        }
+      ]
+    },
+    {
+      "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f",
+      "tvgId": "",
+      "name": "SEC Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sec-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sec-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:23"
         }
       ]
     },
@@ -2780,6 +2952,14 @@
           },
           "name": "SD",
           "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:8083c0d8-4667-4dbe-be67-adffd9f530fb&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
         }
       ]
     },
@@ -3094,6 +3274,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951242&ads.xumo_streamId=99951242&ads.channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=095a0356-e6fd-43d1-908a-4bc1b73c54a6&ads._fw_vcid2=512116:095a0356-e6fd-43d1-908a-4bc1b73c54a6&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -3175,6 +3363,38 @@
           },
           "name": "SD",
           "description": "HV:DASH2"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_5STARMAX/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:23"
+        },
+        {
+          "url": "https://dash2.antik.sk/stream/hisi_cinemax/playlist_cbcs.mpd",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DASH2"
         }
       ]
     },
@@ -3232,6 +3452,55 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_CMT/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
+      "id": "ustv-65dacef4-2e0a-4a86-9963-21870425c42b",
+      "tvgId": "",
+      "name": "E! Entertainment Television",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/e-entertainment-television-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/e-entertainment-television-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": []
+    },
+    {
+      "id": "ustv-fd690365-5819-4319-9fa8-df82fe22933a",
+      "tvgId": "",
+      "name": "Freeform",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/freeform-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/freeform-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMDEiLCJjaGFpbiI6InIyIiwidHMiOjE3OTUzODk4NjYzODB9",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:CHUNK"
         }
       ]
     },
@@ -3290,6 +3559,31 @@
           },
           "name": "HD",
           "description": "HV:A-CDN"
+        }
+      ]
+    },
+    {
+      "id": "ustv-e7b5bea9-febf-4118-9f0b-86a5eafc5507",
+      "tvgId": "",
+      "name": "IFC",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/ifc-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/ifc-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_IFC/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -3523,6 +3817,30 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_ION/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:23"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=3e2672d7-5be3-4e8a-a3b2-cac7bffbea40&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=4627024f-90c2-4d0d-be1f-34563787ef8b&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_web_IONPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9999614&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -3751,6 +4069,14 @@
           },
           "name": "FHD",
           "description": "HV:GUARD"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -3864,6 +4190,14 @@
           },
           "name": "FHD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=95a0ac7a-4c61-4784-9da1-379bc047fa1f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -3889,6 +4223,31 @@
           },
           "name": "FHD",
           "description": "HV:92"
+        }
+      ]
+    },
+    {
+      "id": "ustv-061d6c0b-9786-4ff7-a483-f025d6765a2b",
+      "tvgId": "",
+      "name": "SYFY",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Entertainment",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/syfy-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/syfy-us.png",
+      "genres": [
+        "Entertainment"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_SYFY/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -4126,14 +4485,6 @@
           "description": "HV:158"
         },
         {
-          "url": "http://158.172.155.130:8000/play/a0at/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:158"
-        },
-        {
           "url": "http://205.235.6.29:8000/play/a104/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -4228,6 +4579,14 @@
           },
           "name": "HD",
           "description": "HV:MURSOR"
+        },
+        {
+          "url": "http://45.134.141.161:2200/ARG/TNT/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4379,6 +4738,56 @@
       ]
     },
     {
+      "id": "ustv-184d76a1-c8dd-45ea-b447-761e7639791a",
+      "tvgId": "",
+      "name": "Cooking Channel",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/cooking-channel-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/cooking-channel-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
+      "id": "ustv-fdd7d919-550f-4be5-b879-6654a5d66bfe",
+      "tvgId": "",
+      "name": "Destination America",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Lifestyle",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/destination-america-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/destination-america-us.png",
+      "genres": [
+        "Lifestyle"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
       "id": "ustv-70687cd8-11aa-4782-a303-eb43b01bb413",
       "tvgId": "",
       "name": "Food Network",
@@ -4432,6 +4841,14 @@
           },
           "name": "SD",
           "description": "HV:168"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -4628,6 +5045,14 @@
           },
           "name": "SD",
           "description": "HV:TOY"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -4847,6 +5272,14 @@
           },
           "name": "SD",
           "description": "HV:87"
+        },
+        {
+          "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -5321,6 +5754,31 @@
       ]
     },
     {
+      "id": "ustv-c6d77877-e2d9-48e4-8c7c-c659d1d1e8b1",
+      "tvgId": null,
+      "name": "American Heroes Channel",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Documentaries",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/american-heroes-channel-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/american-heroes-channel-us.png",
+      "genres": [
+        "Documentaries"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
       "id": "ustv-f60b61af-2484-4d52-956c-db6ba4a06d76",
       "tvgId": "",
       "name": "Animal Planet",
@@ -5390,6 +5848,14 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
         }
       ]
     },
@@ -5423,6 +5889,14 @@
           },
           "name": "SD",
           "description": "HV:DASH2"
+        },
+        {
+          "url": "http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:23"
         }
       ]
     },

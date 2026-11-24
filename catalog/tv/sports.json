@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "ustv-99062293-9967-460e-9758-8604557c381a",
+      "tvgId": "",
+      "name": "ACC Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/acc-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/acc-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": []
+    },
+    {
       "id": "ustv-533304f7-0832-4bc3-b27f-1c2369e8c11a",
       "tvgId": null,
       "name": "beIN Sports XTRA ",
@@ -146,6 +162,31 @@
       ]
     },
     {
+      "id": "ustv-0710a105-0285-4ad7-ad52-57b74b7b4436",
+      "tvgId": "",
+      "name": "Big Ten Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/big-ten-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/big-ten-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_BTN/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
+    },
+    {
       "id": "ustv-c9877c01-4a16-4361-a570-91de33741b62",
       "tvgId": "",
       "name": "ESPN",
@@ -223,14 +264,6 @@
           },
           "name": "Audio",
           "description": "HV:CDN-5"
-        },
-        {
-          "url": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "HD",
-          "description": "HV:158"
         },
         {
           "url": "http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8",
@@ -383,6 +416,14 @@
           },
           "name": "Audio",
           "description": "HV:CDN-5"
+        },
+        {
+          "url": "http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:45"
         }
       ]
     },
@@ -757,7 +798,16 @@
       "genres": [
         "Sports"
       ],
-      "streams": []
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_NBA/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:23"
+        }
+      ]
     },
     {
       "id": "ustv-0245f37e-6ee6-44d2-9c69-3b3bc4dc30b9",
@@ -776,6 +826,14 @@
       "streams": [
         {
           "url": "https://tvsen6.aynaott.com/nfl/index.m3u8?e=1784102521&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b788fb69852f06155761f8a22c9676c4",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TVSEN6"
+        },
+        {
+          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -839,6 +897,31 @@
           },
           "name": "FHD",
           "description": "HV:S2HOST5"
+        }
+      ]
+    },
+    {
+      "id": "ustv-2f81d453-b5cb-45a8-bbce-9d6f9d17c63f",
+      "tvgId": "",
+      "name": "SEC Network",
+      "country": "USA",
+      "countryCode": "us",
+      "genre": "Sports",
+      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/sec-network-us.png",
+      "time": null,
+      "type": "tv",
+      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/sec-network-us.png",
+      "genres": [
+        "Sports"
+      ],
+      "streams": [
+        {
+          "url": "http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:23"
         }
       ]
     },
