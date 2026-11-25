@@ -214,6 +214,22 @@
           },
           "name": "SD",
           "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:b744dd27-4752-4c3d-9281-2e0d671ebfca&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a059/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
         }
       ]
     },
@@ -482,6 +498,14 @@
         },
         {
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=690a1093-4694-4840-b6f4-e188ae42db8c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=e201cd78-16a0-428e-a8b8-41dc0a203f40&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -1009,6 +1033,30 @@
           },
           "name": "HD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951387&ads.xumo_streamId=99951387&ads.channelId=99951387&ads.channelName=WBDCNNOriginals&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads.genre=Entertainment&ads._fw_content_genre=Entertainment&ads._fw_coppa=0&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads.asnw=&ads.xumo_channelName=WBDCNNOriginals&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=1de5c175-af59-4322-aa95-6f3bfb781755&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a02e/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0yl/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
         }
       ]
     },
@@ -1178,6 +1226,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951559/hls/playlist.m3u8?ads.xumo_channelId=99951559&ads.xumo_streamId=99951559&ads.channelId=99951559&ads.channelName=LawCrimeCourtTV_us&ads.xumo_channelName=LawCrimeCourtTV&ads.caid=LawCrimeCourtTV&ads.csid=xumo_web_LawCrimeCourtTV_ssai&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_coppa=0&ads.xumo_contentId=4458&ads.xumo_contentName=LawCrimeCourtTV&ads.xumo_providerId=4458&ads.xumo_providerName=LawCrimeCourtTV&ads._fw_ifa_type=&ads._fw_did=6f24fecc-1660-4854-a7cc-fce3a5ae5071&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1327,6 +1383,14 @@
         },
         {
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=fb24b89a-f87f-4a05-b34e-bb35601eca15&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=6848806c-e343-4b38-9255-4f48734c37d8&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -1745,6 +1809,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387&ads.xumo_streamId=99991387&ads.channelId=99991387&ads.channelName=beINSports_us&ads.xumo_channelName=beINSports&ads.caid=beINSports&ads.csid=xumo_web_beINSports_ssai&ads.genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_content_genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_coppa=0&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads._fw_ifa_type=&ads._fw_did=f4bb4426-a3f8-4b3f-84b2-b1ba92af1f76&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -2011,6 +2083,270 @@
           },
           "name": "HD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:LILAC19"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a010/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a028/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a00v/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a00p/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a05o/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a04x/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a018/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01b/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0sd/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0pt/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02k/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02h/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/aa07/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a05x/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a05t/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a05y/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a11h/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0zv/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0zf/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05h/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05j/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05m/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05i/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05c/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a058/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a07q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a046/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a004/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a07r/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a006/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a005/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a002/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2108,6 +2444,54 @@
           },
           "name": "HD",
           "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a00u/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02c/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a11i/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05g/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a059/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a003/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2245,6 +2629,14 @@
           },
           "name": "SD",
           "description": "HV:SERVICE-STIT"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0kj/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
         }
       ]
     },
@@ -2352,6 +2744,46 @@
           },
           "name": "SD",
           "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a04q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0h1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a071/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0h1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a03b/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -2484,6 +2916,14 @@
           },
           "name": "FHD",
           "description": "HV:S2HOST5"
+        },
+        {
+          "url": "https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:A-CDN"
         }
       ]
     },
@@ -2658,6 +3098,14 @@
       "streams": [
         {
           "url": "http://45.167.1.138:8000/play/a03g",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a052/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -2960,6 +3408,78 @@
           },
           "name": "SD",
           "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:5f0436a4-0d95-43d8-8983-462f5d6a9c98&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a096/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0f7/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0qn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0gu/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a008/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0gu/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02m/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a033/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3282,6 +3802,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951242&ads.xumo_streamId=99951242&ads.channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=aa40fda2-eb1e-4b43-801d-29e241809c86&ads._fw_vcid2=512116:aa40fda2-eb1e-4b43-801d-29e241809c86&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -3323,14 +3851,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:38"
         },
         {
           "url": "http://158.172.217.18:8000/play/a002/index.m3u8",
@@ -3395,6 +3915,54 @@
           },
           "name": "SD",
           "description": "HV:DASH2"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a02f/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0mk/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a08n/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a08o/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0il/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a06q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -3529,6 +4097,14 @@
         },
         {
           "url": "http://45.167.1.138:8000/play/a02d",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a03z/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -3841,6 +4417,22 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=fdf616f0-9533-4ea7-b653-087700b59952&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=bc19dc37-39b6-4c4e-a75f-0c6934847ac9&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_web_IONPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9999614&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -3938,6 +4530,38 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a09i/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a057/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0gb/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02g/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4031,6 +4655,14 @@
         },
         {
           "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951466&ads.xumo_streamId=99951466&ads.channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=4b906aeb-70b7-439a-bac3-f8eedd828cdc&ads._fw_vcid2=512116:4b906aeb-70b7-439a-bac3-f8eedd828cdc&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951466&ads.xumo_streamId=99951466&ads.channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=e7e087a6-8ad5-40a3-bb5a-0b8eef4c1207&ads._fw_vcid2=512116:e7e087a6-8ad5-40a3-bb5a-0b8eef4c1207&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -4198,6 +4830,14 @@
           },
           "name": "FHD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=e9f6b03e-fe17-479b-a9fc-36e0984e636c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -4281,6 +4921,14 @@
           },
           "name": "SD",
           "description": "HV:158"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02e/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4354,6 +5002,38 @@
           },
           "name": "FHD",
           "description": "HV:181"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a07c/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0qw/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0jw/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a04e/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4587,6 +5267,158 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.78.79.131:8000/play/a0q9",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a020/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a00z/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a00x/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a06q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0lv/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0ls/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a056/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a05w/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0hu/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0km/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0yr/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0hu/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0g9/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0km/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a05l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02d/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a076/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4612,6 +5444,14 @@
           },
           "name": "SD",
           "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a029/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4849,6 +5689,30 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a09l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0om/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a080/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -4906,6 +5770,22 @@
           },
           "name": "SD",
           "description": "HV:I"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a061/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0mp/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
         }
       ]
     },
@@ -4971,6 +5851,46 @@
           },
           "name": "SD",
           "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a02k/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0mn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8001/play/a08f/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0hh/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a057/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -5053,6 +5973,22 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0g0/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0g0/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -5158,6 +6094,46 @@
           },
           "name": "SD",
           "description": "HV:BL"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a06i/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a085/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0py/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a08v/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a023/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -5266,19 +6242,35 @@
           "description": "HV:45"
         },
         {
-          "url": "http://87.120.179.187:8000/play/a010",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:87"
-        },
-        {
           "url": "http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a027/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a010/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0i8/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
           "description": "HV:45"
         }
       ]
@@ -5316,6 +6308,54 @@
         },
         {
           "url": "http://45.167.1.138:8000/play/a00z",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a02h/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a0dm/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0g1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0zj/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0g1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a026/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5403,6 +6443,30 @@
           },
           "name": "SD",
           "description": "HV:TVSEN5"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a07x/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0fz/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a024/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
         }
       ]
     },
@@ -5606,14 +6670,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "http://87.120.179.187:8000/play/a00x",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:87"
-        },
-        {
           "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071",
           "behaviorHints": {
             "notWebReady": true
@@ -5628,6 +6684,38 @@
           },
           "name": "SD",
           "description": "HV:VUVUU-GEIL-M"
+        },
+        {
+          "url": "http://181.78.79.131:8000/play/a0qm",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8001/play/a05z/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a05t/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a0bm/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
         }
       ]
     },
@@ -5725,6 +6813,14 @@
           },
           "name": "SD",
           "description": "HV:TVSEN5"
+        },
+        {
+          "url": "http://91.235.165.117:8001/play/a061/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
         }
       ]
     },
@@ -5856,6 +6952,62 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01w/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0lz/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0gq/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0yp/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0gq/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a055/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02z/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -5986,6 +7138,70 @@
           },
           "name": "SD",
           "description": "HV:DASH2"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01x/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0kn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a08q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0yq/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0kn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a054/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a077/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -6195,6 +7411,110 @@
           },
           "name": "SD",
           "description": "HV:SERVICE-STIT"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a05v/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01y/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0qh/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a01b/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02b/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a05c/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0gk/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0jp/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a056/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02s/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "https://amg01515-amg01515c89-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01515-amg01515c89-amgplt0023/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01515-AMG"
         }
       ]
     },
@@ -6220,14 +7540,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:38"
         },
         {
           "url": "https://wbd.skandha.tv/Investigation_Discovery_India_HD/Investigation_Discovery_India_HD.isml/.mpd",
@@ -6304,6 +7616,14 @@
         },
         {
           "url": "http://45.167.1.138:8000/play/a019",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02f/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },

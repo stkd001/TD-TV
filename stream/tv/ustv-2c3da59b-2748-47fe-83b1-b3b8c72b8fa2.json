@@ -9,6 +9,14 @@
       "description": "🔴 LIVE • TD-TV\nHV:138"
     },
     {
+      "url": "http://181.119.215.61:8000/play/a0kj/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:181"
+    },
+    {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=ff8bf6fa-b224-462a-b4c0-f85e3fcc202f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=64d0cf09-50b7-4729-a153-cd6cb08cf340&userId=&serverSideAds=true",
       "behaviorHints": {
         "notWebReady": true
@@ -34,14 +42,6 @@
     },
     {
       "url": "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
-    },
-    {
-      "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },

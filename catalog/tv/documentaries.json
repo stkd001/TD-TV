@@ -103,6 +103,62 @@
           },
           "name": "FHD",
           "description": "HV:23"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01w/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0lz/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0gq/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0yp/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0gq/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a055/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02z/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -233,6 +289,70 @@
           },
           "name": "SD",
           "description": "HV:DASH2"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01x/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0m0/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0kn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://91.235.165.117:8002/play/a08q/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:91"
+        },
+        {
+          "url": "http://205.235.6.29:8000/play/a0yq/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:205"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0kn/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a054/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a077/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
         }
       ]
     },
@@ -442,6 +562,110 @@
           },
           "name": "SD",
           "description": "HV:SERVICE-STIT"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a05v/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://38.190.100.202:8000/play/a01y/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:38"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0qh/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.255.210:8001/play/a0m1/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a01b/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02b/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a05c/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.119.215.61:8000/play/a0gk/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a05l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.9:8000/play/a0jp/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a056/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02s/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:45"
+        },
+        {
+          "url": "https://amg01515-amg01515c89-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01515-amg01515c89-amgplt0023/playlist.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:AMG01515-AMG"
         }
       ]
     },
@@ -467,14 +691,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:38"
         },
         {
           "url": "https://wbd.skandha.tv/Investigation_Discovery_India_HD/Investigation_Discovery_India_HD.isml/.mpd",
@@ -551,6 +767,14 @@
         },
         {
           "url": "http://45.167.1.138:8000/play/a019",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:45"
+        },
+        {
+          "url": "http://45.228.234.62:8000/play/a02f/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
           },

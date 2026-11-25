@@ -41,12 +41,12 @@
       "description": "🔴 LIVE • TD-TV\nHV:STREAMING"
     },
     {
-      "url": "https://jmp2.uk/stvp-AT3000006M1",
+      "url": "http://38.190.100.202:8000/play/a096/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
-      "name": "☀️ 720P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:38"
     }
   ]
 }
