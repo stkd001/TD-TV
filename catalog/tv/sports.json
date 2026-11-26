@@ -166,6 +166,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387&ads.xumo_streamId=99991387&ads.channelId=99991387&ads.channelName=beINSports_us&ads.xumo_channelName=beINSports&ads.caid=beINSports&ads.csid=xumo_web_beINSports_ssai&ads.genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_content_genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_coppa=0&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads._fw_ifa_type=&ads._fw_did=6e73621a-a6f3-4d41-91d3-097e9fbbdedb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -394,22 +402,6 @@
           "description": "HV:45"
         },
         {
-          "url": "https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:TVSEN5"
-        },
-        {
-          "url": "https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:TVSEN5"
-        },
-        {
           "url": "http://181.78.211.244:8005/play/a08q/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -432,14 +424,6 @@
           },
           "name": "HD",
           "description": "HV:45"
-        },
-        {
-          "url": "https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:LILAC19"
         },
         {
           "url": "http://38.190.100.202:8000/play/a010/index.m3u8",
@@ -696,6 +680,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02o/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
         }
       ]
     },
@@ -884,14 +884,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:138"
-        },
-        {
           "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -1055,22 +1047,6 @@
       ],
       "streams": [
         {
-          "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1784102520&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b1b12d40a9966b3fbfc1653626e09f42",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
           "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -1085,14 +1061,6 @@
           },
           "name": "FHD",
           "description": "HV:45"
-        },
-        {
-          "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:181"
         },
         {
           "url": "http://181.119.215.61:8000/play/a04q/index.m3u8",
@@ -1191,24 +1159,7 @@
       "genres": [
         "Sports"
       ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8?e=1784102521&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b788fb69852f06155761f8a22c9676c4",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        }
-      ]
+      "streams": []
     },
     {
       "id": "ustv-7e6eda02-4d13-4ff0-a087-c0cf5d368e0f",

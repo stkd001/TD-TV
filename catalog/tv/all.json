@@ -230,6 +230,14 @@
           },
           "name": "SD",
           "description": "HV:181"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951298&ads.xumo_streamId=99951298&ads.channelId=99951298&ads.channelName=amcbbcnews_us&ads.csid=xumo_web_AMCBBCNews_ssai&ads._fw_coppa=0&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads.xumo_contentId=4023&ads.xumo_contentName=AMCBBCNews&ads.xumo_providerId=4023&ads.xumo_providerName=AMCBBCNews&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:01ea894f-9e87-43ad-a084-95e25250e8e0&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
         }
       ]
     },
@@ -506,6 +514,14 @@
         },
         {
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=e201cd78-16a0-428e-a8b8-41dc0a203f40&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951533/hls/index.m3u8?includeAssetTags=true&ads.xumo_channelId=99951533&ads.xumo_streamId=99951533&ads.channelId=99951533&ads.channelName=Bloomberg&ads.caid=Bloomberg&ads.csid=xumo_web_Bloomberg_ssai&ads.genre=News,N&ads._fw_content_genre=News,N&ads._fw_coppa=0&ads.xumo_contentId=39&ads.xumo_contentName=Bloomberg&ads.xumo_providerId=39&ads.xumo_providerName=Bloomberg&ads.asnw=&ads.xumo_channelName=Bloomberg&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=d8a13ca1-8738-4cd7-b693-7bd8555cbc6f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -1057,6 +1073,14 @@
           },
           "name": "SD",
           "description": "HV:205"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951387/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951387&ads.xumo_streamId=99951387&ads.channelId=99951387&ads.channelName=WBDCNNOriginals&ads.caid=WBDCNNOriginals&ads.csid=xumo_web_WBDCNNOriginals_ssai&ads.genre=Entertainment&ads._fw_content_genre=Entertainment&ads._fw_coppa=0&ads.xumo_contentId=4194&ads.xumo_contentName=WBDCNNOriginals&ads.xumo_providerId=4194&ads.xumo_providerName=WBDCNNOriginals&ads.asnw=&ads.xumo_channelName=WBDCNNOriginals&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=03cac611-6f30-4563-be5d-a174e9f4e536&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1234,6 +1258,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951559/hls/playlist.m3u8?ads.xumo_channelId=99951559&ads.xumo_streamId=99951559&ads.channelId=99951559&ads.channelName=LawCrimeCourtTV_us&ads.xumo_channelName=LawCrimeCourtTV&ads.caid=LawCrimeCourtTV&ads.csid=xumo_web_LawCrimeCourtTV_ssai&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM,News,Reality-TV,N,DN,OP,IAB11,IAB12,IAB14&ads._fw_coppa=0&ads.xumo_contentId=4458&ads.xumo_contentName=LawCrimeCourtTV&ads.xumo_providerId=4458&ads.xumo_providerName=LawCrimeCourtTV&ads._fw_ifa_type=&ads._fw_did=8c329c49-e4b3-4943-bcd6-ef0e3cf9af9f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1251,16 +1283,7 @@
       "genres": [
         "News"
       ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/foxnews/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        }
-      ]
+      "streams": []
     },
     {
       "id": "ustv-981759cb-046d-4bbd-8f46-319a6b3d654b",
@@ -1396,6 +1419,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694&ads._fw_ifa_type=&ads._fw_did=d822313f-ace0-4b5e-9b89-768fa4d03848&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=516429&ads.afid=436342382&ads.caid=FoxWeather&ads.csid=xumo_web_FoxWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3440&ads.xumo_contentName=FoxWeather&ads.xumo_providerId=3440&ads.xumo_providerName=FoxWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991694&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1421,31 +1452,6 @@
           },
           "name": "FHD",
           "description": "HV:23"
-        }
-      ]
-    },
-    {
-      "id": "ustv-758c5103-3ae7-481b-b06a-105367095900",
-      "tvgId": "",
-      "name": "MSNBC",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "News",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/msnbc-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/msnbc-us.png",
-      "genres": [
-        "News"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1784102541&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=68093cc976c69de22a5f01b8034edf41",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
         }
       ]
     },
@@ -1817,6 +1823,14 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991387/hls/playlist.m3u8?ads.xumo_channelId=99991387&ads.xumo_streamId=99991387&ads.channelId=99991387&ads.channelName=beINSports_us&ads.xumo_channelName=beINSports&ads.caid=beINSports&ads.csid=xumo_web_beINSports_ssai&ads.genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_content_genre=Sport,Sports,SC,SE,SN,IAB17&ads._fw_coppa=0&ads.xumo_contentId=1832&ads.xumo_contentName=beINSports&ads.xumo_providerId=1832&ads.xumo_providerName=beINSports&ads._fw_ifa_type=&ads._fw_did=6e73621a-a6f3-4d41-91d3-097e9fbbdedb&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -2045,22 +2059,6 @@
           "description": "HV:45"
         },
         {
-          "url": "https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:TVSEN5"
-        },
-        {
-          "url": "https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102653&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=fbc560646ea38d9fce118fcd264926c5",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "Audio",
-          "description": "HV:TVSEN5"
-        },
-        {
           "url": "http://181.78.211.244:8005/play/a08q/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -2083,14 +2081,6 @@
           },
           "name": "HD",
           "description": "HV:45"
-        },
-        {
-          "url": "https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:LILAC19"
         },
         {
           "url": "http://38.190.100.202:8000/play/a010/index.m3u8",
@@ -2347,6 +2337,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02o/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a02l/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "HD",
+          "description": "HV:181"
         }
       ]
     },
@@ -2535,14 +2541,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:138"
-        },
-        {
           "url": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -2706,22 +2704,6 @@
       ],
       "streams": [
         {
-          "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8?e=1784102520&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b1b12d40a9966b3fbfc1653626e09f42",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
           "url": "https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -2736,14 +2718,6 @@
           },
           "name": "FHD",
           "description": "HV:45"
-        },
-        {
-          "url": "http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:181"
         },
         {
           "url": "http://181.119.215.61:8000/play/a04q/index.m3u8",
@@ -2842,24 +2816,7 @@
       "genres": [
         "Sports"
       ],
-      "streams": [
-        {
-          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8?e=1784102521&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b788fb69852f06155761f8a22c9676c4",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/nfl/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        }
-      ]
+      "streams": []
     },
     {
       "id": "ustv-7e6eda02-4d13-4ff0-a087-c0cf5d368e0f",
@@ -3146,14 +3103,6 @@
           "description": "HV:AMC-AMCPRESE"
         },
         {
-          "url": "http://141.94.193.53:80/AMC_HD/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:141"
-        },
-        {
           "url": "https://jmp2.uk/plu-682456eb31bbd3e002d8c06b.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -3248,14 +3197,6 @@
           },
           "name": "SD",
           "description": "HV:AMC-ABSOLUTE"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/amc/index.m3u8?e=1784102611&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ea6c08b4d5db4f78b5d801f40610e3e0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
         },
         {
           "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:ea1e337d-3ef4-48e5-81c9-a55e4060e4da&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
@@ -3480,6 +3421,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://tv123.cc.cd/live.php?ch=2984&sid=96db8c086d32b6099968550827aadbd1&exp=1795641791&sig=c4ffc11587a47c9fc368a29564b51a93cd09c700fa334adfe0920a42756a5592$IPV4",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TV123"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:78a8920c-b5a8-41bf-9ae5-1be9d704f1a8&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
         }
       ]
     },
@@ -3810,6 +3767,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951242&ads.xumo_streamId=99951242&ads.channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=995dc9fd-459e-45dd-8e38-7f73b218d053&ads._fw_vcid2=512116:995dc9fd-459e-45dd-8e38-7f73b218d053&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -3963,6 +3928,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
         }
       ]
     },
@@ -4433,6 +4406,22 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=01d25481-1415-4d2c-b258-dff789098dba&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=5acc2a95-94f5-44dd-846e-7327cfa04813&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_web_IONPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9999614&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -4668,6 +4657,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951466&ads.xumo_streamId=99951466&ads.channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=9c854eaa-ba26-4382-9362-d436a64747cf&ads._fw_vcid2=512116:9c854eaa-ba26-4382-9362-d436a64747cf&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -4833,6 +4830,14 @@
         },
         {
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=e9f6b03e-fe17-479b-a9fc-36e0984e636c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=31de0a66-cee6-418d-ba56-c392fc0886be&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
           "behaviorHints": {
             "notWebReady": true
           },
@@ -5659,14 +5664,6 @@
           "description": "HV:88"
         },
         {
-          "url": "https://tvsen6.aynaott.com/foodnetwork/index.m3u8?e=1784102622&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=dabd0667017770543635be4bb1f63c22",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
           "url": "http://45.167.1.138:8000/play/a04d",
           "behaviorHints": {
             "notWebReady": true
@@ -5713,6 +5710,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://s7.merlive.am/FoodNetwork/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:S7"
         }
       ]
     },
@@ -5829,28 +5834,12 @@
           "description": "HV:158"
         },
         {
-          "url": "https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1784102621&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=032b2c039214b5eb81d1d06aac66a512",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
-        },
-        {
           "url": "http://45.167.1.138:8000/play/a03k",
           "behaviorHints": {
             "notWebReady": true
           },
           "name": "SD",
           "description": "HV:45"
-        },
-        {
-          "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:38"
         },
         {
           "url": "http://38.190.100.202:8000/play/a02k/index.m3u8",
@@ -5924,14 +5913,6 @@
           },
           "name": "FHD",
           "description": "HV:88"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1784102608&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=2d204479cea4c71c2290102ae4d75ea1",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
         }
       ]
     },
@@ -6080,14 +6061,6 @@
           "description": "HV:176"
         },
         {
-          "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
-        },
-        {
           "url": "https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https",
           "behaviorHints": {
             "notWebReady": true
@@ -6134,31 +6107,6 @@
           },
           "name": "SD",
           "description": "HV:45"
-        }
-      ]
-    },
-    {
-      "id": "ustv-f4ce7266-386e-4563-872e-21576026999a",
-      "tvgId": "",
-      "name": "Discovery Family",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/discovery-family-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-family-us.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -6435,14 +6383,6 @@
           },
           "name": "SD",
           "description": "HV:45"
-        },
-        {
-          "url": "https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
         },
         {
           "url": "http://38.190.100.202:8000/play/a07x/index.m3u8",
@@ -6807,14 +6747,6 @@
           "description": "HV:JMP2"
         },
         {
-          "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
-        },
-        {
           "url": "http://91.235.165.117:8001/play/a061/index.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -7008,6 +6940,14 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a00r/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:181"
         }
       ]
     },
@@ -7202,6 +7142,14 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://181.224.200.5:2277/play/a00t/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:181"
         }
       ]
     },
@@ -7515,6 +7463,14 @@
           },
           "name": "SD",
           "description": "HV:AMG01515-AMG"
+        },
+        {
+          "url": "http://91.235.165.117:8001/play/a08t/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:91"
         }
       ]
     },

@@ -65,14 +65,6 @@
           "description": "HV:AMC-AMCPRESE"
         },
         {
-          "url": "http://141.94.193.53:80/AMC_HD/index.m3u8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "FHD",
-          "description": "HV:141"
-        },
-        {
           "url": "https://jmp2.uk/plu-682456eb31bbd3e002d8c06b.m3u8",
           "behaviorHints": {
             "notWebReady": true
@@ -167,14 +159,6 @@
           },
           "name": "SD",
           "description": "HV:AMC-ABSOLUTE"
-        },
-        {
-          "url": "https://tvsen6.aynaott.com/amc/index.m3u8?e=1784102611&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ea6c08b4d5db4f78b5d801f40610e3e0",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN6"
         },
         {
           "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:ea1e337d-3ef4-48e5-81c9-a55e4060e4da&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
@@ -399,6 +383,22 @@
           },
           "name": "FHD",
           "description": "HV:45"
+        },
+        {
+          "url": "https://tv123.cc.cd/live.php?ch=2984&sid=96db8c086d32b6099968550827aadbd1&exp=1795641791&sig=c4ffc11587a47c9fc368a29564b51a93cd09c700fa334adfe0920a42756a5592$IPV4",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:TV123"
+        },
+        {
+          "url": "https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951377&ads.xumo_streamId=99951377&ads.channelId=99951377&ads.channelName=&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_coppa=0&ads._fw_content_genre=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=:78a8920c-b5a8-41bf-9ae5-1be9d704f1a8&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceType=3-Connected_TV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_ifa_type=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D3PXO1QCGZXT"
         }
       ]
     },
@@ -729,6 +729,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951242/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951242&ads.xumo_streamId=99951242&ads.channelId=99951242&ads.asnw=169843&ads.afid=380682251&ads.sfid=19194677&ads.csid=xumo_web_NBCUBravoVault_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=3934&ads.xumo_contentName=NBCUBravoVault&ads.xumo_providerId=3934&ads.xumo_providerName=NBCUBravoVault&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=995dc9fd-459e-45dd-8e38-7f73b218d053&ads._fw_vcid2=512116:995dc9fd-459e-45dd-8e38-7f73b218d053&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -882,6 +890,14 @@
           },
           "name": "SD",
           "description": "HV:45"
+        },
+        {
+          "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:38"
         }
       ]
     },
@@ -1352,6 +1368,22 @@
           },
           "name": "SD",
           "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951158&ads.xumo_streamId=99951158&ads.channelId=99951158&ads.channelName=ScrippsION&ads.caid=ScrippsION&ads.csid=xumo_web_ScrippsION_ssai&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_coppa=0&ads.xumo_contentId=3766&ads.xumo_contentName=ScrippsION&ads.xumo_providerId=3766&ads.xumo_providerName=ScrippsION&ads.asnw=&ads.xumo_channelName=ScrippsION&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=01d25481-1415-4d2c-b258-dff789098dba&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614&ads._fw_ifa_type=&ads._fw_did=5acc2a95-94f5-44dd-846e-7327cfa04813&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=IONPlus&ads.csid=xumo_web_IONPlus_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=&ads.xumo_contentId=3439&ads.xumo_contentName=IONPlus&ads.xumo_providerId=3439&ads.xumo_providerName=IONPlus&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9999614&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:DBRB49PJOYMG"
         }
       ]
     },
@@ -1587,6 +1619,14 @@
           },
           "name": "SD",
           "description": "HV:D4WHMVWM0RDV"
+        },
+        {
+          "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951466&ads.xumo_streamId=99951466&ads.channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=9c854eaa-ba26-4382-9362-d436a64747cf&ads._fw_vcid2=512116:9c854eaa-ba26-4382-9362-d436a64747cf&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "SD",
+          "description": "HV:D4WHMVWM0RDV"
         }
       ]
     },
@@ -1752,6 +1792,14 @@
         },
         {
           "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=e9f6b03e-fe17-479b-a9fc-36e0984e636c&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
+          "behaviorHints": {
+            "notWebReady": true
+          },
+          "name": "FHD",
+          "description": "HV:DBRB49PJOYMG"
+        },
+        {
+          "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99991368/hls/playlist.m3u8?ads.xumo_channelId=99991368&ads._fw_ifa_type=&ads._fw_did=31de0a66-cee6-418d-ba56-c392fc0886be&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ReelzChannelNEW&ads.csid=xumo_web_ReelzChannelNEW_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Documentary,Crime,DO,Entertainment,GV,SM&ads._fw_content_rating=&ads.xumo_contentId=3893&ads.xumo_contentName=ReelzChannelNEW&ads.xumo_providerId=3893&ads.xumo_providerName=ReelzChannelNEW&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991368&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=",
           "behaviorHints": {
             "notWebReady": true
           },

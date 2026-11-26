@@ -145,14 +145,6 @@
           "description": "HV:176"
         },
         {
-          "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
-        },
-        {
           "url": "https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=SBAsUrxODR6nk6ktHKTpoQ&e=2090795468&scheme=https",
           "behaviorHints": {
             "notWebReady": true
@@ -199,31 +191,6 @@
           },
           "name": "SD",
           "description": "HV:45"
-        }
-      ]
-    },
-    {
-      "id": "ustv-f4ce7266-386e-4563-872e-21576026999a",
-      "tvgId": "",
-      "name": "Discovery Family",
-      "country": "USA",
-      "countryCode": "us",
-      "genre": "Kids",
-      "logo": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/logos/usa/discovery-family-us.png",
-      "time": null,
-      "type": "tv",
-      "poster": "https://raw.githubusercontent.com/yowmamasita/usa-tv-next/main/public/posters/usa/discovery-family-us.png",
-      "genres": [
-        "Kids"
-      ],
-      "streams": [
-        {
-          "url": "https://tvsen5.aynaott.com/discoveryfamily/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=7551ec4daacd3d773ab2a992615f1f6c",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
         }
       ]
     },
@@ -500,14 +467,6 @@
           },
           "name": "SD",
           "description": "HV:45"
-        },
-        {
-          "url": "https://tvsen5.aynaott.com/nickjr/index.m3u8?e=1784102581&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1a9cf0bc5e79f08de29d345545216d31",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
         },
         {
           "url": "http://38.190.100.202:8000/play/a07x/index.m3u8",
@@ -870,14 +829,6 @@
           },
           "name": "SD",
           "description": "HV:JMP2"
-        },
-        {
-          "url": "https://tvsen5.aynaott.com/nicktoons/index.m3u8?e=1784102580&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8eaa14af29c832e9b2b22399a5dfd762",
-          "behaviorHints": {
-            "notWebReady": true
-          },
-          "name": "SD",
-          "description": "HV:TVSEN5"
         },
         {
           "url": "http://91.235.165.117:8001/play/a061/index.m3u8",

@@ -1,14 +1,6 @@
 {
   "streams": [
     {
-      "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ 1080P Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:138"
-    },
-    {
       "url": "http://181.119.215.61:8000/play/a0kj/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
@@ -42,6 +34,14 @@
     },
     {
       "url": "https://jmp2.uk/rok-0fc01f1136055d89bae495ba92eff445.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
+    },
+    {
+      "url": "https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
