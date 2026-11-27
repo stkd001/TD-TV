@@ -33,20 +33,20 @@
       "description": "🔴 LIVE • TD-TV\nHV:38"
     },
     {
+      "url": "http://s7.merlive.am/CartoonNetwork/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:S7"
+    },
+    {
       "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
       "behaviorHints": {
         "notWebReady": true
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:158"
-    },
-    {
-      "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:45"
     }
   ]
 }
