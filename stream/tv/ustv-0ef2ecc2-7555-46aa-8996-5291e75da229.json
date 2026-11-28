@@ -17,6 +17,14 @@
       "description": "🔴 LIVE • TD-TV\nHV:CDN-UW2-PROD"
     },
     {
+      "url": "https://s11host3.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/playlist.m3u8?ads.cdnhost=s11host3.localnow.api.cms.amdvids.com&ads.playbackid=EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396&ads.n1=rule_id&ads.v1=3DD25AFA-F895-4BAA-9D6D-089AAD5E7187-1781621125&ads.n3=qp_content_id&ads.v3=EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396&ads.n4=content_name&ads.v4=Court%20TV%20Legendary%20Trials&ads.n21=content_livestream&ads.v21=1&ads.n22=ua&ads.v22=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n23=device_type&ads.v23=&ads.n24=content_type&ads.v24=channel&ads.n25=us_privacy&ads.v25=1NYY&ads.n26=content_custom_3_param&ads.v26=channel&ads.n27=ip&ads.v27=187.14.239.54&ads.n28=app_store_url&ads.v28=&ads.n29=channel_id&ads.v29=EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396&ads.n30=channel_brand_id&ads.v30=AMDB013708&ads.n31=cust_devicename&ads.v31=desktop_web&ads.n32=network_name&ads.v32=court-tv-legendary-trials&ads.n33=w&ads.v33=1920&ads.n34=app_name&ads.v34=&ads.n35=channel_ext_id&ads.v35=&ads.n36=ifa_type&ads.v36=&ads.n37=channel_name&ads.v37=Court%20TV%20Legendary%20Trials&ads.n38=channel_rating&ads.v38=TV-PG&ads.n39=app_version&ads.v39=0.0.0&ads.n40=channel_language&ads.v40=en&ads.n41=channel_company_id&ads.v41=AMDP500140&ads.n42=content_custom_1_param&ads.v42=EE5C8C56-77A4-4D7D-BF0E-FAED2AC0F396&ads.n43=content_producer_name&ads.v43=LawNewz%20INC%20dba%20Law%20&%20Crime&ads.n44=device_make&ads.v44=&ads.n45=did&ads.v45=&ads.n46=content_custom_2_param&ads.v46=AMDB013708&ads.n47=content_provider&ads.v47=court-tv-legendary-trials&ads.n48=app_bundle&ads.v48=&ads.n49=channel_genre&ads.v49=True%20Crime&ads.n50=gpp&ads.v50=&ads.n51=channel_title&ads.v51=Court%20TV%20Legendary%20Trials&ads.n52=url&ads.v52=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n53=pos&ads.v53=midroll&ads.n54=gpp_sid&ads.v54=&ads.n55=dnt&ads.v55=&ads.n56=h&ads.v56=1080&ads.n57=channel_corp&ads.v57=LawNewz%20INC%20dba%20Law%20&%20Crime&ads.n58=device_model&ads.v58=",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ 1080P Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:S11HOST3"
+    },
+    {
       "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=54eca2db-e2ab-4b4d-b6b1-c020f97fbab3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=634d2911-8432-4598-8381-7d87caf39c8c&userId=&serverSideAds=true",
       "behaviorHints": {
         "notWebReady": true
@@ -39,14 +47,6 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DBRB49PJOYMG"
-    },
-    {
-      "url": "https://jmp2.uk/plu-5dae0b4841a7d0000938ddbd.m3u8",
-      "behaviorHints": {
-        "notWebReady": true
-      },
-      "name": "☀️ SD Sunroom",
-      "description": "🔴 LIVE • TD-TV\nHV:JMP2"
     }
   ]
 }

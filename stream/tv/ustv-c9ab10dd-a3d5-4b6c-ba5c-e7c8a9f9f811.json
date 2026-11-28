@@ -31,6 +31,14 @@
       },
       "name": "☀️ SD Sunroom",
       "description": "🔴 LIVE • TD-TV\nHV:DASH2"
+    },
+    {
+      "url": "http://185.227.34.179:8080/ci_polsat_hd/index.m3u8",
+      "behaviorHints": {
+        "notWebReady": true
+      },
+      "name": "☀️ SD Sunroom",
+      "description": "🔴 LIVE • TD-TV\nHV:185"
     }
   ]
 }
